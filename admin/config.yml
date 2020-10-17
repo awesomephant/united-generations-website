@@ -1,0 +1,27 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "/assets/uploads"
+collections:
+  - name: "settings"
+    label: "Settings"
+    files:
+      - file: "_data/settings.json"
+        name: "settings"
+        label: "Site Settings"
+        fields:
+          - label: "Site Title"
+            name: "site_title"
+            widget: "string"
+          - label: "Site Description"
+            name: "site_description"
+            widget: "string"
+            hint: "This is displayed in the header, search results and social media cards."
+      - file: "_data/home.json"
+        name: "home"
+        label: "Home"
+        fields:
+          - label: "Copy"
+            name: "content"
+            widget: "markdown"
+            buttons: [bold, italic, link, heading-two, bulleted-list]

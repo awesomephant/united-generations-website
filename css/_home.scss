@@ -1,0 +1,49 @@
+.home-hero {
+  grid-column: 1 / 15;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background: url(/assets/uploads/hills@1500w.jpg);
+  background-size: cover;
+  margin-bottom: var(--padding);
+  background-repeat: no-repeat;
+  h1 {
+    font-family: serif;
+    font-size: var(--ms-5);
+    display: block;
+    line-height: 0.98;
+    margin-bottom: 2rem;
+    text-shadow: 0 0 12px rgba(black, .5);
+    @include bp(m) {
+      font-size: var(--ms-8);
+    }
+  }
+  span {
+    display: block;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+}
+.home-copy {
+  grid-column: 2 / 14;
+  padding-bottom: 2rem;
+  color: gray;
+  font-size: var(--ms--1);
+  @include bp(m) {
+    font-size: var(--ms-0);
+  }
+
+  h2 {
+    color: white;
+    font-size: var(--ms-2);
+    @include bp(m) {
+      font-size: var(--ms-4);
+    }
+    margin-bottom: 1em;
+    line-height: 1.1;
+  }
+}

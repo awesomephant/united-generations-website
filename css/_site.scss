@@ -1,0 +1,17 @@
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  padding: 0.5rem var(--padding);
+  width: 100%;
+  justify-content: space-between;
+  background: black;
+  button {
+    appearance: none;
+    background: none;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border: 0;
+  }
+}

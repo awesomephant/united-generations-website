@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{settings.site_title}}</title>
+  <link rel="shortcut icon" href='{{"/assets/favicon.ico" | url }}'>
+  <meta name="theme-color" content="#fcf8d3">
+  <link rel="stylesheet" href=" {{'/css/style.css' | url}}">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
+<body class='{{class}}'>
+  <header class="site-header">
+    <button>Menu</button>
+    <button>News</button>
+  </header>
+  {{ content | safe }}
+  <script src="{{'/dist/main.js' | url}}"></script>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</body>
+
+</html>
