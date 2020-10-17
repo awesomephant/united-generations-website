@@ -2,12 +2,24 @@
   "content": "## The United Generations is a social enterprise aimed at developing local and sustainable strategies to empower the older population and bridge the gap among generations through education, art, and design.\nFor more information: [info@theuntedgenerations.com](mailto:info@theuntedgenerations.com)",
   "hero_images": [
     {
-      "url": "/assets/uploads/hills.jpg",
-      "alt": "Alt goes here"
+      "url": "/assets/uploads/2000x1125px6_web.jpg",
+      "alt": "Perspective coloured pencil and oil stick hand drawing representing a yellow grass field with vibrant green trees and red flowers populated by chickens, sheep, horses, and young and old people of different ethnicities interacting in front of modern white buildings.\n"
     },
     {
-      "url": "/assets/uploads/1920x1234px.jpg",
-      "alt": "Alt goes here"
+      "url": "/assets/uploads/2000x1125px_01web.jpg",
+      "alt": "Perspective coloured pencil and oil stick hand drawing representing two people of different ethnicities sitting on a wooden bench with a cat and dog in front of their houses underneath a yellow arched roof with solar panels."
+    },
+    {
+      "url": "/assets/uploads/2000x1125px3_web.jpg",
+      "alt": "Perspective coloured pencil and oil stick hand drawing representing people of different ethnicities washing hands and feet inside circular terracotta pools in front of arched windows looking to a field with a water pond and vegetation."
+    },
+    {
+      "url": "/assets/uploads/2000x1125px_web.jpg",
+      "alt": "Perspective coloured pencil and oil stick hand drawing representing a family of different ethnicities with cats, dogs and birds eating around a wooden table across two rooms divided by a blue wall and aluminum foldable doors."
+    },
+    {
+      "url": "/assets/uploads/2000x1125_web.jpg",
+      "alt": "Perspective coloured pencil and oil stick hand drawing representing a view of a theater through a red arched window showing a stage with a tree and a character illuminated by a white beam and wooden seatings with people from various ethnicities and animals watching the show underneath a blue curved ceiling. "
     }
   ]
 }
