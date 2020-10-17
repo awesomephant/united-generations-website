@@ -59,6 +59,10 @@
   height: 100%;
   padding-top: 20%;
   padding-bottom: 30%;
+  @include bp(m){
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
 }
 
 .hero-slides {
