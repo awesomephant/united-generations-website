@@ -24,7 +24,7 @@
     transform: translateX(0);
   }
   to {
-    transform: translateX(-100%);
+    transform: translateX(calc((var(--slide-count) - 1) / var(--slide-count) * -100%));
   }
 }
 

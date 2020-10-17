@@ -19,6 +19,7 @@
     bottom: 0;
     right: 0;
     z-index: 50;
+    pointer-events: none;
   }
   h1 {
     font-family: serif;
@@ -50,23 +51,27 @@
   }
 }
 
+.hero-copy {
+    position: absolute;
+}
+
 .hero-slides {
-  position: absolute;
   top: 0;
   left: 0;
   height: 100vh;
   width: 100%;
-  display: flex;
-  justify-content: flex-start;
   margin-bottom: var(--padding);
-  animation: slide 60s linear infinite both;
+  overflow: hidden;
+  display: flex;
+  animation: slide 60s infinite both linear;
   .slide {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    flex-basis: 100%;
-    flex-shrink: 0;
+    flex-basis: 100vw;  
+    display: inline-block;
     height: 100vh;
+    opacity: 0.7;
   }
 }
 
