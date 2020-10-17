@@ -25,3 +25,15 @@ collections:
             name: "content"
             widget: "markdown"
             buttons: [bold, italic, link, heading-two, bulleted-list]
+          - label: "Hero Images"
+            name: "hero_images"
+            widget: "list"
+            summary: "{{fields.url}}"
+            fields:
+            - label: Image
+              name: url
+              widget: "image"
+            - label: "Description"
+              name: "alt"
+              widget: "text"
+              hint: "You can add a description to your media items so they’re accessible to more people, including those who are blind or visually impaired. Good descriptions are concise, but present what’s in your photos accurately enough to understand their context."
