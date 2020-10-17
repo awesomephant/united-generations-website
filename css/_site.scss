@@ -21,3 +21,10 @@
     border: 0;
   }
 }
+
+.site-footer {
+    grid-column: 2 / 14;
+    padding-bottom: 2rem;
+    color: gray;
+    font-size: var(--ms--1);
+}

@@ -20,6 +20,9 @@
     <button>News</button>
   </header>
   {{ content | safe }}
+  <footer class="site-footer">
+    ©{{"now" | date: "%Y"}}
+  </footer>
   <script src="{{'/dist/main.js' | url}}"></script>
   <script>
     if (window.netlifyIdentity) {

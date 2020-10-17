@@ -52,7 +52,7 @@
 }
 
 .hero-copy {
-    position: absolute;
+  position: absolute;
 }
 
 .hero-slides {
@@ -60,7 +60,6 @@
   left: 0;
   height: 100vh;
   width: 100%;
-  margin-bottom: var(--padding);
   overflow: hidden;
   display: flex;
   animation: slide 60s infinite both linear;
@@ -68,7 +67,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    flex-basis: 100vw;  
+    flex-basis: 100vw;
     display: inline-block;
     height: 100vh;
     opacity: 0.7;
@@ -82,16 +81,15 @@
   font-size: var(--ms-0);
   padding-top: 1em;
   @include bp(m) {
-    font-size: var(--ms-1);
+    display: flex;
+    color: white;
   }
 
   h2 {
     color: white;
     font-size: var(--ms-2);
-    @include bp(m) {
-      font-size: var(--ms-4);
-    }
     margin-bottom: 1em;
     line-height: 1.1;
+    padding-right: 2em;
   }
 }
