@@ -13,28 +13,35 @@
   background-repeat: no-repeat;
   h1 {
     font-family: serif;
-    font-size: var(--ms-5);
-    display: block;
-    line-height: 0.98;
-    margin-bottom: 2rem;
-    text-shadow: 0 0 12px rgba(black, .5);
+    font-size: 18vw;
     @include bp(m) {
-      font-size: var(--ms-8);
+      font-size: 14vw;
     }
+    display: block;
+    line-height: 0.8;
+    letter-spacing: -0.005em;
+    margin-bottom: 4rem;
+    text-shadow: 0 0 12px rgba(black, 0.5);
   }
   span {
     display: block;
     letter-spacing: 0.04em;
+    font-size: var(--ms-2);
+    @include bp(m){
+        font-size: var(--ms-3);
+    }
+    font-weight: 600;
     text-transform: uppercase;
+    text-shadow: 0 0 5px rgba(black, 0.5);
   }
 }
 .home-copy {
   grid-column: 2 / 14;
-  padding-bottom: 2rem;
+  padding-bottom: 2em;
   color: gray;
-  font-size: var(--ms--1);
+  font-size: var(--ms-0);
   @include bp(m) {
-    font-size: var(--ms-0);
+    font-size: var(--ms-1);
   }
 
   h2 {

@@ -7,6 +7,11 @@
   width: 100%;
   justify-content: space-between;
   background: black;
+  transition: $fast transform;
+  transform: translateY(-100%);
+  .scrolled & {
+    transform: translateY(0);
+  }
   button {
     appearance: none;
     background: none;
