@@ -18,12 +18,13 @@
     left: 0;
     bottom: 0;
     right: 0;
+    z-index: 50;
   }
   h1 {
     font-family: serif;
     font-size: 18vw;
     position: relative;
-    z-index: 1000;
+    z-index: 90;
     @include bp(m) {
       font-size: 11vw;
       line-height: 0.9;
