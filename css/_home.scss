@@ -4,7 +4,7 @@
   text-align: center;
   display: flex;
   flex-flow: column;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   position: relative;
@@ -22,19 +22,19 @@
     pointer-events: none;
   }
   h1 {
-    font-family: serif;
-    font-size: 18vw;
+    font-family: Times, Times New Roman, serif;
+    font-size: 15vw;
     position: relative;
     z-index: 90;
+    line-height: 1;
     @include bp(m) {
       font-size: 11vw;
       line-height: 0.9;
     }
     display: block;
-    line-height: 0.8;
     letter-spacing: -0.005em;
     margin-bottom: 4rem;
-    text-shadow: 0 0 12px rgba(black, 0.5);
+    text-shadow: 0 0 12px rgba(black, 0.2);
   }
   span {
     position: relative;
@@ -45,14 +45,20 @@
     @include bp(m) {
       font-size: var(--ms-3);
     }
-    font-weight: 600;
+    font-weight: 500;
     text-transform: uppercase;
-    text-shadow: 0 0 5px rgba(black, 0.5);
+    text-shadow: 0 0 5px rgba(black, 0.2);
   }
 }
 
 .hero-copy {
   position: absolute;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  height: 100%;
+  padding-top: 20%;
+  padding-bottom: 30%;
 }
 
 .hero-slides {
@@ -90,6 +96,8 @@
     font-size: var(--ms-2);
     margin-bottom: 1em;
     line-height: 1.1;
-    padding-right: 2em;
+    @include bp(m){
+      padding-right: 2em;
+    }
   }
 }
