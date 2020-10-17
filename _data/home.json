@@ -1,3 +1,13 @@
 {
-  "content": "## The United Generations is a social enterprise aimed at developing local and sustainable strategies to empower the older population and bridge the gap among generations through education, art, and design.\nFor more information: [info@theuntedgenerations.com](mailto:info@theuntedgenerations.com)"
+  "content": "## The United Generations is a social enterprise aimed at developing local and sustainable strategies to empower the older population and bridge the gap among generations through education, art, and design.\nFor more information: [info@theuntedgenerations.com](mailto:info@theuntedgenerations.com)",
+  "hero_images": [
+    {
+      "url": "/assets/uploads/hills.jpg",
+      "alt": "Alt goes here"
+    },
+    {
+      "url": "/assets/uploads/1920x1234px.jpg",
+      "alt": "Alt goes here"
+    }
+  ]
 }
