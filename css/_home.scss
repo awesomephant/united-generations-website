@@ -72,7 +72,10 @@
   width: 100%;
   overflow: hidden;
   display: flex;
-  animation: slide calc(10s * var(--slide-count)) infinite both linear;
+  animation: slide calc(12s * var(--slide-count)) infinite both linear;
+  @include bp(m){
+    animation: slide calc(20s * var(--slide-count)) infinite both linear;
+  }
   .slide {
     background-repeat: no-repeat;
     background-size: cover;
