@@ -11,7 +11,7 @@
   overflow-x: hidden;
   &:after {
     content: "";
-    background-color: rgba(black, .15);
+    background-color: rgba(black, 0.15);
     display: block;
     position: absolute;
     top: 0;
@@ -59,30 +59,24 @@
   height: 100%;
   padding-top: 20%;
   padding-bottom: 30%;
-  @include bp(m){
+  @include bp(m) {
     padding-top: 5%;
     padding-bottom: 5%;
   }
 }
 
 .hero-slides {
-  top: 0;
-  left: 0;
   height: 100vh;
-  width: 100%;
   overflow: hidden;
   display: flex;
-  animation: slide calc(12s * var(--slide-count)) infinite both linear;
-  @include bp(m){
-    animation: slide calc(20s * var(--slide-count)) infinite both linear;
+  animation: slide calc(14s * var(--slide-count)) infinite both linear;
+  @include bp(m) {
+    animation: slide calc(15s * var(--slide-count)) infinite both linear;
   }
   .slide {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    flex-basis: 100vw;
     display: inline-block;
     height: 100vh;
+    width: auto;
     opacity: 1;
   }
 }
@@ -112,7 +106,7 @@
     margin-bottom: 1em;
     line-height: 1.1;
     max-width: 40em;
-    @include bp(m){
+    @include bp(m) {
       padding-right: 2em;
     }
   }

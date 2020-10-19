@@ -5,7 +5,7 @@ class: home
 
 <style>
     :root {
-        --slide-count: {{home.hero_images | size | plus: 1 }}
+        --slide-count: {{home.hero_images | size }}
     }
 </style>
 
@@ -14,11 +14,11 @@ class: home
         <h1>{{settings.site_title | split: " " | join: "<br>" | safe}}</h1>
         <span>Coming Soon</span>
     </div>
-    <div class="hero-slides" style="width: {{home.hero_images | size | plus: 1 | times: 100}}vw">
+    <div class="hero-slides">
         {% for slide in home.hero_images %}
-        <div class="slide" style="background-image: url({{slide.url | resize: 1500}})"></div>
+        <img class='slide' src="{{slide.url | resize: 1500}}" alt="">
         {% endfor %}
-        <div class="slide" style="background-image: url({{home.hero_images[0].url}})"></div>
+        <img class='slide' src="{{home.hero_images[0].url}}" alt="">
     </div>
 </header>
 
