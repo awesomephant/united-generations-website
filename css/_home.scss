@@ -95,14 +95,23 @@
   padding-top: 1em;
   @include bp(m) {
     display: flex;
+    justify-content: space-between;
     color: white;
+  }
+  a {
+    display: block;
+  }
+  p {
+    flex-basis: 20em;
   }
 
   h2 {
     color: white;
+    flex-basis: 90%;
     font-size: var(--ms-2);
     margin-bottom: 1em;
     line-height: 1.1;
+    max-width: 40em;
     @include bp(m){
       padding-right: 2em;
     }

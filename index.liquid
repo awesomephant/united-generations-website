@@ -16,7 +16,7 @@ class: home
     </div>
     <div class="hero-slides" style="width: {{home.hero_images | size | plus: 1 | times: 100}}vw">
         {% for slide in home.hero_images %}
-        <div class="slide" style="background-image: url({{slide.url}})"></div>
+        <div class="slide" style="background-image: url({{slide.url | resize: 1500}})"></div>
         {% endfor %}
         <div class="slide" style="background-image: url({{home.hero_images[0].url}})"></div>
     </div>

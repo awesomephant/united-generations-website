@@ -28,6 +28,19 @@ module.exports = function (eleventyConfig) {
     });
     return output.join(",");
   });
+  eleventyConfig.addFilter("resize", function (url, size) {
+    let file = url.split(".");
+    let output = "";
+    let filename = `${file[0]}@${size}w.jpg`;
+    let path = `_site${filename}`;
+    try {
+      fs.accessSync(path, fs.constants.R_OK);
+      output = `${filename}`;
+    } catch (err) {
+      console.log(`Media file ${path} does not exist, skipping.`);
+    }
+    return output;
+  });
 
   eleventyConfig.addPassthroughCopy("./assets");
   eleventyConfig.addPassthroughCopy("./admin");
