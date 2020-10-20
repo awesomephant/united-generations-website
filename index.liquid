@@ -18,7 +18,7 @@ class: home
         {% for slide in home.hero_images %}
         <img class='slide' src="{{slide.url | resize: 1500}}" alt="">
         {% endfor %}
-        <img class='slide' src="{{home.hero_images[0].url}}" alt="">
+        <img class='slide' src="{{home.hero_images[0].url | resize: 1500}}" alt="">
     </div>
 </header>
 

@@ -69,6 +69,12 @@
   height: 100vh;
   overflow: hidden;
   display: flex;
+  opacity: 0;
+  transition: $slow;
+  transition-delay: 100ms;
+  &.loaded {
+    opacity: 1;
+  }
   animation: slide calc(14s * var(--slide-count)) infinite both linear;
   @include bp(m) {
     animation: slide calc(15s * var(--slide-count)) infinite both linear;
