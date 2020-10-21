@@ -4,7 +4,7 @@ function initSliderAnimation() {
   slideImages[0].addEventListener("load", (e) => {
     slider.classList.add('loaded')
   });
-  slider.style.animationDuration = `${slideImages.length * 10}s`;
+  slider.style.animationDuration = `${slideImages.length * 14}s`;
 }
 
 window.addEventListener("DOMContentLoaded", () => {
