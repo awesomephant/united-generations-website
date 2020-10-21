@@ -9,7 +9,7 @@ function sliderLoop() {
     }
   }
   slider.style.transform = `translateX(${currentX * -1}px)`;
-  currentX += 1.8;
+  currentX += 1;
   window.requestAnimationFrame(sliderLoop);
 }
 
