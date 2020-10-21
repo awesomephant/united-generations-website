@@ -69,15 +69,11 @@
   height: 100vh;
   overflow: hidden;
   display: flex;
-  transition: $slow;
-  transition-delay: 100ms;
   position: relative;
   overflow: visible;
+  transition: $slow opacity;
   opacity: 0;
-  animation: slide 1s infinite both linear;
-  @include bp(m) {
-    animation: slide 1s infinite both linear;
-  }
+  will-change: transform;
   &.loaded {
     opacity: 1;
   }
@@ -87,11 +83,6 @@
   display: inline-block;
   width: auto;
   opacity: 1;
-  &.last {
-    position: absolute;
-    right: 0;
-    transform: translateX(100%);
-  }
   img {
     height: 100vh;
     width: auto;
