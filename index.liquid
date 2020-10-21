@@ -3,22 +3,20 @@ layout: base
 class: home
 ---
 
-<style>
-    :root {
-        --slide-count: {{home.hero_images | size }}
-    }
-</style>
-
 <header class="home-hero">
     <div class="hero-copy">
         <h1>{{settings.site_title | split: " " | join: "<br>" | safe}}</h1>
         <span>Coming Soon</span>
     </div>
-    <div class="hero-slides">
+    <div class="hero-slider">
         {% for slide in home.hero_images %}
-        <img class='slide' src="{{slide.url | resize: 1500}}" alt="">
+        <div class='slide'>
+            <img src="{{slide.url | resize: 1500}}" alt="">
+        </div>
         {% endfor %}
-        <img class='slide' src="{{home.hero_images[0].url | resize: 1500}}" alt="">
+        <div class="slide last">
+            <img class='slide' src="{{home.hero_images[0].url | resize: 1500}}" alt="">
+        </div>
     </div>
 </header>
 

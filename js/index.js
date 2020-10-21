@@ -1,50 +1,15 @@
-function initSliderAnimation(totalWidth) {
-  const container = document.querySelector(".hero-slides");
-  container.classList.add('loaded')
-  const slides = document.querySelectorAll(".hero-slides .slide");
-  const lastSlideBox = slides[slides.length - 1].getBoundingClientRect();
-
-  // We need to calculate where the left edge of the last slide
-  // is in relation to the width of the slider. If we animate
-  // to this point, the animation should loop correctly.
-  const position = lastSlideBox.x / totalWidth;
-  document.body.style.setProperty(
-    "--last-slide-position",
-    position * -100 + "%"
-  );
-}
-
-function measureSlides(cb) {
-  const slides = document.querySelectorAll(".hero-slides .slide");
-  let loadedSlides = 0;
-  let totalWidth = 0;
-  slides.forEach((s) => {
-    // We poll for the image width here so
-    // we get it before the full image is loaded.
-    let poll = setInterval(function () {
-      if (s.naturalWidth) {
-        clearInterval(poll);
-        let box = s.getBoundingClientRect();
-        loadedSlides++;
-        totalWidth += box.width;
-        if (loadedSlides === slides.length) {
-          cb(totalWidth);
-        }
-      }
-    }, 10);
+function initSliderAnimation() {
+  const slideImages = document.querySelectorAll(".slide img");
+  const slider = document.querySelector(".hero-slider");
+  slideImages[0].addEventListener("load", (e) => {
+    slider.classList.add('loaded')
   });
+  slider.style.animationDuration = `${slideImages.length * 10}s`;
 }
 
 window.addEventListener("DOMContentLoaded", () => {
-  measureSlides((totalWidth) => {
-    initSliderAnimation(totalWidth);
-  });
-  window.addEventListener("resize", (e) => {
-    measureSlides((totalWidth) => {
-      console.log(totalWidth);
-      initSliderAnimation(totalWidth);
-    });
-  });
+  initSliderAnimation();
+
   if (window.scrollY > 10) {
     document.body.classList.add("scrolled");
   } else {

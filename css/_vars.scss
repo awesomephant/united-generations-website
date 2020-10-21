@@ -24,7 +24,7 @@
     transform: translateX(0);
   }
   to {
-    transform: translateX(var(--last-slide-position));
+    transform: translateX(-100%);
   }
 }
 

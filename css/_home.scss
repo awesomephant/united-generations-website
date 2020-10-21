@@ -65,25 +65,37 @@
   }
 }
 
-.hero-slides {
+.hero-slider {
   height: 100vh;
   overflow: hidden;
   display: flex;
-  opacity: 0;
   transition: $slow;
   transition-delay: 100ms;
+  position: relative;
+  overflow: visible;
+  opacity: 0;
+  animation: slide 1s infinite both linear;
+  @include bp(m) {
+    animation: slide 1s infinite both linear;
+  }
   &.loaded {
     opacity: 1;
   }
-  animation: slide calc(14s * var(--slide-count)) infinite both linear;
-  @include bp(m) {
-    animation: slide calc(15s * var(--slide-count)) infinite both linear;
+}
+
+.slide {
+  display: inline-block;
+  width: auto;
+  opacity: 1;
+  &.last {
+    position: absolute;
+    right: 0;
+    transform: translateX(100%);
   }
-  .slide {
-    display: inline-block;
+  img {
     height: 100vh;
     width: auto;
-    opacity: 1;
+    display: block;
   }
 }
 
