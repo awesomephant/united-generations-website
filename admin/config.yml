@@ -5,6 +5,8 @@ media_folder: "/assets/uploads"
 collections:
   - name: "settings"
     label: "Settings"
+    editor:
+      preview: false
     files:
       - file: "_data/settings.json"
         name: "settings"
@@ -36,4 +38,4 @@ collections:
             - label: "Description"
               name: "alt"
               widget: "text"
-              hint: "You can add a description to your media items so they’re accessible to more people, including those who are blind or visually impaired. Good descriptions are concise, but present what’s in your photos accurately enough to understand their context."
+              hint: "You can add a description to your images so they’re accessible to more people, including those who are blind or visually impaired. Good descriptions are concise, but present what’s in your photos accurately enough to understand their context."
