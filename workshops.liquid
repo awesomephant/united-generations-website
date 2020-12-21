@@ -1,0 +1,33 @@
+---
+layout: base
+class: workshops
+---
+
+<header class="page--header">
+    <p>Finding ways to connect between generations. </p>
+</header>
+
+<ul class="events-list">
+    {% for item in collections.workshops %}
+    <li class="event">
+        <section class="event--copy">
+            <h2 class="event--title">
+                {{item.data.title}}
+            </h2>
+            <div class="event--copy">
+                {{item.data.introduction}}
+            </div>
+            <div class="event--data">
+                <p class="event--datum">
+                    <em>Location</em>
+                    <span>{{item.data.location}}</span>
+                </p>
+                <p class="event--datum">
+                    <em>Date</em>
+                    <span>{{item.data.date | date: "%B %e, %Y"}}</span>
+                </p>
+            </div>
+        </section>
+    </li>
+    {% endfor %}
+</ul>

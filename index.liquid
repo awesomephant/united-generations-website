@@ -4,10 +4,6 @@ class: home
 ---
 
 <header class="home-hero">
-    <div class="hero-copy">
-        <h1>{{settings.site_title | split: " " | join: "<br>" | safe}}</h1>
-        <span>Coming Soon</span>
-    </div>
     <div class="hero-slider">
         {% for slide in home.hero_images %}
         <div class='slide'>

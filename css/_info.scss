@@ -1,0 +1,17 @@
+.info {
+  padding-top: 8rem;
+}
+
+.info--content {
+  grid-column: 2 / 12;
+  p {
+    max-width: 40em;
+    margin-bottom: .5em;
+    line-height: 1.35;
+  }
+  h2 {
+    font-size: var(--ms-4);
+    margin-top: 1em;
+    margin-bottom: .25em
+  }
+}

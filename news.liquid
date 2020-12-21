@@ -1,0 +1,29 @@
+---
+layout: base
+class: news
+---
+
+
+<ul class="news-list">
+    {% for item in collections.news %}
+    <li class="news-item">
+        <section class="news--image">
+            <img src="{{item.data.featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+        </section>
+        <section class="news--copy">
+            <h2 class="news--title">
+                <a href="{{item.url}}">
+                    {{item.data.title}}
+                </a>
+            </h2>
+            <div class="news--data">
+                {{item.data.date | date: "%B %e, %Y"}}
+            </div>
+            <div class="news--text">
+                {{item.data.introduction}}
+            </div>
+
+        </section>
+    </li>
+    {% endfor %}
+</ul>

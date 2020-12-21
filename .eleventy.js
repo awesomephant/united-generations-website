@@ -6,8 +6,20 @@ const siteSettings = require("./_data/settings.json");
 const fs = require("fs");
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addCollection("project", function (collectionApi) {
-    return collectionApi.getFilteredByGlob(["./projects/*.md"]);
+  eleventyConfig.addCollection("events", function (collectionApi) {
+    return collectionApi.getFilteredByGlob(["./events/*.md"]);
+  });
+  eleventyConfig.addCollection("news", function (collectionApi) {
+    return collectionApi.getFilteredByGlob(["./news/*.md"]);
+  });
+  eleventyConfig.addCollection("workshops", function (collectionApi) {
+    return collectionApi.getFilteredByGlob(["./workshops/*.md"]);
+  });
+  eleventyConfig.addCollection("research", function (collectionApi) {
+    return collectionApi.getFilteredByGlob(["./research/*.md"]);
+  });
+  eleventyConfig.addCollection("books", function (collectionApi) {
+    return collectionApi.getFilteredByGlob(["./books/*.md"]);
   });
 
   eleventyConfig.addFilter("renderMarkdown", function (value) {

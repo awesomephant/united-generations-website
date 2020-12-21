@@ -1,0 +1,27 @@
+---
+layout: base
+class: research
+---
+
+<header class="research--header">
+    <p>
+        In the near future, a significant part of the population is older. Redundant urban land is now fertile. Mobility
+        is electric or human-powered. Using findings from my book “How to take care of the old” and from site-specific
+        research, a tripartite strategy envisions how the Golden Lane Estate could transform. By intersecting the
+        Arcadian landscape into the modernist geometries, I designed a domestic and public scheme where the residents
+        and the community are engaged through activities and events that combine social, economic, and cultural values
+        contributing to the wellness and the reconnection of old and new generations.
+    </p>
+</header>
+
+<ul class="chapters">
+    {% for item in collections.research %}
+    <li class="chapter">
+        <h3 class="chapter--title">
+            <a href="{{item.url}}">
+                <span>0{{forloop.index}}</span>{{item.data.title}}
+            </a>
+        </h3>
+    </li>
+    {% endfor %}
+</ul>

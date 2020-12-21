@@ -1,6 +1,9 @@
+$slideHeight: 70vh;
 .home-hero {
-  grid-column: 1 / 15;
-  height: 100vh;
+  grid-column: 1 / 13;
+  margin-left: -3vw;
+  width: calc(100% + 8.7vw);
+  height: $slideHeight;
   text-align: center;
   display: flex;
   flex-flow: column;
@@ -9,64 +12,10 @@
   flex-wrap: wrap;
   position: relative;
   overflow-x: hidden;
-  &:after {
-    content: "";
-    background-color: rgba(black, 0.15);
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    z-index: 50;
-    pointer-events: none;
-  }
-  h1 {
-    font-family: Times, Times New Roman, serif;
-    font-size: 18vw;
-    position: relative;
-    z-index: 90;
-    line-height: 1;
-    @include bp(m) {
-      font-size: 11vw;
-      line-height: 0.9;
-    }
-    display: block;
-    letter-spacing: -0.005em;
-    margin-bottom: 4rem;
-    text-shadow: 0 0 12px rgba(black, 0.2);
-  }
-  span {
-    position: relative;
-    z-index: 1000;
-    display: block;
-    letter-spacing: 0.04em;
-    font-size: var(--ms-2);
-    @include bp(m) {
-      font-size: var(--ms-3);
-    }
-    font-weight: 500;
-    text-transform: uppercase;
-    text-shadow: 0 0 5px rgba(black, 0.2);
-  }
-}
-
-.hero-copy {
-  position: absolute;
-  display: flex;
-  flex-flow: column;
-  justify-content: space-between;
-  height: 100%;
-  padding-top: 20%;
-  padding-bottom: 30%;
-  @include bp(m) {
-    padding-top: 5%;
-    padding-bottom: 5%;
-  }
 }
 
 .hero-slider {
-  height: 100vh;
+  height: $slideHeight;
   overflow: hidden;
   display: flex;
   position: relative;
@@ -84,7 +33,7 @@
   width: auto;
   opacity: 1;
   img {
-    height: 100vh;
+    height: $slideHeight;
     width: auto;
     display: block;
   }
@@ -93,13 +42,13 @@
 .home-copy {
   grid-column: 2 / 14;
   padding-bottom: 2em;
-  color: gray;
-  font-size: var(--ms-0);
+  color: $black;
+  font-size: var(--ms-2);
   padding-top: 1em;
+  max-width: 30em;
   @include bp(m) {
     display: flex;
     justify-content: space-between;
-    color: white;
   }
   a {
     display: block;
@@ -109,9 +58,7 @@
   }
 
   h2 {
-    color: white;
     flex-basis: 90%;
-    font-size: var(--ms-2);
     margin-bottom: 1em;
     line-height: 1.1;
     max-width: 40em;

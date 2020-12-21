@@ -3,6 +3,150 @@ backend:
   branch: main
 media_folder: "/assets/uploads"
 collections:
+  - name: "news"
+    label: "News"
+    label_singular: "News Item"
+    editor: { preview: false }
+    folder: "news/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - name: "title"
+        label: "Title"
+        widget: string
+      - name: "date"
+        label: "Publish date"
+        widget: "date"
+      - name: "featured_image"
+        label: "Featured Image"
+        widget: "object"
+        fields:
+          - name: image
+            label: Image
+            widget: image
+          - name: alt
+            label: Description
+            widget: string
+            hint: "You can add a description, sometimes called alt-text, to your photos so they’re accessible to more people, including those who are blind or visually impaired."
+      - name: "introduction"
+        label: "Introduction"
+        widget: "markdown"
+        editor_components: []
+        buttons:
+          - bold
+          - italic
+  - name: "events"
+    label: "Events"
+    label_singular: "Event"
+    editor: { preview: false }
+    folder: "events/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - name: "title"
+        label: "Title"
+        widget: string
+      - name: "date"
+        label: "Event date"
+        widget: "date"
+      - name: "location"
+        label: "Event location"
+        widget: "string"
+      - name: "featured_image"
+        label: "Featured Image"
+        widget: "object"
+        fields:
+          - name: image
+            label: Image
+            widget: image
+          - name: alt
+            label: Description
+            widget: string
+            hint: "You can add a description, sometimes called alt-text, to your photos so they’re accessible to more people, including those who are blind or visually impaired."
+      - name: "introduction"
+        label: "Introduction"
+        widget: "markdown"
+        editor_components: []
+        buttons:
+          - bold
+          - italic
+      - name: "content"
+        label: "Copy"
+        widget: "markdown"
+  - name: "research"
+    label: "Research"
+    label_singular: "Research Chapter"
+    editor: { preview: false }
+    folder: "research/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - name: "title"
+        label: "Title"
+        widget: string
+      - name: content
+        label: "Copy"
+        widget: "markdown"
+
+  - name: "workshops"
+    label: "Workshops"
+    label_singular: "Workshop"
+    editor: { preview: false }
+    folder: "workshops/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - name: "title"
+        label: "Title"
+        widget: string
+      - name: "date"
+        label: "Event date"
+        widget: "date"
+      - name: "location"
+        label: "Event location"
+        widget: "string"
+      - name: "introduction"
+        label: "Introduction"
+        widget: "markdown"
+        editor_components: []
+        buttons:
+          - bold
+          - italic
+      - name: "content"
+        label: "Copy"
+        widget: "markdown"
+  - name: "books"
+    label: "Books"
+    label_singular: "Book"
+    editor: { preview: false }
+    folder: "books/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - name: "title"
+        label: "Title"
+        widget: string
+      - name: "featured_image"
+        label: "Featured Image"
+        widget: "object"
+        fields:
+          - name: image
+            label: Image
+            widget: image
+          - name: alt
+            label: Description
+            widget: string
+            hint: "You can add a description, sometimes called alt-text, to your photos so they’re accessible to more people, including those who are blind or visually impaired."
+      - name: "intro"
+        label: "Introduction"
+        widget: "markdown"
+        editor_components: []
+        buttons:
+          - bold
+          - italic
+      - name: "content"
+        label: "Copy"
+        widget: "markdown"
   - name: "settings"
     label: "Settings"
     editor:
@@ -19,6 +163,13 @@ collections:
             name: "site_description"
             widget: "string"
             hint: "This is displayed in the header, search results and social media cards."
+      - file: "_data/about.json"
+        name: "about"
+        label: "About"
+        fields:
+          - label: "Copy"
+            name: "content"
+            widget: "markdown"
       - file: "_data/home.json"
         name: "home"
         label: "Home"
@@ -32,10 +183,10 @@ collections:
             widget: "list"
             summary: "{{fields.url}}"
             fields:
-            - label: Image
-              name: url
-              widget: "image"
-            - label: "Description"
-              name: "alt"
-              widget: "text"
-              hint: "You can add a description to your images so they’re accessible to more people, including those who are blind or visually impaired. Good descriptions are concise, but present what’s in your photos accurately enough to understand their context."
+              - label: Image
+                name: url
+                widget: "image"
+              - label: "Description"
+                name: "alt"
+                widget: "text"
+                hint: "You can add a description to your images so they’re accessible to more people, including those who are blind or visually impaired. Good descriptions are concise, but present what’s in your photos accurately enough to understand their context."
