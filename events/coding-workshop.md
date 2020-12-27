@@ -1,6 +1,6 @@
 ---
-title: WANDSWORTH SHOW
-eyebrow: exhibition
+title: Coding Workshop
+eyebrow: Workshop
 date: 2020-12-01T21:05:40.630Z
 location: Wandsworth Council, London
 featured_image:

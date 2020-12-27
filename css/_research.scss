@@ -10,8 +10,9 @@
 }
 
 .chapters {
-  grid-column: 2 / 12;
+  grid-column: 5 / 12;
   list-style: none;
+  font-size: var(--ms-2);
 }
 .chapter--title {
   font-size: var(--ms-5);

@@ -2,34 +2,47 @@
   position: fixed;
   top: 0;
   left: 0;
+  .home & {
+    position: sticky;
+    grid-column: 1 / 13;
+    margin-left: -3vw;
+    width: calc(100% + 8.7vw);
+  }
   display: flex;
   z-index: 2000;
-  padding: 0.5rem var(--padding);
+  padding: 0.8rem var(--padding);
   width: 100%;
   justify-content: space-between;
-  background: $black;
-  color: white;
+  color: $black;
   font-weight: 500;
-  transition: $fast transform;
-//  transform: translateY(-100%);
-  .scrolled & {
-    transform: translateY(0);
+  transition: $fast;
+  border-bottom: 1px solid transparent;
+  .scrolled &,
+  .home & {
+    background: var(--bg);
+    border-bottom: 1px solid $black;
   }
   a {
     text-decoration: none;
   }
-  button {
-    appearance: none;
-    background: none;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    border: 0;
+}
+
+.site--nav {
+  a {
+    margin-right: 1em;
+    &:last-of-type {
+      margin-right: 0;
+    }
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
   }
 }
 
 .site-footer {
-    grid-column: 2 / 14;
-    padding-bottom: 2rem;
-    color: gray;
-    font-size: var(--ms--1);
+  grid-column: 2 / 13;
+  padding-bottom: 2rem;
+  color: gray;
+  font-size: var(--ms--1);
 }

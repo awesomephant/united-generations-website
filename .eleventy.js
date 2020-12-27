@@ -7,13 +7,19 @@ const fs = require("fs");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("events", function (collectionApi) {
-    return collectionApi.getFilteredByGlob(["./events/*.md"]);
+    let items = collectionApi.getFilteredByGlob(["./events/*.md"]);
+    let sorted = items.sort((a, b) => {
+      if (a.data.date < b.data.date) {
+        return 1;
+      } else if (a.data.date > b.data.date) {
+        return -1;
+      }
+      return 0;
+    });
+    return sorted;
   });
   eleventyConfig.addCollection("news", function (collectionApi) {
     return collectionApi.getFilteredByGlob(["./news/*.md"]);
-  });
-  eleventyConfig.addCollection("workshops", function (collectionApi) {
-    return collectionApi.getFilteredByGlob(["./workshops/*.md"]);
   });
   eleventyConfig.addCollection("research", function (collectionApi) {
     return collectionApi.getFilteredByGlob(["./research/*.md"]);

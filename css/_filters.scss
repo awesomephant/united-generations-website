@@ -1,0 +1,6 @@
+.filters {
+    button {
+        @extend .btn;
+        font-size: var(--ms-0);
+    }
+}

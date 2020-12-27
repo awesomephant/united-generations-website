@@ -3,31 +3,28 @@ layout: base
 class: events
 ---
 
+{% assign tags = "" | split: "" %}
+{% for e in collections.events %}
+{% assign taglist = tags | join: "" %}
+{% unless taglist contains e.data.eyebrow %}
+{% assign tags = tags | concat: e.data.eyebrow%}
+{% endunless %}
+{% endfor %}
+
 <header class="page--header">
     <p>The events and exhibition aim to raise awareness through art and design. </p>
+    <div class="filters">
+        <nav>
+            <button class="active filter" data-filter="all">All</button>
+            {%for tag in tags %}
+            <button class="filter" data-filter="{{tag | slug}}">{{tag}}</button>
+            {% endfor %}
+        </nav>
+    </div>
 </header>
 
-<ul class="events-list">
+<ul class="events-list filtered-list">
     {% for item in collections.events %}
-    <li class="event">
-        <section class="event--copy">
-            <h2 class="event--title">
-                {{item.data.title}}
-            </h2>
-            <div class="event--copy">
-                {{item.data.introduction}}
-            </div>
-            <div class="event--data">
-                <p class="event--datum">
-                    <em>Location</em>
-                    <span>{{item.data.location}}</span>
-                </p>
-                <p class="event--datum">
-                    <em>Date</em>
-                    <span>{{item.data.date | date: "%B %e, %Y"}}</span>
-                </p>
-            </div>
-        </section>
-    </li>
+        {% include event-card.liquid with {item: item}%}
     {% endfor %}
 </ul>

@@ -46,6 +46,12 @@ collections:
       - name: "title"
         label: "Title"
         widget: string
+      - name: "eyebrow"
+        label: "Eyebrow"
+        required: false
+        widget: string
+        hint: Appears above the title and is used for filtering
+        op
       - name: "date"
         label: "Event date"
         widget: "date"
@@ -87,34 +93,6 @@ collections:
       - name: content
         label: "Copy"
         widget: "markdown"
-
-  - name: "workshops"
-    label: "Workshops"
-    label_singular: "Workshop"
-    editor: { preview: false }
-    folder: "workshops/"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - name: "title"
-        label: "Title"
-        widget: string
-      - name: "date"
-        label: "Event date"
-        widget: "date"
-      - name: "location"
-        label: "Event location"
-        widget: "string"
-      - name: "introduction"
-        label: "Introduction"
-        widget: "markdown"
-        editor_components: []
-        buttons:
-          - bold
-          - italic
-      - name: "content"
-        label: "Copy"
-        widget: "markdown"
   - name: "books"
     label: "Books"
     label_singular: "Book"
@@ -129,10 +107,16 @@ collections:
       - name: "featured_image"
         label: "Featured Image"
         widget: "object"
+      - name: "date"
+        label: "Publication Date"
+        widget: "date"
         fields:
           - name: image
             label: Image
             widget: image
+            media_library:
+              config:
+                max_file_size: 6000000
           - name: alt
             label: Description
             widget: string
@@ -144,7 +128,7 @@ collections:
         buttons:
           - bold
           - italic
-      - name: "content"
+      - name: "body"
         label: "Copy"
         widget: "markdown"
   - name: "settings"

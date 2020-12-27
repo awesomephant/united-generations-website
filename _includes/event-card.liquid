@@ -1,0 +1,25 @@
+<li class="event" data-tags="{{item.data.eyebrow | slug}}">
+    <section class="event--copy">
+        {% if item.data.eyebrow %}
+        <span class="card--eyebrow">{{item.data.eyebrow}}</span>
+        {% endif %}
+        {% if item.data.featured_image %}
+        <section class="card--image">
+            <img  src="{{item.data.featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+        </section>
+        {% endif %}
+        <h2 class="card--title">
+            {{item.data.title}}
+            </h2>
+        <div class="card--copy">
+            {{item.data.introduction}}
+        </div>
+        <div class="card--data">
+            <p class="event--datum">
+                <span>{{item.data.location}}</span>
+                <span>{{item.data.date | date: "%B %e, %Y"}}</span>
+            </p>
+            <a class="btn active" href="#1">Read more</a>
+        </div>
+    </section>
+</li>

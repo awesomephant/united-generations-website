@@ -1,0 +1,24 @@
+---
+layout: base
+class: chapter
+---
+
+<header class="chapter--header">
+    <h2>
+        {{title}}
+    </h2>
+</header>
+<nav class="chapter--nav">
+    <ul>
+        {% for item in collections.research %}
+        <li {% if item.data.title==title%}class="current" {%endif%}>
+            <a href="{{item.url}}">
+                <span class="index">0{{forloop.index}}</span>{{item.data.title}}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+<main class="chapter--content">
+    {{content}}
+</main>

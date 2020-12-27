@@ -14,14 +14,16 @@ class: research
     </p>
 </header>
 
-<ul class="chapters">
-    {% for item in collections.research %}
-    <li class="chapter">
-        <h3 class="chapter--title">
-            <a href="{{item.url}}">
-                <span>0{{forloop.index}}</span>{{item.data.title}}
-            </a>
-        </h3>
-    </li>
-    {% endfor %}
-</ul>
+<div class="chapters">
+    <nav class="chapter--nav">
+        <ul>
+            {% for item in collections.research %}
+            <li {% if item.data.title==title%}class="current" {%endif%}>
+                <a href="{{item.url}}">
+                    <span class="index">0{{forloop.index}}</span>{{item.data.title}}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</div>

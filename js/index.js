@@ -1,3 +1,5 @@
+const { initFilters } = require("./initFilters");
+
 let slider;
 let currentX = 0;
 let loopPoint = null;
@@ -8,7 +10,7 @@ function sliderLoop() {
       currentX = loopPoint - currentX;
     }
   }
-  slider.style.transform = `translateX(${currentX * -1}px)`;
+  slider.style.transform = `translateX(${currentX * -.5}px)`;
   currentX += 1;
   window.requestAnimationFrame(sliderLoop);
 }
@@ -18,12 +20,10 @@ function setLoopPoint(lastSlide) {
   loopPoint = box.x;
 }
 
-function initSliderAnimation() {
+function initSliderAnimation(slider) {
   // We start the animation as soon as possible
   // Then we figure out the position of the last slide,
   // which is where we need to loop back to the beginning.
-
-  slider = document.querySelector(".hero-slider");
   let loadedSlides = 0;
   window.setTimeout(() => {
     slider.classList.add("loaded");
@@ -45,8 +45,11 @@ function initSliderAnimation() {
 }
 
 window.addEventListener("DOMContentLoaded", () => {
-  initSliderAnimation();
-
+  slider = document.querySelector(".hero-slider");
+  if (slider) {
+    initSliderAnimation(slider);
+  }
+  initFilters();
   if (window.scrollY > 10) {
     document.body.classList.add("scrolled");
   } else {

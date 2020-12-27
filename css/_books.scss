@@ -6,11 +6,9 @@
   display: contents;
 }
 
-.book {
-  list-style: none;
-  display: flex;
-  grid-column: 2 / 11;
-  margin-bottom: 4rem;
+.book-card {
+  @extend .card;
+
 }
 
 .book--title {

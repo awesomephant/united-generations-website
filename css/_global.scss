@@ -6,6 +6,12 @@
   font-weight: inherit;
   color: inherit;
 }
+a,
+button {
+  &:-moz-focusring {
+    outline: 3px solid rgb(0, 255, 255) !important;
+  }
+}
 
 body {
   font-family: $sans;
@@ -15,26 +21,28 @@ body {
   padding-right: 3%;
   grid-template-rows: auto auto;
   column-gap: 3%;
-  row-gap: 1rem;
+  row-gap: 0;
   font-size: var(--ms-0);
   letter-spacing: 0.005em;
   font-weight: 300;
   background: $lightgray;
   color: $black;
+  --bg: #{$lightgray};
   &.news {
-    background: $blue;
+    background: $red;  
+    --bg: #{$red};
   }
   &.books {
     background: $green;
-  }
-  &.workshops {
-    background: $red;
+    --bg: #{$green};
   }
   &.events {
     background: $sky;
+    --bg: #{$sky};
   }
-  &.research {
+  &.research, &.chapter {
     background: $yellow;
+    --bg: #{$yellow};
   }
 }
 

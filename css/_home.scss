@@ -1,4 +1,4 @@
-$slideHeight: 70vh;
+$slideHeight: 66.6666vh;
 .home-hero {
   grid-column: 1 / 13;
   margin-left: -3vw;
@@ -12,6 +12,7 @@ $slideHeight: 70vh;
   flex-wrap: wrap;
   position: relative;
   overflow-x: hidden;
+  border-bottom: 1px solid $black;
 }
 
 .hero-slider {
@@ -47,8 +48,8 @@ $slideHeight: 70vh;
   padding-top: 1em;
   max-width: 30em;
   @include bp(m) {
-    display: flex;
-    justify-content: space-between;
+    font-size: var(--ms-3);
+    grid-column: 5 / 14;
   }
   a {
     display: block;
@@ -65,5 +66,22 @@ $slideHeight: 70vh;
     @include bp(m) {
       padding-right: 2em;
     }
+  }
+}
+
+.teasers {
+  display: contents;
+}
+.teasers--title {
+  grid-column: 1 / 13;
+  font-size: var(--ms-3);
+  margin-top: 1em;
+  margin-bottom: .5em;
+  display: flex;
+  align-items: center;
+  .btn {
+    position: relative;
+    top: .2em;
+    margin-left: 1em;
   }
 }
