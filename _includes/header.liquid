@@ -1,10 +1,15 @@
+{% assign pages = "research,news,books,events,information" | split: ","%}
+
 <header class="site-header">
-    <a href="/">The United Generations</a>
-    <nav class="site--nav">
-      <a href="/research">Research</a>
-      <a href="/news">News</a>
-      <a href="/books">Books</a>
-      <a href="/events">Events</a>
-      <a href="/information">Information</a>
-    </nav>
-  </header>
+  <a class="site--title" href="/">
+    <h1>
+      The United Generations
+    </h1>
+  </a>
+  <nav class="site--nav">
+    {% for p in pages %}
+    <a class="nav--link {% if class==p %}active{% endif %}" href="/{{p}}">{{p}}</a>
+    {% endfor %}
+  </nav>
+  <button class="toggle-menu">Menu</button>
+</header>

@@ -1,6 +1,7 @@
 .filters {
-    button {
-        @extend .btn;
-        font-size: var(--ms-0);
-    }
+  button {
+    @extend .btn;
+    font-size: var(--ms-0);
+    text-transform: capitalize;
+  }
 }

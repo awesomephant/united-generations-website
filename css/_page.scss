@@ -1,13 +1,21 @@
 .page--header {
-    grid-column: 2 / 13;
-    max-width: 25em;
-    font-size: var(--ms-2);
-    padding-bottom: 4em;
-    p {
-        padding-bottom: 1em;
-    }
-    @include bp(m){
-        font-size: var(--ms-3);
-        grid-column: 5 / 13;
-    }
+  grid-column: 1 / 13;
+  max-width: 22em;
+  line-height: 1.1;
+  padding-bottom: 1em;
+  padding-top: 20vh;
+  font-size: var(--ms-2);
+  font-weight: 600;
+  @include bp(s) {
+      font-size: var(--ms-4);
+      font-weight: 400;
+  }
+  @include bp(m) {
+    padding-top: 1em;
+    padding-bottom: 2.5em;
+    grid-column: 5 / 13;
+  }
+  p {
+    padding-bottom: 0.5em;
+  }
 }

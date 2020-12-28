@@ -1,6 +1,7 @@
 ---
 title: A news story about RCA 2020
 date: 2020-12-21T21:26:20.997Z
+layout: post
 featured_image:
   image: /assets/uploads/2000x1125px6_web.jpg
   alt: fsd

@@ -12,6 +12,10 @@
     @media (min-width: 1000px) {
       @content;
     }
+  } @else if $point==mr {
+    @media (max-width: 1000px) {
+      @content;
+    }
   } @else if $point==s {
     @media (min-width: 600px) {
       @content;
@@ -32,18 +36,19 @@ $sans: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif,
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $mono: monospace;
 $blue: #1f44e9;
-$lightgray: rgb(231, 221, 212);
-$yellow: #ffc72f;
-$green: #97d863;
-$red: #f55a1d;
-$sky: #BCE7E2;
+$lightgray: rgb(245, 247, 250);
+$yellow: #ffd23e;
+$green: #b1eb7b;
+$red: #ff7434;
+$sky: #bce7e2;
 $black: rgb(4, 4, 7);
 $fast: 220ms;
 $slow: 550ms;
 $br: 2px;
+$slideHeight: 66.6666vh;
 
 :root {
-  --padding: 3%;
+  --padding: 2%;
   --ratio: 1.25;
   --ms-0: clamp(1rem, 1.3vw, 1.25rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));
@@ -56,4 +61,14 @@ $br: 2px;
   --ms-6: calc(var(--ms-5) * var(--ratio));
   --ms-7: calc(var(--ms-6) * var(--ratio));
   --ms-8: calc(var(--ms-7) * var(--ratio));
+}
+
+%grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: auto auto;
+  row-gap: 0;
+  column-gap: 1%;
+  padding-left: var(--padding);
+  padding-right: var(--padding);
 }

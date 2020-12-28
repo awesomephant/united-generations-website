@@ -9,27 +9,22 @@
 a,
 button {
   &:-moz-focusring {
-    outline: 3px solid rgb(0, 255, 255) !important;
+    outline: 3px solid rgb(255, 255, 255) !important;
   }
 }
 
 body {
+  @extend %grid;
   font-family: $sans;
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  padding-left: 3%;
-  padding-right: 3%;
-  grid-template-rows: auto auto;
-  column-gap: 3%;
-  row-gap: 0;
   font-size: var(--ms-0);
   letter-spacing: 0.005em;
   font-weight: 300;
   background: $lightgray;
   color: $black;
   --bg: #{$lightgray};
-  &.news {
-    background: $red;  
+  &.news,
+  &.post {
+    background: $red;
     --bg: #{$red};
   }
   &.books {
@@ -40,9 +35,24 @@ body {
     background: $sky;
     --bg: #{$sky};
   }
-  &.research, &.chapter {
+  &.research,
+  &.chapter {
     background: $yellow;
     --bg: #{$yellow};
+  }
+}
+
+.events,
+.news,
+.research,
+.chapter,
+.information,
+.research,
+.books,
+.post {
+  padding-top: 3rem;
+  @include bp(m) {
+    padding-top: 8rem;
   }
 }
 

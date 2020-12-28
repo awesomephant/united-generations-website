@@ -1,7 +1,3 @@
-.info {
-  padding-top: 8rem;
-}
-
 .info--content {
   grid-column: 5 / 12;
   p {
@@ -10,7 +6,7 @@
     line-height: 1.35;
   }
   h2 {
-    font-size: var(--ms-4);
+    font-size: var(--ms-3);
     margin-top: 1em;
     margin-bottom: .25em
   }

@@ -1,25 +1,29 @@
-.research {
-  padding-top: 10rem;
-}
 .research--header {
-  grid-column: 5 / 13;
+  grid-column: 1 / 13;
+  @include bp(m) {
+    grid-column: 5 / 12;
+  }
   max-width: 40em;
-  margin-bottom: 4em;
-  hyphens: auto;
-  font-size: var(--ms-1);
+  font-size: var(--ms-2);
+  margin-bottom: 1em;
 }
 
 .chapters {
-  grid-column: 5 / 12;
+  grid-column: 1 / 13;
+  @include bp(m) {
+    grid-column: 5 / 12;
+  }
   list-style: none;
-  font-size: var(--ms-2);
+  .chapter--nav {
+    font-size: var(--ms-1);
+  }
 }
 .chapter--title {
   font-size: var(--ms-5);
   a {
-      text-decoration: none;
+    text-decoration: none;
   }
   span {
-      margin-right: 1em;
+    margin-right: 1em;
   }
 }

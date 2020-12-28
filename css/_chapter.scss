@@ -6,9 +6,11 @@
   padding-top: 5rem;
   padding-bottom: 2rem;
   @include bp(m) {
-    grid-column: 5 / 10;
+    grid-column: 5 / 11;
   }
   h2 {
+    font-weight: 600;
+    letter-spacing: -.01em;
     font-size: var(--ms-5);
   }
 }
@@ -16,6 +18,7 @@
 .chapter--nav {
   grid-column: 1 / 4;
   padding-top: 1rem;
+  font-size: var(--ms--1);
   ul {
     border-radius: $br;
     border: 1px solid $black;
@@ -32,7 +35,7 @@
     }
     &.current {
       background: $black;
-      color: white;
+      color: var(--bg);
       font-weight: 600;
       a {
         pointer-events: none;

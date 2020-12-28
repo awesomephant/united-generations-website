@@ -1,0 +1,18 @@
+---
+layout: base
+class: post
+---
+
+<header class="post--header">
+    <p class="post--eyebrow">
+        {{date | date: "%B %e, %Y"}}
+    </p>
+    <img class="post--thumbnail" src="{{featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+    <h2 class="post--title">{{title}}</h2>
+    <section class="post--intro">
+        {{introduction}}
+    </section>
+</header>
+<main class="post--content">
+    {{content}}
+</main>

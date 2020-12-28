@@ -1,11 +1,14 @@
 .news {
-  padding-top: 8rem;
+  .news-card {
+    @include bp(m) {
+      grid-column: span 6;
+    }
+  }
+  .card--title {
+    font-size: var(--ms-2);
+  }
 }
 
 .news-list {
   display: contents;
-}
-
-.news-card {
-  @extend .card;
 }

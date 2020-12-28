@@ -1,9 +1,11 @@
-<li class="news-card">
+<li class="card news-card">
     <p class="card--eyebrow">
         {{item.data.date | date: "%B %e, %Y"}}
     </p>
     <section class="card--image">
-        <img src="{{item.data.featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+        <a href="{{item.url}}">
+            <img src="{{item.data.featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+        </a>
     </section>
     <h2 class="card--title">
         <a href="{{item.url}}">
