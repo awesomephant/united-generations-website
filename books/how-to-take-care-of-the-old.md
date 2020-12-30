@@ -1,5 +1,6 @@
 ---
 title: How to take care of the old
+date: 2020-11-29T21:27:08.475Z
 featured_image:
   image: /assets/uploads/old_desktop.jpg
   alt: A yellow book cover reading "How to take care of the old".

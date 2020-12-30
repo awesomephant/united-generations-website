@@ -1,5 +1,6 @@
 ---
 title: ARCADIA
+date: 2019-11-29T21:27:08.475Z
 featured_image:
   image: /assets/uploads/old_desktop.jpg
   alt: A yellow book cover.

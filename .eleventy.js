@@ -17,13 +17,31 @@ module.exports = function (eleventyConfig) {
     return sorted;
   });
   eleventyConfig.addCollection("news", function (collectionApi) {
-    return collectionApi.getFilteredByGlob(["./news/*.md"]);
+    const items = collectionApi.getFilteredByGlob(["./news/*.md"]);
+    let sorted = items.sort((a, b) => {
+      if (a.data.date < b.data.date) {
+        return 1;
+      } else if (a.data.date > b.data.date) {
+        return -1;
+      }
+      return 0;
+    });
+    return sorted;
   });
   eleventyConfig.addCollection("research", function (collectionApi) {
     return collectionApi.getFilteredByGlob(["./research/*.md"]);
   });
   eleventyConfig.addCollection("books", function (collectionApi) {
-    return collectionApi.getFilteredByGlob(["./books/*.md"]);
+    const items = collectionApi.getFilteredByGlob(["./books/*.md"]);
+    let sorted = items.sort((a, b) => {
+      if (a.data.date < b.data.date) {
+        return 1;
+      } else if (a.data.date > b.data.date) {
+        return -1;
+      }
+      return 0;
+    });
+    return sorted;
   });
 
   eleventyConfig.addFilter("renderMarkdown", function (value) {
