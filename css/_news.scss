@@ -1,7 +1,10 @@
 .news {
   .news-card {
+    @include bp(s) {
+      grid-column: span 12;
+    }
     @include bp(m) {
-      grid-column: span 6;
+      grid-column: 5 / 12;
     }
   }
   .card--title {

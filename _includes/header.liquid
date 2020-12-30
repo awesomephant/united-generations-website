@@ -1,4 +1,4 @@
-{% assign pages = "research,news,books,events,information" | split: ","%}
+{% assign pages = "news,events,books,research,information" | split: ","%}
 
 <header class="site-header">
   <a class="site--title" href="/">
@@ -7,9 +7,13 @@
     </h1>
   </a>
   <nav class="site--nav">
+    {% if settings.show_content %}
     {% for p in pages %}
     <a class="nav--link {% if class==p %}active{% endif %}" href="/{{p}}">{{p}}</a>
     {% endfor %}
+    {% else %}
+    <a class="nav--link" href="/information">Information</a>
+    {% endif %}
   </nav>
   <button class="toggle-menu">Menu</button>
 </header>

@@ -68,7 +68,7 @@ $slideHeight: 66.6666vh;
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: auto auto;
   row-gap: 0;
-  column-gap: 1%;
+  column-gap: var(--padding);
   padding-left: var(--padding);
   padding-right: var(--padding);
 }

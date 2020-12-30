@@ -9,6 +9,10 @@
         {{book.data.intro}}
     </div>
     <div class="card--data">
-        <a class="btn active" href="#1">Order from Amazon</a>
+        {% if item.data.link %}
+        <a class="btn active" href="{{item.data.link.url}}">
+            {{item.data.link.text}}
+        </a>
+        {% endif %}
     </div>
 </li>

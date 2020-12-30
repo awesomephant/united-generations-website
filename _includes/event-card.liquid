@@ -5,12 +5,12 @@
         {% endif %}
         {% if item.data.featured_image %}
         <section class="card--image">
-            <img  src="{{item.data.featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+            <img src="{{item.data.featured_image.image}}" alt="{{item.data.featured_image.alt}}">
         </section>
         {% endif %}
         <h2 class="card--title">
             {{item.data.title}}
-            </h2>
+        </h2>
         <div class="card--copy">
             {{item.data.introduction}}
         </div>
@@ -19,7 +19,11 @@
                 <span>{{item.data.location}}</span>
                 <span>{{item.data.date | date: "%B %e, %Y"}}</span>
             </p>
-            <a class="btn active" href="#1">Read more</a>
+            {% if item.data.link %}
+            <a class="btn active" href="{{item.data.link.url}}">
+                {{item.data.link.text}}
+            </a>
+            {% endif %}
         </div>
     </section>
 </li>

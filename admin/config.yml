@@ -51,7 +51,6 @@ collections:
         required: false
         widget: string
         hint: Appears above the title and is used for filtering
-        op
       - name: "date"
         label: "Event date"
         widget: "date"
@@ -76,9 +75,16 @@ collections:
         buttons:
           - bold
           - italic
-      - name: "content"
-        label: "Copy"
-        widget: "markdown"
+      - name: "link"
+        label: Link
+        widget: object
+        fields:
+          - name: url
+            label: URL
+            widget: string
+          - name: text
+            label: Link Text
+            widget: string
   - name: "research"
     label: "Research"
     label_singular: "Research Chapter"
@@ -128,9 +134,16 @@ collections:
         buttons:
           - bold
           - italic
-      - name: "body"
-        label: "Copy"
-        widget: "markdown"
+      - name: "link"
+        label: Link
+        widget: object
+        fields:
+          - name: url
+            label: URL
+            widget: string
+          - name: text
+            label: Link Text
+            widget: string
   - name: "settings"
     label: "Settings"
     editor:
@@ -147,6 +160,9 @@ collections:
             name: "site_description"
             widget: "string"
             hint: "This is displayed in the header, search results and social media cards."
+          - label: Show Content
+            name: show_content
+            widget: boolean
       - file: "_data/about.json"
         name: "about"
         label: "About"

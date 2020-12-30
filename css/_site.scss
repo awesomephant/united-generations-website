@@ -23,12 +23,16 @@
     background: var(--bg);
     border-bottom: 1px solid $black;
   }
-  @include bp(mr){
+  @include bp(mr) {
     background: var(--bg);
     border-bottom: 1px solid $black;
   }
   a {
     text-decoration: none;
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
   }
 }
 
@@ -132,8 +136,12 @@
 .site-footer {
   grid-column: 1 / 13;
   padding-bottom: 2rem;
+  .home & {
+    display: none;
+  }
   padding-top: 6rem;
   text-align: center;
   color: black;
   font-size: var(--ms--1);
+  opacity: 0.5;
 }

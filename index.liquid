@@ -20,8 +20,12 @@ class: home
     <article class="home-copy">
         {{home.content | renderMarkdown}}
     </article>
+    {% if settings.show_content %}
     <section class="teasers">
-        <h2 class="teasers--title">Research <a href="/events" class="btn">View all</a></h2>
+        <h2 class="teasers--title">News <a href="/news" class="btn">View all</a></h2>
+        <ul class="teasers">
+            {% for item in collections.news %}
+            {% if forloop.index0 < 3%} {% include news-card.liquid with {item: item}%} {% endif %} {% endfor %} </ul>
     </section>
     <section class="teasers">
         <h2 class="teasers--title">Events <a href="/events" class="btn">View all</a></h2>
@@ -30,15 +34,10 @@ class: home
             {% if forloop.index0 < 3%} {% include event-card.liquid with {item: item}%} {% endif %} {% endfor %} </ul>
     </section>
     <section class="teasers">
-        <h2 class="teasers--title">News <a href="/news" class="btn">View all</a></h2>
-        <ul class="teasers">
-            {% for item in collections.news %}
-            {% if forloop.index0 < 3%} {% include news-card.liquid with {item: item}%} {% endif %} {% endfor %} </ul>
-    </section>
-    <section class="teasers">
         <h2 class="teasers--title">Books <a href="/events" class="btn">View all</a></h2>
         <ul class="teasers">
             {% for item in collections.books %}
             {% if forloop.index0 < 3%} {% include book-card.liquid with {book: item}%} {% endif %} {% endfor %} </ul>
     </section>
+    {% endif %}
 </main>

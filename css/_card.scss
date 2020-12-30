@@ -44,8 +44,14 @@
   margin-bottom: 0.5em;
   img {
     width: 100%;
-    border: 3px solid rgba(white, 1);
+    border: 2px solid rgba(white, 1);
     border-radius: $br;
+  }
+  a {
+    transition: $fast;
+    &:hover, &:focus {
+      opacity: .95;
+    }
   }
 }
 
