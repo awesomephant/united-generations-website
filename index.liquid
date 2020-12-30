@@ -7,11 +7,11 @@ class: home
     <div class="hero-slider">
         {% for slide in home.hero_images %}
         <div class='slide'>
-            <img src="{{slide.url | resize: 1500}}" alt="">
+            <img src="{{slide.url}}" alt="">
         </div>
         {% endfor %}
         <div class="slide last">
-            <img class='slide' src="{{home.hero_images[0].url | resize: 1500}}" alt="">
+            <img class='slide' src="{{home.hero_images[0].url}}" alt="">
         </div>
     </div>
 </header>
