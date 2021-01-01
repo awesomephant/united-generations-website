@@ -48,7 +48,7 @@ $br: 2px;
 $slideHeight: 66.6666vh;
 
 :root {
-  --padding: 2%;
+  --padding: max(2%, 1.2rem);
   --ratio: 1.25;
   --ms-0: clamp(1rem, 1.3vw, 1.25rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));

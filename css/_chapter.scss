@@ -3,27 +3,41 @@
 }
 .chapter--header {
   grid-column: 1 / 13;
-  padding-top: 5rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   @include bp(m) {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
     grid-column: 5 / 11;
   }
   h2 {
     font-weight: 600;
-    letter-spacing: -.01em;
-    font-size: var(--ms-5);
+    letter-spacing: -0.01em;
+    font-size: var(--ms-4);
+    @include bp(m){
+      font-size: var(--ms-5);
+    }
   }
 }
 
 .chapter--nav {
-  grid-column: 1 / 4;
   padding-top: 1rem;
   font-size: var(--ms--1);
+  grid-column: 1 / 13;
+  margin-bottom: 2rem;
+  @include bp(m) {
+    grid-column: 1 / 4;
+  }
   ul {
     border-radius: $br;
     border: 1px solid $black;
-    position: sticky;
-    top: 6rem;
+    columns: 2;
+    column-gap: 0;
+    column-rule: 1px solid $black;
+    @include bp(m) {
+      columns: 1;
+      top: 6rem;
+      position: sticky;
+    }
   }
   li {
     list-style: none;
@@ -31,7 +45,9 @@
     width: 100%;
     border-bottom: 1px solid $black;
     &:last-of-type {
-      border-bottom: 0;
+      @include bp(m){
+        border-bottom: 0;
+      }
     }
     &.current {
       background: $black;
@@ -45,34 +61,20 @@
   .index {
     font-weight: 400;
     width: 2em;
-  font-family: $mono;
+    font-family: $mono;
     display: inline-block;
-    
   }
   a {
-    padding: .75rem 1.5rem;
+    padding: 0.5rem .5rem;
+    @include bp(m){
+      padding: 0.75rem 1.5rem;
+    }
     text-decoration: none;
     display: block;
     width: 100%;
-    &:hover, &:focus {
+    &:hover,
+    &:focus {
       text-decoration: underline;
     }
-  };
-}
-
-.chapter--content {
-  grid-column: 1 / 13;
-  @include bp(m) {
-    grid-column: 5 / 11;
-  }
-  h2 {
-    font-size: var(--ms-3);
-    margin-top: 2em;
-    margin-bottom: .5em;
-  }
-  p {
-    line-height: 1.28;
-    font-size: var(--ms-1);
-    margin-bottom: .5em;
   }
 }
