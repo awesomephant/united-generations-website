@@ -21,11 +21,11 @@
   .scrolled &,
   .home & {
     background: var(--bg);
-    border-bottom: 1px solid $black;
+    box-shadow: 0 3px 8px -3px rgba(black, .3);
   }
   @include bp(mr) {
     background: var(--bg);
-    border-bottom: 1px solid $black;
+    box-shadow: 0 3px 8px -3px rgba(black, .3);
   }
   a {
     text-decoration: none;

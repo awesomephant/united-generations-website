@@ -2,18 +2,19 @@
   grid-column: 1 / 13;
   max-width: 22em;
   line-height: 1.1;
-  padding-bottom: 1em;
-  padding-top: 20vh;
+  padding-bottom: 2em;
   font-size: var(--ms-2);
   font-weight: 600;
   @include bp(s) {
-      font-size: var(--ms-4);
-      font-weight: 400;
+    font-weight: 400;
+    font-size: var(--ms-3);
+    padding-top: .25em;
   }
   @include bp(m) {
-    padding-top: 1em;
+    font-size: var(--ms-4);
     padding-bottom: 2.5em;
     grid-column: 5 / 12;
+    padding-top: 1em;
   }
   p {
     padding-bottom: 0.5em;
