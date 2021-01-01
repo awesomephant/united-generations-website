@@ -169,11 +169,48 @@ collections:
             widget: boolean
       - file: "_data/about.json"
         name: "about"
-        label: "About"
+        label: "Information"
         fields:
+          - label: "Introduction"
+            name: "intro"
+            widget: "markdown"
+            editor_components: []
           - label: "Copy"
             name: "content"
             widget: "markdown"
+            editor_components: ["image"]
+      - file: "_data/research.json"
+        name: "research"
+        label: "Research"
+        fields:
+          - label: "Introduction"
+            name: "intro"
+            widget: "markdown"
+            editor_components: []
+      - file: "_data/books.json"
+        name: "books"
+        label: "Books"
+        fields:
+          - label: "Introduction"
+            name: "intro"
+            widget: "markdown"
+            editor_components: []
+      - file: "_data/events.json"
+        name: "events"
+        label: "Events"
+        fields:
+          - label: "Introduction"
+            name: "intro"
+            widget: "markdown"
+            editor_components: []
+      - file: "_data/news.json"
+        name: "news"
+        label: "News"
+        fields:
+          - label: "Introduction"
+            name: "intro"
+            widget: "markdown"
+            editor_components: []
       - file: "_data/home.json"
         name: "home"
         label: "Home"

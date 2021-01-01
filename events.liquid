@@ -12,7 +12,7 @@ class: events
 {% endfor %}
 
 <header class="page--header">
-    <p>The events and exhibition aim to raise awareness through art and design. </p>
+    {{events.intro | renderMarkdown}}
     <div class="filters">
         <nav>
             <button class="active filter" data-filter="all">All</button>
@@ -25,6 +25,6 @@ class: events
 
 <ul class="events-list filtered-list">
     {% for item in collections.events %}
-        {% include event-card.liquid with {item: item}%}
+    {% include event-card.liquid with {item: item}%}
     {% endfor %}
 </ul>
