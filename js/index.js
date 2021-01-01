@@ -1,4 +1,5 @@
 const { initFilters } = require("./initFilters");
+const { initImages } = require("./initImages");
 const { initMenu } = require("./initMenu");
 
 let slider;
@@ -44,7 +45,7 @@ function initSliderAnimation(slider) {
     });
   });
 }
-
+initImages()
 window.addEventListener("DOMContentLoaded", () => {
   slider = document.querySelector(".hero-slider");
   if (slider) {

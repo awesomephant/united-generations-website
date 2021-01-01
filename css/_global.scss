@@ -71,3 +71,12 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+img {
+  opacity: 0;
+  transition: $fast;
+  transition-delay: 100ms;
+  &.loaded {
+    opacity: 1;
+  }
+}
