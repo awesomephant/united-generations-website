@@ -35,6 +35,10 @@ collections:
         buttons:
           - bold
           - italic
+      - name: "body"
+        label: Content
+        widget: markdown
+        editor_components: ["image"]
   - name: "events"
     label: "Events"
     label_singular: "Event"

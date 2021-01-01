@@ -2,6 +2,8 @@ const pluginSass = require("eleventy-plugin-sass");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
 const md = new markdownIt();
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("events", function (collectionApi) {
@@ -43,7 +45,31 @@ module.exports = function (eleventyConfig) {
     });
     return sorted;
   });
-
+  eleventyConfig.addTransform(
+    "resolveImageTitles",
+    function (content, outputPath) {
+      if (outputPath.endsWith(".html")) {
+        const dom = new JSDOM(content);
+        let transformed = "";
+        const images = dom.window.document.querySelectorAll(
+          ".post--content img"
+        );
+        images.forEach(img => {
+          if (img.getAttribute("title") !== ""){
+            let caption = dom.window.document.createElement("span")
+            let title = img.getAttribute("title")
+            caption.innerHTML = title;
+            caption.classList.add("caption")
+            console.log(title)
+            img.insertAdjacentElement("afterend", caption)
+          }
+        })
+        transformed = dom.serialize();
+        return transformed;
+      }
+      return content;
+    }
+  );
   eleventyConfig.addFilter("renderMarkdown", function (value) {
     return md.render(value);
   });
