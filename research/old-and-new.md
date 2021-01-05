@@ -1,6 +1,7 @@
 ---
 title: Old and New
 layout: chapter
+date: 2020-12-08T10:38:44.527Z
 ---
 
 In the near future, a significant part of the population is older. Redundant
