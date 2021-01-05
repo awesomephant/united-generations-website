@@ -3,12 +3,11 @@ layout: base
 class: research
 ---
 
-<header class="research--header">
-    <p>
-        In the near future, a significant part of the population is older. Redundant urban land is now fertile. Mobility
-        is electric or human-powered. Using findings from my book “How to take care of the old” and from site-specific
-        research, a tripartite strategy envisions how the Golden Lane Estate could transform.
-    </p>
+<header class="page--header">
+    <img class="hero" src="{{research.hero.src}}?nf_resize=fit&w=1000" alt="{{research.hero.alt}}" />
+    <div>
+        {{research.intro | renderMarkdown }}
+    </div>
 </header>
 
 <div class="chapters">

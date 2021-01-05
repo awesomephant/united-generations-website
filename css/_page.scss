@@ -1,22 +1,32 @@
 .page--header {
   grid-column: 1 / 13;
-  max-width: 22em;
   line-height: 1.1;
   padding-bottom: 2em;
-  font-size: var(--ms-2);
   font-weight: 600;
+  font-size: var(--ms-1);
   @include bp(s) {
+    font-size: var(--ms-2);
     font-weight: 400;
-    font-size: var(--ms-3);
     padding-top: .25em;
   }
   @include bp(m) {
-    font-size: var(--ms-4);
     padding-bottom: 2.5em;
     grid-column: 5 / 12;
-    padding-top: 1em;
+  }
+  .research & {
+    padding-bottom: .5em;
   }
   p {
     padding-bottom: 0.5em;
+    max-width: 25em;
+  }
+  .hero {
+    max-width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 2px;
+    border: 1px solid white;
+    @include bp(m){
+      margin-top: -2rem;
+    }
   }
 }

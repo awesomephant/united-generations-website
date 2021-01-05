@@ -187,6 +187,19 @@ collections:
             name: "intro"
             widget: "markdown"
             editor_components: []
+          - label: "Hero Image"
+            name: "hero"
+            widget: "object"
+            fields:
+              - name: src
+                label: Image
+                widget: image
+                media_library:
+                  config:
+                    max_file_size: 6000000
+              - name: alt
+                label: Alt
+                widget: string
       - file: "_data/books.json"
         name: "books"
         label: "Books"

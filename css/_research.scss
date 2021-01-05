@@ -1,21 +1,16 @@
-.research--header {
-  grid-column: 1 / 13;
-  @include bp(m) {
-    grid-column: 5 / 12;
-  }
-  max-width: 40em;
-  font-size: var(--ms-2);
-  margin-bottom: 1em;
-}
-
 .chapters {
   grid-column: 1 / 13;
+  font-size: var(--ms-0);
   @include bp(m) {
     grid-column: 5 / 12;
+    font-size: var(--ms-1);
   }
   list-style: none;
   .chapter--nav {
-    font-size: var(--ms-1);
+    font-size: inherit;
+    li {
+      border-left: 4px solid black;
+    }
   }
 }
 .chapter--title {
