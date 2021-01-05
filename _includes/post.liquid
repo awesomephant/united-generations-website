@@ -7,7 +7,9 @@ class: news
     <p class="post--eyebrow">
         {{date | date: "%B %e, %Y"}}
     </p>
+    {% if featured_image %}
     <img class="post--thumbnail" src="{{featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+    {% endif %}
     <h2 class="post--title">{{title}}</h2>
     <section class="post--intro">
         {{introduction}}

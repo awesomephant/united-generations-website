@@ -31,7 +31,16 @@ module.exports = function (eleventyConfig) {
     return sorted;
   });
   eleventyConfig.addCollection("research", function (collectionApi) {
-    return collectionApi.getFilteredByGlob(["./research/*.md"]);
+    const items = collectionApi.getFilteredByGlob(["./research/*.md"]);
+    let sorted = items.sort((a, b) => {
+      if (a.data.date < b.data.date) {
+        return 1;
+      } else if (a.data.date > b.data.date) {
+        return -1;
+      }
+      return 0;
+    });
+    return sorted;
   });
   eleventyConfig.addCollection("books", function (collectionApi) {
     const items = collectionApi.getFilteredByGlob(["./books/*.md"]);
@@ -55,12 +64,11 @@ module.exports = function (eleventyConfig) {
           ".post--content img"
         );
         images.forEach(img => {
-          if (img.getAttribute("title") !== ""){
+          if (img.getAttribute("title") !== "") {
             let caption = dom.window.document.createElement("span")
             let title = img.getAttribute("title")
             caption.innerHTML = title;
             caption.classList.add("caption")
-            console.log(title)
             img.insertAdjacentElement("afterend", caption)
           }
         })
@@ -72,6 +80,12 @@ module.exports = function (eleventyConfig) {
   );
   eleventyConfig.addFilter("renderMarkdown", function (value) {
     return md.render(value);
+  });
+  
+  eleventyConfig.addFilter("readingTime", function (s) {
+    const words = s.split(" ");
+    const minutes = words.length / 200;
+    return minutes.toFixed(1);
   });
 
   eleventyConfig.addPassthroughCopy("./assets");

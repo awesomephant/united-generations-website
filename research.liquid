@@ -18,6 +18,15 @@ class: research
                 <a href="{{item.url}}">
                     <span class="index">0{{forloop.index}}</span>{{item.data.title}}
                 </a>
+                <span class="readingTime">
+                    {{item.templateContent | readingTime }}min
+                </span>
+                {% if item.data.introduction %}
+                <div class="intro">
+                    {{item.data.introduction | renderMarkdown}}
+                </div>
+                {% endif %}
+
             </li>
             {% endfor %}
         </ul>

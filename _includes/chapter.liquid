@@ -3,11 +3,19 @@ layout: base
 class: research
 ---
 
-<header class="chapter--header">
-    <h2>
-        {{title}}
-    </h2>
+<header class="post--header">
+    <p class="post--eyebrow">
+        {{content | readingTime }} min read
+    </p>
+    {% if featured_image %}
+    <img class="post--thumbnail" src="{{featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+    {% endif %}
+    <h2 class="post--title">{{title}}</h2>
+    <section class="post--intro">
+        {{introduction}}
+    </section>
 </header>
+
 <nav class="chapter--nav">
     <ul>
         {% for item in collections.research %}
