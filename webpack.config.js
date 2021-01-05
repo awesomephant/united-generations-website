@@ -1,7 +1,7 @@
 const path = require("path");
 module.exports = {
   entry: {
-    dist: "./js/index.js",
+    main: "./js/index.js",
     admin: "./admin/admin.js",
   },
   output: {
