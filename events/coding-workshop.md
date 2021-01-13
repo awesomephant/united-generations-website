@@ -2,7 +2,7 @@
 title: Drawing for Wellbeing 02
 eyebrow: Workshop
 date: 2021-01-05T21:05:40.630Z
-location: Katherine Low Settlement, Battersea
+location: Katherine Low Settlement Online
 featured_image:
   image: /assets/uploads/kls_drawing
   alt: drawing of a pair of blue and green glasses
