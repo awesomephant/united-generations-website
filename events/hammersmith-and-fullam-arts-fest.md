@@ -1,6 +1,6 @@
 ---
 title: "Hammersmith and Fullam Arts Fest "
-eyebrow: exhibition
+eyebrow: Festival
 date: 2021-01-06T19:20:33.124Z
 location: "Online "
 featured_image:
