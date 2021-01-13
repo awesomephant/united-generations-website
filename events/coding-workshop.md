@@ -1,5 +1,5 @@
 ---
-title: Drawing for Wellbeing n.02
+title: Drawing for Wellbeing 02
 eyebrow: Workshop
 date: 2021-01-05T21:05:40.630Z
 location: Katherine Low Settlement, Battersea
