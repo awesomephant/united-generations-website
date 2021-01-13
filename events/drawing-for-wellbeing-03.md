@@ -12,5 +12,5 @@ introduction: KLS Drawing for Wellbeing is a series of creative workshops for
   drawing. The third workshop will focus on shadows.
 link:
   url: Join the event
-  text: "-"
+  text: Join the event
 ---
