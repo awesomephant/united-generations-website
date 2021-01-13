@@ -1,5 +1,5 @@
 ---
-title: Credits and Bibliography
+title: Bibliography
 layout: chapter
 date: 2021-01-13T22:35:00.000Z
 ---
