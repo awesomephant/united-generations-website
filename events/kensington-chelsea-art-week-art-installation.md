@@ -1,6 +1,6 @@
 ---
 title: Kensington + Chelsea Art Week 2021
-eyebrow: Exhibition
+eyebrow: exhibition
 date: 2021-01-13T19:08:51.603Z
 location: Notting Hill
 featured_image:
