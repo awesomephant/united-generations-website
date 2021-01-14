@@ -69,7 +69,7 @@ collections:
             label: Image
             widget: image
           - name: alt
-            label: Description
+            label: Alt text
             widget: string
             hint: "You can add a description, sometimes called alt-text, to your photos so they’re accessible to more people, including those who are blind or visually impaired."
       - name: "introduction"
@@ -82,13 +82,16 @@ collections:
       - name: "link"
         label: Link
         widget: object
+        required: false
         fields:
           - name: url
             label: URL
             widget: string
+            required: false
           - name: text
             label: Link Text
             widget: string
+            required: false
   - name: "research"
     label: "Research"
     label_singular: "Research Chapter"
