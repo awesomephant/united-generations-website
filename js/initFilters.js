@@ -1,5 +1,4 @@
 function initFilters() {
-  console.log("kjhkjh")
   const filters = document.querySelectorAll(".filters button.filter");
   const cards = document.querySelectorAll(".filtered-list li");
 

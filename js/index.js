@@ -1,3 +1,4 @@
+const { initEvents } = require("./initEvents");
 const { initFilters } = require("./initFilters");
 const { initImages } = require("./initImages");
 const { initMenu } = require("./initMenu");
@@ -52,6 +53,7 @@ window.addEventListener("DOMContentLoaded", () => {
     initSliderAnimation(slider);
   }
   initFilters();
+  initEvents();
   initMenu();
   if (window.scrollY > 10) {
     document.body.classList.add("scrolled");

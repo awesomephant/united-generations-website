@@ -95,6 +95,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("/*.xml");
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addWatchTarget("./dist/main.js");
+  eleventyConfig.addWatchTarget("./js/**/**.js");
   eleventyConfig.addPassthroughCopy({ "./admin/config.yml": "config.yml" });
 
   eleventyConfig.addPlugin(pluginRss);

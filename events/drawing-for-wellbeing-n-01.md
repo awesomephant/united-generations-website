@@ -11,6 +11,6 @@ introduction: KLS Drawing for Wellbeing is a series of creative workshops for
   workshops are aimed to introduce younger and older generations to the art of
   drawing and create an intergenerational community of KLS friends and artists.
 link:
-  url: "-"
-  text: "-"
+  url: ""
+  text: ""
 ---
