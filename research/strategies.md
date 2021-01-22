@@ -1,7 +1,7 @@
 ---
 title: Design Strategies
 layout: chapter
-date: 2024-01-13T22:35:00.000Z
+date: 2024-01-06T22:35:00.000Z
 order: 3
 ---
 
