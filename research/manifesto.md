@@ -1,7 +1,8 @@
 ---
 title: Manifesto
 layout: chapter
-date: 2021-01-02T19:00:00.000Z
+date: 2018-01-02T19:00:00.000Z
+order: 0
 ---
 
 

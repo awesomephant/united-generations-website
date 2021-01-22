@@ -1,6 +1,8 @@
 ---
 title: Golden Lane Estate
+date: 2021-01-13T22:35:00.000Z
 layout: chapter
+order: 5
 ---
 
 In the near future, a significant part of the population is older. Redundant

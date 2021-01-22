@@ -1,6 +1,8 @@
 ---
 title: Arcadia
 layout: chapter
+order: 2
+date: 2020-01-13T22:35:00.000Z
 ---
 
 In the near future, a significant part of the population is older. Redundant

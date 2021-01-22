@@ -106,8 +106,11 @@ collections:
         widget: string
       - name: "date"
         label: "Publication Date"
-        hint: "This is used to determine in which order the chapters appear."
         widget: "datetime"
+      - widget: "number"
+        label: "Order"
+        name: "order"
+        hint: "This is used to determine in which order the chapters appear."
       - name: body
         label: "Copy"
         widget: "markdown"

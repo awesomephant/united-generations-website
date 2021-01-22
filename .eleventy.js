@@ -6,6 +6,8 @@ const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
 module.exports = function (eleventyConfig) {
+  // The following line will ship with Eleveny 1.0
+  // eleventyConfig.addGlobalData("env", process.NODE_ENV);
   eleventyConfig.addCollection("events", function (collectionApi) {
     let items = collectionApi.getFilteredByGlob(["./events/*.md"]);
     let sorted = items.sort((a, b) => {
@@ -33,10 +35,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("research", function (collectionApi) {
     const items = collectionApi.getFilteredByGlob(["./research/*.md"]);
     let sorted = items.sort((a, b) => {
-      if (a.data.date < b.data.date) {
-        return 1;
-      } else if (a.data.date > b.data.date) {
+      if (a.data.order < b.data.order) {
         return -1;
+      } else if (a.data.order > b.data.order) {
+        return 1;
       }
       return 0;
     });
@@ -61,9 +63,13 @@ module.exports = function (eleventyConfig) {
         const dom = new JSDOM(content);
         let transformed = "";
         const images = dom.window.document.querySelectorAll(
-          ".post--content img"
+          ".post--content > p > img"
         );
         images.forEach(img => {
+          let src = img.getAttribute("src");
+          img.setAttribute("data-full-src", src)
+          src += "?nf_resize=fit&w=1000";
+          img.setAttribute("src", src)
           if (img.getAttribute("title") !== "") {
             let caption = dom.window.document.createElement("span")
             let title = img.getAttribute("title")
@@ -81,7 +87,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("renderMarkdown", function (value) {
     return md.render(value);
   });
-  
+
   eleventyConfig.addFilter("readingTime", function (s) {
     const words = s.split(" ");
     const minutes = words.length / 200;

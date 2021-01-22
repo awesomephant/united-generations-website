@@ -1,6 +1,8 @@
 ---
 title: Strategies
 layout: chapter
+date: 2024-01-13T22:35:00.000Z
+order: 3
 ---
 
 In the near future, a significant part of the population is older. Redundant
