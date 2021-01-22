@@ -17,8 +17,7 @@ It all begins taking in consideration the quality of life during a lifetime repr
 
 ![](/assets/uploads/diagram.jpg)
 
-Volunteering weekly at Katherine Low Settlement, an elderly community centre in Battersea, helped me understand the needs, challenges and dreams of older people. To learn from them. To talk to them. And discover what kind of activities are offered, when, and why. Katherine Low Settlement is currently the supporter of 'The United Generations project.
-For more information about the book please visit: [](https://adalbertolonardi.com/projects/take-care-of-the-old/)[Katherine Low Settlement](https://www.klsettlement.org.uk/)
+Volunteering weekly at Katherine Low Settlement, an elderly community centre in Battersea, helped me understand the needs, challenges and dreams of older people. To learn from them. To talk to them. And discover what kind of activities are offered, when, and why. Katherine Low Settlement is currently the supporter of 'The United Generations project. For more information about the book please visit: [](https://adalbertolonardi.com/projects/take-care-of-the-old/)[Katherine Low Settlement](https://www.klsettlement.org.uk/)
 
 [](https://adalbertolonardi.com/projects/take-care-of-the-old/)From research, interviews, and workshops, these are the most common activities (soft infrastructures) found among different generations which I analysed and linked to possible related yet different spaces (hard infrastructures). 
 
