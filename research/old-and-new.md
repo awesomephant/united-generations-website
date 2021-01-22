@@ -23,5 +23,7 @@ Volunteering weekly at Katherine Low Settlement, an elderly community centre in 
 
 ![Soft infrastructures ( Activities) linked to hard insfructructes (spaces) diagram](/assets/uploads/activities-diagram1.jpg "Soft infrastructures ( Activities) linked to hard insfructructes (spaces) diagram")
 
-I concluded that the eight ecosystems most common among the old and young generations are: 
+Through interviews, workshops, volunteering experience, and talks, I concluded that the eight ecosystems most common among the old and young generations are: 
 **Nature, Care of the Body, Exercise, Work, Arts, Spirituality, Farming and Food**.
+
+{% gallery '[{}]' %}
