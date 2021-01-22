@@ -1,5 +1,5 @@
 ---
-title: Design Strategies
+title: "Ecosystem Design "
 layout: chapter
 date: 2024-01-06T22:35:00.000Z
 order: 3
