@@ -3,7 +3,7 @@ title: Abstract
 layout: chapter
 introduction: In the near future, a significant part of the population is older.
   Redundant urban land is now fertile. Mobility is electric or human-powered.
-date: 2011-01-22T17:40:02.690Z
+date: 2021-01-01T17:40:02.690Z
 order: 1
 ---
 
