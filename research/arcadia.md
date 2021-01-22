@@ -1,11 +1,16 @@
 ---
 title: Arcadia
 layout: chapter
-order: 2
-date: 2020-01-13T22:35:00.000Z
+date: 2021-01-04T20:19:28.499Z
 ---
-In a time when the older population needs to be reconnected more than ever with the younger one, I propose to go back to the Arcadian archetype where community, sustainability, and simplicity are the assets for a prosperous living. Arcadia is a vision of pastoralism and harmony with nature. A poetic space associated with generous natural splendour and harmony. Arcadia is a Garden often inhabited by shepherds which live close to nature, uncorrupted by virtuous and civilization. 
+In a time when the older population needs to be reconnected more than ever with the younger one, I propose to go back to the Arcadian archetype where community, sustainability, and simplicity are the assets for a prosperous living. 
 
 ![Community, sustainability, and simplicity diagram on painting by Cole Thomas, The Course of Empire The Arcadian or Pastoral State (1836)](/assets/uploads/arcadiaintro.jpg "Community, sustainability, and simplicity diagram on painting by Cole Thomas, The Course of Empire The Arcadian or Pastoral State (1836)")
 
+Arcadia is a vision of pastoralism and harmony with nature. A poetic space associated with generous natural splendour and harmony. Arcadia is a Garden often inhabited by shepherds which live close to nature, uncorrupted by virtuous and civilization. 
+
+{% gallery '[{"image":"/assets/uploads/arcadia2.jpg","caption":"Italian Cascina simbol of simple life and model for the 'court' ilfe. Black and white image","alt":"Italian Cascina simbol of multigenerations strcuture and model for the 'court' ilfe."},{"image":"/assets/uploads/arcadia3.jpg","caption":"Nomadic beduin camp representing semplicity and sustainability. Black and white image","alt":"Nomadic beduin camp representing semplicity and sustainability. Black and white image"}]' %}
+
 Could Arcadia be a contemporary living model to create meaningful connections between old and new generations, based on a sustainable, integrated and caring economy where wellbeing is the new economic value?
+
+![The modern arcadia model including in the simlpt life food production, reuse and recycle, renewable energy and species integration](/assets/uploads/arcadia-model.jpg "The modern arcadia model including in the simlpt life food production, reuse and recycle, renewable energy and species integration")
