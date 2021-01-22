@@ -1,11 +1,12 @@
 ---
+layout: chapter
 title: Arcadia (2020)
 date: 2021-01-07T20:57:49.024Z
-layout: chapter
+order: 0
 ---
 This is a short illustrated story of care, sustainability and wellbeing between old and new generations. A journey of a day, a year, a generation through Arcadia, the citadel of nature, conviviality, and renewable resources.
 
-## Arcadia
+### Arcadia
 
 ![Arcadia: Hills (Aerial Perspective) - Coloured pencil and oil stick on digital print (29.7 x 20 cm)](/assets/uploads/5effa7aab9875c4cff04d8d6-50602-resize-1920-2560.jpeg "Arcadia: Hills (Aerial Perspective) - Coloured pencil and oil stick on digital print (29.7 x 20 cm)")
 
