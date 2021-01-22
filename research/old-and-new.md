@@ -7,7 +7,7 @@ In last year publication “ How to take care of the old” I started observing 
 
 For more information about the book please visit: [How to take care of the old](https://adalbertolonardi.com/projects/take-care-of-the-old/)
 
-![A5 yellow book cover with title "how to take care of the old" and subtitle "Architecture, design and technology supporting an aging population in black on gray textured background.](/assets/uploads/old_desktop.jpg "How to take care of the old (2019) book cover with title \\"how to take care of the old\\"")
+![A5 yellow book cover with title "how to take care of the old" and subtitle "Architecture, design and technology supporting an aging population in black on gray textured background.](/assets/uploads/old_desktop.jpg "How to take care of the old (2019) book cover with title \\\\"how to take care of the old\\\\"")
 
 I focused my research on the socio-economical advantages of old and young interactions and I chose to design spaces and activities to facilitate the gathering of different generations together.
 
@@ -23,4 +23,5 @@ Volunteering weekly at Katherine Low Settlement, an elderly community centre in 
 
 ![](/assets/uploads/activities-diagram1.jpg)
 
-I concluded that the eight ecosystems most common among the old and young generations are: Nature, Care of the Body, Exercise, Work, Arts, Spirituality, Farming and Food.
+I concluded that the eight ecosystems most common among the old and young generations are: 
+**Nature, Care of the Body, Exercise, Work, Arts, Spirituality, Farming and Food**.
