@@ -1,8 +1,8 @@
 ---
-title: Bibliography
 layout: chapter
+title: Bibliography
 date: 2027-01-08T22:35:00.000Z
-order: 6
+order: 8
 ---
 ### Supported by
 
