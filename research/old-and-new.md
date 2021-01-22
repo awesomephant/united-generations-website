@@ -1,8 +1,8 @@
 ---
-title: Old and New
 layout: chapter
-order: 4
+title: Old and New
 date: 2021-01-03T07:00:00.000Z
+order: 3
 ---
 In last year publication “ How to take care of the old” I started observing my parents ageing implications and investigating how my practice could contribute to their and other people’s quality of life.
 
