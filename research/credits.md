@@ -5,9 +5,11 @@ date: 2028-01-09T22:30:00.000Z
 order: 7
 ---
 ### Supported by
+
 Katherine Low Settlement
 
 ### Thanks to
+
 Jenny Jones (Studio Jenny Jones)
 Barry Curtis (Central Saint Martins)
 Rebecca Mckillip (Dalziel & Pow)
@@ -28,4 +30,5 @@ Manja Van De Worp (Royal College of Art)
 Jo-Anne Bichard (Helen Hamlyn Center)
 
 ### Website design and back-end by
+
 Max Kohler
