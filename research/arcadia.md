@@ -14,4 +14,4 @@ Arcadia is a vision of pastoralism and harmony with nature. A poetic space assoc
 
 Could Arcadia be a contemporary living model to create meaningful connections between old and new generations, based on a sustainable, integrated and caring economy where wellbeing is the new economic value?
 
-![The modern arcadia model including in the simlpt life food production, reuse and recycle, renewable energy and species integration](/assets/uploads/arcadia-model.jpg "The modern arcadia model including in the simple life food production, reuse and recycle, renewable energy and species integration")
+![The modern arcadia model including in the simple life food production, reuse and recycle, renewable energy and species integration](/assets/uploads/arcadia-model.jpg "The modern arcadia model including in the simple life food production, reuse and recycle, renewable energy and species integration")
