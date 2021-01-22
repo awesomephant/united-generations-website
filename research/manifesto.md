@@ -1,7 +1,7 @@
 ---
 title: Manifesto
 layout: chapter
-date: 2018-01-02T19:00:00.000Z
+date: 2021-01-02T19:00:00.000Z
 order: 0
 ---
 ![Arcadia 2020 (digital collage)](/assets/uploads/manifesto2.jpg "Cole Thomas, The Course of Empire The Arcadian or Pastoral State (1836)")
