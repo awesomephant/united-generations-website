@@ -28,7 +28,4 @@ Reiko Yamazaki (Royal College of Art)
 Ian Hunter (Material Council)
 Manja Van De Worp (Royal College of Art)
 Jo-Anne Bichard (Helen Hamlyn Center)
-
-### Website design and back-end by
-
-Max Kohler
+Max Kohler (graphic designer)
