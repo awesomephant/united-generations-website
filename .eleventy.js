@@ -84,6 +84,21 @@ module.exports = function (eleventyConfig) {
       return content;
     }
   );
+  eleventyConfig.addShortcode("gallery", function (data) {
+    let gallery = JSON.parse(decodeURIComponent(data));
+    items = gallery.map((item) => {
+      let caption = ""
+      if (item.caption) {
+        caption = item.caption
+      }
+      return `<figure class="gallery--item">
+      <img data-full-src="${item.image}" src="${item.image}?nf_resize=fit&w=1000" alt="${item.alt}">
+      <figcaption>${caption}</figcaption>
+      </figure>`;
+    });
+
+    return `<div class="gallery" data-count="">${items.join("\n")}</div>`;
+  });
   eleventyConfig.addFilter("renderMarkdown", function (value) {
     return md.render(value);
   });
