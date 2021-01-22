@@ -1,8 +1,8 @@
 ---
-title: Credits
 layout: chapter
+title: Credits
 date: 2028-01-09T22:30:00.000Z
-order: 7
+order: 9
 ---
 ### Supported by
 
