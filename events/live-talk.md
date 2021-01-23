@@ -1,5 +1,6 @@
 ---
-title: Live Talk
+title: The United Generations Work in progress on Live!
+eyebrow: Talk
 date: 2021-01-23T21:44:00.873Z
 location: LIVE! Online
 featured_image:
