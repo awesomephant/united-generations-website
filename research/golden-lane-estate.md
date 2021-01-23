@@ -18,6 +18,8 @@ This is the Golden Lane Estate, the city in the city.  An urban microcosm desig
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fgle-hoouse.jpg%22%2C%22caption%22%3A%22Great%20Arthur%20Apartment%20Living%20Room%20Interior%20(1975)%2C%20AJ%20Buildings%20Library%22%2C%22alt%22%3A%22Great%20Arthur%20Apartment%20Living%20Room%20Interior%20(1975)%2C%20AJ%20Buildings%20Library%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fgle-house-2.jpg%22%2C%22caption%22%3A%22Bayer%20House%20Maisonette%20Interior%20Living%20Room%20(1975)%2C%20AJ%20Buildings%20Library%22%2C%22alt%22%3A%22Bayer%20House%20Maisonette%20Interior%20Living%20Room%20(1975)%2C%20AJ%20Buildings%20Library%22%7D%5D" %}
 
+![White cardboard model (1:100)](/assets/uploads/model-grain.jpg "White cardboard model (1:100)")
+
 What once imagined as a dream, today lost its values. The Estate is redundant of dark underground garage spaces, large paved squares,  lack of green spaces, unused rooftop surfaces, ineffective communal areas, and small residences.
 
 ![Underground unused garages, photo by author](/assets/uploads/garages.jpg "Underground unused garages, photo by author")
