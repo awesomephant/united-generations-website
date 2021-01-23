@@ -24,17 +24,11 @@ The State of Ageing 2019, Center of ageing better, 2019. 
 
 **ONLINE RESOURCES** 
 
-ENIL, European Network for Intergenerational Learning, Report on Intergenerational 
-
-Learning and Volunteering. 
-
-\[Accessed 04 November 2019]. 
+ENIL, European Network for Intergenerational Learning, Report on Intergenerational Learning and Volunteering.\[Accessed 04 November 2019]. 
 
 Consumer Attitudes, Stylus, 2019 \[Accessed 30 October 2019]. 
 
-https://www.merriam-webster.com/dictionary/old 
-
-\[Accessed 04 November 2019]. 
+https://www.merriam-webster.com/dictionary/old \[Accessed 04 November 2019]. 
 
 https://www.theguardian.com/society/2020/jan/07/ britain-age-segregated-countries-world-age-apartheid \[Accessed 04 November 2019]. 
 
@@ -46,13 +40,9 @@ https://www.ons.gov.uk/peoplepopulationandcommunity/ wellbeing \[Accessed 04 Nov
 
 https://equalarts.org.uk/our-work/henpower \[Accessed 04 November 2019]. 
 
-https://www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary/ 
+https://www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary/ \[Accessed 04 November 2019]. 
 
-\[Accessed 04 November 2019]. 
-
-https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d 
-
-\[Accessed 16 January 2020]. 
+https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d \[Accessed 16 January 2020]. 
 
 https://media.toyota.co.uk/2018/01/toyota-launches-new-mobility-ecosystem-concept-vehicle-ces-2018/ \[Accessed 16 January 2020]. 
 
@@ -66,14 +56,4 @@ http://www.interactivearchitecture.org/fun-palace-cedric-price.html \[Accessed 0
 
 Author’s interview with Howard Sullivan (Dec. 2019). 
 
-Author’s interview with Barry Curtis (Nov. 2019). 
-
-Author’s interview with Benedetta Barzini (Nov. 2019). 
-
-Author’s interview with Carlotta(Nov. 2019).Author’s interview with Brendan Commane (Nov. 2019). 
-
-**MOVING IMAGES** 
-
-Look at life, Top People, 1960 
-
-Old People's Home for 4 Year Olds Israel, 2018
+**IMAGES**
