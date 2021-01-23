@@ -85,4 +85,6 @@ In front of the stables between two hills, a watering hole emerges in a valley o
 
 ![The Temple of Resonance: Dome Section - Pen on tracing paper (60 x 29.7 cm)](/assets/uploads/temple-drawing.jpg "The Temple of Resonance: Dome Section - Pen on tracing paper (60 x 29.7 cm)")
 
-## "Seasons have changed here and the Estate changed with it. In Arcadia, time loses its perception. There is no old nor new, but just the present."
+## Epilogue
+
+"Seasons have changed here and the Estate changed with it. In Arcadia, time loses its perception. There is no old nor new, but just the present."
