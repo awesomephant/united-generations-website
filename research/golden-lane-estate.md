@@ -14,9 +14,7 @@ This is the Golden Lane Estate, the city in the city.  An urban microcosm desig
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_85292.jpg%22%2C%22caption%22%3A%22Golden%20Lane%2C%20Stanley%20Cohen%20House%20Courtyard%20(1975)%2C%20AJ%20Buildings%20Library%22%2C%22alt%22%3A%22Golden%20Lane%2C%20Stanley%20Cohen%20House%20Courtyard%20(1975)%2C%20AJ%20Buildings%20Library%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fimg_8529.jpg%22%2C%22caption%22%3A%22Golden%20Lane%2C%20Stanley%20Cohen%20House%20Courtyard%20(1975)%2C%20AJ%20Buildings%20Library%22%2C%22alt%22%3A%22Golden%20Lane%2C%20Stanley%20Cohen%20House%20Courtyard%20(1975)%2C%20AJ%20Buildings%20Library%22%7D%5D" %}
 
-
-
-
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fgolden-lane-pool-588x408.jpg%22%2C%22caption%22%3A%22Physical%20Recreation%20Building%20(1975)%2C%20AJ%20Buildings%20Library%22%2C%22alt%22%3A%22Physical%20Recreation%20Building%20(1975)%2C%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fgolden-lane-playground-588x408.jpg%22%2C%22caption%22%3A%22Children%20Playground%20Pit%20(1975)%2C%20AJ%20Buildings%20Library%22%2C%22alt%22%3A%22Children%20Playground%20Pit%20(1975)%2C%20AJ%20Buildings%20Library%22%7D%5D" %}
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fgle-hoouse.jpg%22%2C%22caption%22%3A%22Great%20Arthur%20Apartment%20Living%20Room%20Interior%20(1975)%2C%20AJ%20Buildings%20Library%22%2C%22alt%22%3A%22Great%20Arthur%20Apartment%20Living%20Room%20Interior%20(1975)%2C%20AJ%20Buildings%20Library%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fgle-house-2.jpg%22%2C%22caption%22%3A%22Bayer%20House%20Maisonette%20Interior%20Living%20Room%20(1975)%2C%20AJ%20Buildings%20Library%22%2C%22alt%22%3A%22Bayer%20House%20Maisonette%20Interior%20Living%20Room%20(1975)%2C%20AJ%20Buildings%20Library%22%7D%5D" %}
 
