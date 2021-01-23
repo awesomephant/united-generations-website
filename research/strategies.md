@@ -6,6 +6,20 @@ order: 6
 ---
 Finally, I made a strict inventory of the building visual typologies, I translated them into bidimentional stencils and tridimentional objects which I used to design the spaces.
 
-![](/assets/uploads/the-united-generations_2020_play.jpg)
+![](/assets/uploads/the-united-generations_2020_table.jpg)
 
-In the near future, a significant part of the population is older. Redundant urban land is now fertile. Mobility is electric or human-powered. Co-living, re-use lifestyles, and adaptation of the existing are the norm. And we humans, finally learn that together we are stronger, nature is sacred, technology is our ally, and life is slow.
+ If the vision of how the imposition of the grid would bring order to nature in a post-war environment, what if instead, we intersect the Arcadian archetype into the modernist city? In the future, a significant part of the population is older. Redundant urban land is now fertile. Mobility is electric or human-powered. Co-living, re-use lifestyles, and adaptation of the existing are the norm. And we humans, finally learn that together we are stronger, nature is sacred, technology is our ally, and life is slow.
+
+![](/assets/uploads/hills-diagram.jpg)
+
+The United Generations is a sustainable ecosystem with a domestic and public scheme where the residents and the community are engaged through activities and events that combine social, economic, and cultural values contributing to the wellness and the reconnection of old and new generations. Using findings and site-specific research, a tripartite strategy envisions how the Golden Lane Estate could transform into an intergenerational community at all levels adapting garages, basements, shops, wellness centre, paved courts, residences and rooftops at all levels around the 4 courts. 
+
+![](/assets/uploads/ug-scheme.jpg)
+
+At the domestic level, the Adaptable Domestic Scheme (ADS) proposes reversible physical home adaptations of scale and accessibility that enable residents to stay in the Estate through the phases of life. The homes expand through horizontal temporary interior perforations and exterior extensions. Privacy is guaranteed through independent entrances. While interior balconies promote family bonds to grow, benches and rails on the corridors create places for the neighbours' relationships to grow.
+
+![](/assets/uploads/the-united-generations_2020_scheme-diagrams.jpg)
+
+At the Estate level, the Adaptable Public Scheme (APS) merges internal and external spaces hosting activities that promote intergenerational moments connected to nature, care of the body, exercise, work, performance, spirituality, farming and food.
+
+![](/assets/uploads/the-united-generations_2020_scheme-diagrams2.jpg)
