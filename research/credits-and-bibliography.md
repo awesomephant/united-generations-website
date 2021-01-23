@@ -4,7 +4,7 @@ title: Bibliography
 date: 2027-01-08T22:35:00.000Z
 order: 8
 ---
-**BOOKS, JOURNAL ARTICLES** 
+## BOOKS, JOURNAL ARTICLES 
 
 Schiano-Phan et al: Spatial Delight and Environmental Performance of Modernist Architecture in London – Golden Lane Estate, 2018 . 
 
@@ -22,7 +22,7 @@ Golden Lane Estate, Our Open Spaces, GLERA/Estate Office, August 2019, London. 
 
 The State of Ageing 2019, Center of ageing better, 2019. 
 
-**ONLINE RESOURCES** 
+## ONLINE RESOURCES 
 
 ENIL, European Network for Intergenerational Learning, Report on Intergenerational Learning and Volunteering.\[Accessed 04 November 2019]. 
 
@@ -52,8 +52,8 @@ https://edition.cnn.com/2018/10/16/health/depression-mental-health-zimbabwe-afri
 
 http://www.interactivearchitecture.org/fun-palace-cedric-price.html \[Accessed 04 November 2019]. 
 
-**INTERVIEWS** 
+## **INTERVIEWS** 
 
 Author’s interview with Howard Sullivan (Dec. 2019). 
 
-**IMAGES**
+## IMAGES
