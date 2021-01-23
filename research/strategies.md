@@ -23,3 +23,11 @@ At the domestic level, the Adaptable Domestic Scheme (ADS) proposes reversible p
 At the Estate level, the Adaptable Public Scheme (APS) merges internal and external spaces hosting activities that promote intergenerational moments connected to nature, care of the body, exercise, work, performance, spirituality, farming and food.
 
 ![](/assets/uploads/the-united-generations_2020_scheme-diagrams2.jpg)
+
+There are three examples of modular interventions applied to the existing fabric. While private balconies extensions allow internal relationships to grow, outdoor benches promote neighbours’ interactions, and horizontal wall perforations expand the shared living spaces when needed by the larger families. In Arcadia, there are seven adaptable public areas connected by a system of hills, fields, ramps, benches, and rails.
+
+![](/assets/uploads/the-united-generations_2020_portfolio2.jpg)
+
+![](/assets/uploads/the-united-generations_2020_portfolio22.jpg)
+
+![](/assets/uploads/the-united-generations_2020_portfolio23.jpg)
