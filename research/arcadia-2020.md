@@ -44,3 +44,21 @@ In front of the stables between two hills, a watering hole emerges in a valley o
 ![The Kitchen Club: Cooking Sessions - Coloured pencil and oil stick on digital print (29.7 x 20 cm)](/assets/uploads/kitchen_web.jpg "The Kitchen Club: Cooking Sessions - Coloured pencil and oil stick on digital print (29.7 x 20 cm)")
 
 ![The Kitchen Club: Underneath the Canopy - Digital drawing](/assets/uploads/kitchen-drawing-web.jpeg "The Kitchen Club: Underneath the Canopy - Digital drawing")
+
+## VI. The Baths
+
+"Those who seek for care after their hands, feet and body gather around the tepid walls of the baths. The most popular space here is the circular feet-care pool where the humble ritual of the younger washing the feet of the older takes place. The water complex is a conversion of the old gyms into a space for health, sensuality and freedom connected to the existing pool and gymnasium. Underneath the wings of the new walkable hill, two corridors guide the guests to the entrances of the interior space, built with locally produced merdacotta and black clay cladding."
+
+![Baths: Washing Feet - Coloured pencil and oil stick on digital print (29.7 x 20 cm)](/assets/uploads/btahs-wbe.jpg "Baths: Washing Feet - Coloured pencil and oil stick on digital print (29.7 x 20 cm)")
+
+![Baths: Hill Section - Digital drawing](/assets/uploads/bath-drawing-web.jpg "Baths: Hill Section - Digital drawing")
+
+## VII. The High Farms
+
+"In summer late afternoons, the residents prepare to leave the High Farms, after a long day taking care of the crops. Sitting on the benches, they talk about life and prepare to transport the harvested goods to the underground refrigerated cells. On these long strips of land covering the converted unused rooftops, the young carers learn the cycles of life of vegetables which will be used in the Kitchen Club or sold during the Sunday Market."
+
+![The High Farms: The Strips - Coloured pencil and oil stick on digital print (29.7 x 20 cm)](/assets/uploads/farm-web.jpg "The High Farms: The Strips - Coloured pencil and oil stick on digital print (29.7 x 20 cm)")
+
+![The High Farms: The Allotments - Digital drawing](/assets/uploads/farm-drawing-web.jpg "The High Farms: The Allotments - Digital drawing")
+
+## VIII. The High Farms
