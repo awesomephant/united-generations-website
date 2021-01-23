@@ -20,4 +20,6 @@ This is the Golden Lane Estate, the city in the city.  An urban microcosm desig
 
 What once imagined as a dream, today lost its values. The Estate is redundant of dark underground garage spaces, large paved squares,  lack of green spaces, unused rooftop surfaces, ineffective communal areas, and small residences.
 
+![Underground unused garages, photo by author](/assets/uploads/garages.jpg "Underground unused garages, photo by author")
+
 Through interviews and questionnaires, the residents reclaimed greener spaces, pets allowed, a coordinated program of activities, complained about the degradation of the public areas, and dreamed about shared workshops, farmland, a radio station.
