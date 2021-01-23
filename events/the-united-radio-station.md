@@ -11,5 +11,5 @@ introduction: An opportunity to meet MA Interior Design graduate Adalberto
   Generations, his practice, works in progress and future plans.
 link:
   url: https://www.twitch.tv/adalbertolonardi
-  text: Watch the talks
+  text: Watch The United Radio Station streaming here
 ---
