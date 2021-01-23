@@ -11,6 +11,6 @@ introduction: The United Generations work in progress is presented on LIVE! a
   series of live talks on Instagram with a focus on the creative industry by
   Gianluca Alla.
 link:
-  url: https://livetalkfrom.com/
-  text: Watch the talks
+  url: https://www.instagram.com/tv/B-pYSPfFEY3/
+  text: Watch the talk
 ---
