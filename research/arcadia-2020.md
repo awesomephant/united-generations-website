@@ -61,4 +61,10 @@ In front of the stables between two hills, a watering hole emerges in a valley o
 
 ![The High Farms: The Allotments - Digital drawing](/assets/uploads/farm-drawing-web.jpg "The High Farms: The Allotments - Digital drawing")
 
-## VIII. The High Farms
+## VIII. Maisonettes
+
+"During a summery night, grandparents, parents, and children living in two recently merged maisonettes reunite around the combined chestnut tables for the usual family dinner. The households extend on two floors and combine in the living room through a perforation with foldable recycled aluminum doors which ensure the privacy of both families when needed."
+
+![The Dinner - Coloured pencil and oil stick on digital print (29.7 x 20 cm)](/assets/uploads/house-web.jpeg "The Dinner - Coloured pencil and oil stick on digital print (29.7 x 20 cm)")
+
+![Maisonettes: Typical Merged Layout - Digital drawing](/assets/uploads/house-drawing-web.jpg "Maisonettes: Typical Merged Layout - Digital drawing")
