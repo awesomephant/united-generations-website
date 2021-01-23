@@ -10,6 +10,8 @@ This is the Golden Lane Estate, the city in the city.  An urban microcosm desig
 
 {% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Friba34961.jpg%22%2C%22caption%22%3A%22Golden%20Lane%20Estate%2C%20Great%20Arthur%20House%2C%20RIBA%20(1960)%22%2C%22alt%22%3A%22Golden%20Lane%20Estate%2C%20Great%20Arthur%20House%2C%20RIBA%20(1960)%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Ftower.jpg%22%2C%22caption%22%3A%22Golden%20Lane%20Estate%2C%20Great%20Arthur%20House%20Rooftop%2C%20Architecture%20Journal%20(1960)%22%2C%22alt%22%3A%22Golden%20Lane%20Estate%2C%20Great%20Arthur%20House%20Rooftop%2C%20Architecture%20Journal%20(1960)%22%7D%5D" %}
 
+{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fgoldenlane.jpg%22%2C%22caption%22%3A%22Goswel%20Road%2C%20Crescent%20House%20(1975)%22%2C%22alt%22%3A%22Goswel%20Road%2C%20Crescent%20House%20(1975)%22%7D%2C%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fgoldenlane2.jpg%22%2C%22caption%22%3A%22Golden%20Lane%2C%20Stanley%20Cohen%20House%20(1975)%22%2C%22alt%22%3A%22Golden%20Lane%2C%20Stanley%20Cohen%20House%20(1975)%22%7D%5D" %}
+
 What once imagined as a dream, today lost its values. The Estate is redundant of dark underground garage spaces, large paved squares,  lack of green spaces, unused rooftop surfaces, ineffective communal areas, and small residences.
 
 
