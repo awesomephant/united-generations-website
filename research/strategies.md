@@ -6,7 +6,7 @@ order: 6
 ---
 Finally, I made a strict inventory of the building visual typologies, I translated them into bidimentional stencils and tridimentional objects which I used to design the spaces.
 
-![](/assets/uploads/the-united-generations_2020_table.jpg)
+![Design stencyl and volumetric objects, created from the architectural geometries of the Estate](/assets/uploads/the-united-generations_2020_table.jpg "Design stencyl and volumetric objects, created from the architectural geometries of the Estate")
 
  If the vision of how the imposition of the grid would bring order to nature in a post-war environment, what if instead, we intersect the Arcadian archetype into the modernist city? In the future, a significant part of the population is older. Redundant urban land is now fertile. Mobility is electric or human-powered. Co-living, re-use lifestyles, and adaptation of the existing are the norm. And we humans, finally learn that together we are stronger, nature is sacred, technology is our ally, and life is slow.
 
