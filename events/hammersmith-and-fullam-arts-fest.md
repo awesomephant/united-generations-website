@@ -4,7 +4,7 @@ eyebrow: Festival
 date: 2021-01-06T19:20:33.124Z
 location: "Online "
 featured_image:
-  image: /assets/uploads/panel2.jpg
+  image: /assets/uploads/2000x1125px_web.jpg
   alt: orange panel part of restore installation, a family around a table with
     animals and fruits
 introduction: The glass painted window installation Restore by Adalberto Lonardi
