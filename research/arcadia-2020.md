@@ -25,3 +25,7 @@ This is a short illustrated story of care, sustainability and wellbeing between
 ## III. The Work/Shops
 
 "It is fall, it is winter. One of the adaptable laboratories, part of the Work/Shops strip hosts the production of ceramic vessels run by the older residents. The young ones observe, learn, and reproduce. The tradition is kept and the outcome will be sold on the bright ground floor to feed the economy of the community. The Work/Shops are a series of converted older shops and basements dedicated to the disciplines of art&crafts, reuse, technology, and research. Conceived as permeable double-height volumes, they connect the high-street to the Arcadian Gardens."
+
+![The Work/Shops: From the Window - Coloured pencil and oil stick on digital print (29.7 x 20 cm)](/assets/uploads/5effa912b9875c4cff052247-36067-resize-1920-2560.jpg "The Work/Shops: From the Window - Coloured pencil and oil stick on digital print (29.7 x 20 cm)")
+
+![The Work/Shops: Strip Section - Hand drawing, Pen on tracing paper (80 x 29.7 cm)](/assets/uploads/5effa912b9875c4cff052247-958003-resize-1920-2560.jpg "The Work/Shops: Strip Section - Hand drawing, Pen on tracing paper (80 x 29.7 cm)")
