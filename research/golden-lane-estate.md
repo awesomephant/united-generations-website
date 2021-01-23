@@ -22,4 +22,6 @@ What once imagined as a dream, today lost its values. The Estate is redundant of
 
 ![Underground unused garages, photo by author](/assets/uploads/garages.jpg "Underground unused garages, photo by author")
 
-Through interviews and questionnaires, the residents reclaimed greener spaces, pets allowed, a coordinated program of activities, complained about the degradation of the public areas, and dreamed about shared workshops, farmland, a radio station.
+Through interviews and questionnaires, the public and the residents reclaimed greener spaces, pets allowed, a program of activities, complained about the degradation of the public concrete areas, and dreamed about shared workshops, farmland, and a radio station.
+
+![Golden Lane Estate Inteviews Open Call (2019)](/assets/uploads/golden-lane-estate-intevriew-poster.jpg "Golden Lane Estate Inteviews Open Call (2019)")
