@@ -12,5 +12,5 @@ introduction: The United Generations work in progress is presented on LIVE! a
   Gianluca Alla.
 link:
   url: https://livetalkfrom.com/
-  text: Watch the talks at Live Talk From here
+  text: Watch the talks
 ---
