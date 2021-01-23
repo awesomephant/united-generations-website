@@ -1,0 +1,15 @@
+---
+title: Live Talk
+date: 2021-01-23T21:44:00.873Z
+location: LIVE! Online
+featured_image:
+  image: /assets/uploads/live.jpg
+  alt: LIVE! a series of live talks on Instagram with a focus on the creative
+    industry by Gianluca Alla
+introduction: The United Generations work in progress is presented on LIVE! a
+  series of live talks on Instagram with a focus on the creative industry by
+  Gianluca Alla.
+link:
+  url: https://livetalkfrom.com/
+  text: Watch the talks at Live Talk From here
+---
