@@ -31,3 +31,15 @@ There are three examples of modular interventions applied to the existing fabric
 ![](/assets/uploads/the-united-generations_2020_portfolio22.jpg)
 
 ![](/assets/uploads/the-united-generations_2020_portfolio23.jpg)
+
+A third scheme imagines the activities and cultural programming of the Estate, set up as a social enterprise, and subsidized by government funding to foster wellbeing in the community.  In the system of soft and hard infrastructures, advertised through the radio station and analog or digital communication devices, the generations of the Estate meet the ones from the public universe.
+
+![](/assets/uploads/the-united-generations_2020-diagrams3.jpg)
+
+The soft infrastructure achieves maximum use of the hard infrastructures during the weekly and daily cycle. Each space has its own flexible and fixed programs, and adaptability is a key element. When not in used it can be rented to third parties.
+
+![](/assets/uploads/ug-activity-diagram.jpg)
+
+![](/assets/uploads/the-united-generations_2020-diagrams4.jpg)
+
+![](/assets/uploads/the-united-generations_2020-diagrams5.jpg)
