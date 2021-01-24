@@ -145,3 +145,8 @@
   font-size: var(--ms--1);
   opacity: 0.5;
 }
+
+.error-copy {
+  grid-column: 1 / 13;
+  padding-top: 6em;;
+}
