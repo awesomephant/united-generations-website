@@ -1,12 +1,12 @@
 ---
-title: A news story about RCA 2020
-date: 2020-12-21T21:26:20.997Z
 layout: post
+title: The United Generations in progress on LIVE!
+date: 2020-03-09T21:26:20.997Z
 featured_image:
-  image: /assets/uploads/2000x1125px6_web.jpg
-  alt: fsd
-introduction: Lorem Ipsum is simply dummy text of the printing and typesetting
-  industry. Lorem Ipsum has been the industry’s standard dummy text ever since
-  the 1500s, when an unknown printer took a galley of type and scrambled it to
-  make a type specimen book. It has survived not only five centuries,
+  image: /assets/uploads/live.jpg
+  alt: LIVE! webpage
+introduction: The United Generations research is presented by Adalberto Lonardi
+  in conversation with Studio Jenny Jones on LIVE! a digital platform created by
+  Gianluca Alla to fight the first pandemic lockdown stillness.
 ---
+The United Generations research is presented by Adalberto Lonardi in conversation with Studio Jenny Jones on LIVE! a digital platform created by Gianluca Alla to fight the first pandemic lockdown stillness.
