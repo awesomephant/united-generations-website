@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The United Generations presented at the Royal College of Art 2020 Graduate Show
+title: The United Generations at the Royal College of Art 2020 Show
 date: 2020-07-15T20:27:08.475Z
 featured_image:
   image: /assets/uploads/2000x1125px6_web.jpg
