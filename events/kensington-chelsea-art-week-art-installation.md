@@ -4,7 +4,7 @@ eyebrow: exhibition
 date: 2021-01-13T19:08:51.603Z
 location: Notting Hill
 featured_image:
-  image: /assets/uploads/img_3909.jpeg
+  image: /assets/uploads/img_3909.jpg
   alt: rendering of colorful painted mural
 introduction: Site-specific artwork ‘Together as One’ by Adalberto Lonardi
   shortlisted to create the fifth Kensington + Chelsea Art Week mural in Notting
