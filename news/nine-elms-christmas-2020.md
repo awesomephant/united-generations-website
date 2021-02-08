@@ -1,17 +1,16 @@
 ---
 layout: post
-title: The United Generations is presented at the Royal College of Art 2020 Grad Show
+title: The United Generations presented at the Royal College of Art 2020 Graduate Show
 date: 2020-07-15T20:27:08.475Z
 featured_image:
   image: /assets/uploads/2000x1125px6_web.jpg
   alt: "The Arcadian Gardens: the Stables - Coloured pencil and oil stick on
     digital print (29.7 x 20 cm)"
-introduction: The United Generations projects developed by Adalberto Lonardi is
-  presented for the first time Royal College of Art virtual graduate show. The
-  United Generations proposes a new fulfilling vision to create a thriving
-  community of all ages and celebrate the advantages of shared resources.
-  Integrated solutions like harvesting, renewable energy, local production, and
-  smart homes allow sustainable living to be a seamless part of everyday life.
+introduction: The United Generations proposes a new fulfilling vision to create
+  a thriving community of all ages and celebrate the advantages of shared
+  resources. Integrated solutions like harvesting, renewable energy, local
+  production, and smart homes allow sustainable living to be a seamless part of
+  everyday life.
 ---
 In the near future, a significant part of the population is older. Redundant urban land is now fertile. Mobility is electric or human-powered. Co-living, re-use lifestyles, and adaptation of the existing are the norm. And we humans, finally learned that together we are stronger, nature is sacred, technology is our ally, and life is slow. Here, Adalberto proposes to go back to the Arcadian archetype where community, sustainability, and simplicity are the assets for a prosperous living. As a test, the designer has analysed the Golden Lane Estate in London, a post-war example of an urban microcosm designed to advocate the modernist principles of wellbeing and social living.\
 \
