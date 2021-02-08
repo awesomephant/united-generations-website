@@ -17,4 +17,4 @@ Using findings from his book “How to take care of the old” and from site-spe
 \
 At the Estate level, the Adaptable Public Scheme (APS) merges internal and external spaces hosting activities that promote intergenerational moments connected to nature, care of the body, exercise, work, performance, spirituality, farming, and food. At the domestic level, the Adaptable Domestic Scheme (ADS) proposes reversible physical home adaptations of scale and accessibility that enable residents to stay in the Estate through the phases of life. A third scheme imagines the activities and cultural programming of the Estate, set up as a social enterprise, subsidized by government funding, and advertised by the United Radio Station to foster wellbeing and connection in the neighborhood.
 
-View the full presentation at **[RCA2020](https://2020.rca.ac.uk/students/adalberto-lonardi/)**
+Discover the full research [here](https://www.theunitedgenerations.com/research).
