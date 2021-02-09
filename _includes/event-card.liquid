@@ -5,14 +5,12 @@
         {% endif %}
         {% if item.data.featured_image %}
         <section class="card--image">
-            {% if item.data.link.url != "" %}
-            <a href="{{item.data.link.url}}">
-                {% endif %}
-                <img src="{{item.data.featured_image.image}}?nf_resize=fit&w=1000&h=600"
-                    alt="{{item.data.featured_image.alt}}">
-                {% if item.data.link.url != "" %}
+            <a {% if item.data.link.url != "" %}href="{{item.data.link.url}}"{%endif%}
+                style="background-image: url({{item.data.featured_image.image}}?nf_resize=fit&w=1000&h=600)">
+                <span class="sr">
+                    {{item.data.featured_image.alt}}
+                </span>
             </a>
-            {% endif %}
         </section>
         {% endif %}
         <h2 class="card--title">

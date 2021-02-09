@@ -13,6 +13,10 @@ button {
   }
 }
 
+.sr {
+  visibility: hidden
+}
+
 body {
   @extend %grid;
   font-family: $sans;
