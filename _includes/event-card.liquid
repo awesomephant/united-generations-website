@@ -8,7 +8,7 @@
             {% if item.data.link.url != "" %}
             <a href="{{item.data.link.url}}">
                 {% endif %}
-                <img src="{{item.data.featured_image.image}}?nf_resize=fit&w=1000"
+                <img src="{{item.data.featured_image.image}}?nf_resize=smartcrop&w=1000&h=666"
                     alt="{{item.data.featured_image.alt}}">
                 {% if item.data.link.url != "" %}
             </a>

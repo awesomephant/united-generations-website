@@ -32,16 +32,15 @@
   }
 }
 
-$sans: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif,
-  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$sans: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $mono: monospace;
 $blue: #1f44e9;
 $lightgray: rgb(245, 247, 250);
-$yellow: #ffd23e;
-$green: #b1eb7b;
-$red: #ff7434;
+$yellow: #f6cb10;
+$green: #069649;
+$red: #f25c26;
 $sky: #bce7e2;
-$black: rgb(4, 4, 7);
+$black: rgb(4, 4, 4);
 $fast: 220ms;
 $slow: 550ms;
 $br: 2px;
@@ -50,7 +49,7 @@ $slideHeight: 66.6666vh;
 :root {
   --padding: max(2%, 1.2rem);
   --ratio: 1.25;
-  --ms-0: clamp(1rem, 1.3vw, 1.25rem);
+  --ms-0: clamp(1rem, 1.3vw, 1.3rem);
   --ms--2: calc(var(--ms--1) / var(--ratio));
   --ms--1: calc(var(--ms-0) / var(--ratio));
   --ms-1: calc(var(--ms-0) * var(--ratio));

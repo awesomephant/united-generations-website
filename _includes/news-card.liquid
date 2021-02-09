@@ -2,11 +2,13 @@
     <p class="card--eyebrow">
         {{item.data.date | date: "%B %e, %Y"}}
     </p>
+    {% if item.data.featured_image.image %}
     <section class="card--image">
         <a href="{{item.url}}">
             <img src="{{item.data.featured_image.image}}?nf_resize=fit&w=1000" alt="{{item.data.featured_image.alt}}">
         </a>
     </section>
+    {% endif %}
     <h2 class="card--title">
         <a href="{{item.url}}">
             {{item.data.title}}

@@ -3,7 +3,9 @@
   border: 1px solid $black;
   background: transparent;
   border-radius: $br * 2;
-  padding: 0.25em 0.75em;
+  padding: 0.4em 0.8em;
+  white-space: nowrap;
+  box-shadow: 0 2px 4px -2px rgba(black, .6);
   cursor: pointer;
   text-decoration: none;
   font-size: var(--ms--1);
@@ -12,6 +14,7 @@
     color: var(--bg);
   }
   &:hover{
-    text-decoration: underline;
+    text-decoration: none;
+    background: lighten($black, 15);
   }
 }

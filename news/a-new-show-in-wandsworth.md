@@ -2,9 +2,6 @@
 layout: post
 title: Drawing for Wellbeing Workshops Series
 date: 2020-12-14T21:26:45.658Z
-featured_image:
-  image: /assets/uploads/kls_drawing
-  alt: blue and green glasses drawing
 introduction: Lorem Ipsum is simply dummy text of the printing and typesetting
   industry. Lorem Ipsum has been the industry’s standard dummy text ever since
   the 1500s, when an unknown printer took a galley of type.

@@ -24,11 +24,14 @@ collections:
       - name: "featured_image"
         label: "Featured Image"
         widget: "object"
+        required: false
         fields:
           - name: image
+            required: false
             label: Image
             widget: image
           - name: alt
+            required: false
             label: Description
             widget: string
             hint: "You can add a description, sometimes called alt-text, to your photos so they’re accessible to more people, including those who are blind or visually impaired."
@@ -103,7 +106,7 @@ collections:
     folder: "research/"
     create: true
     slug: "{{slug}}"
-    sortable_fields: ['commit_date', 'title', 'date']
+    sortable_fields: ["commit_date", "title", "date"]
     fields:
       - label: "Layout"
         name: "layout"

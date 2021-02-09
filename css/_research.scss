@@ -10,6 +10,7 @@
     justify-self: flex-end;
   }
   .chapter--nav {
+    max-width: none;
     font-size: inherit;
     li {
       display: flex;
@@ -22,7 +23,8 @@
   }
   .intro {
     flex-basis: 100%;
-    padding-left: 3em;
+    padding-left: 2.5em;
+    padding-right: 1em;
     margin-top: -.5em;
     line-height: 1.1;
     margin-bottom: 1em;
@@ -30,6 +32,15 @@
     @include bp(m){
       display: block;
     }
+  }
+}
+
+.chapter--nav-title {
+  font-weight: 800;
+  padding: .5em;
+  a {
+    padding: 0 !important;
+    display: inline;
   }
 }
 

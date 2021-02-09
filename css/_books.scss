@@ -1,8 +1,12 @@
 .books {
   .book-card {
+    grid-column: span 12;
     @include bp(m) {
-      grid-column: span 6;
+      grid-column: 5 / 13;
     }
+  }
+  .card--copy {
+    font-size: var(--ms-1);
   }
   .card--title {
     font-size: var(--ms-2);

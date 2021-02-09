@@ -5,7 +5,7 @@ class: news
 
 <header class="post--header">
     <p class="post--eyebrow">
-        {{date | date: "%B %e, %Y"}}
+        {{date | date: "%B %e, %Y"}} · {{content | readingTime }} min read
     </p>
     {% if featured_image %}
     <img class="post--thumbnail" src="{{featured_image.image}}" alt="{{item.data.featured_image.alt}}">

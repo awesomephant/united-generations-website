@@ -6,12 +6,11 @@
     position: sticky;
     top: -1px;
     grid-column: 1 / 13;
-    border-top: 1px solid $black;
   }
   display: flex;
   z-index: 2000;
-  padding: 0.8rem var(--padding);
-  padding-bottom: 0.7rem;
+  padding: 0.9rem var(--padding);
+  padding-bottom: 0.8rem;
   width: 100%;
   justify-content: space-between;
   color: $black;
@@ -21,8 +20,8 @@
   .scrolled &,
   .home & {
     background: var(--bg);
-    box-shadow: 0 3px 8px -3px rgba(black, .3);
-  }
+    box-shadow: 0 3px 8px -5px rgba(black, .3);
+   }
   @include bp(mr) {
     background: var(--bg);
     box-shadow: 0 3px 8px -3px rgba(black, .3);
@@ -148,5 +147,5 @@
 
 .error-copy {
   grid-column: 1 / 13;
-  padding-top: 6em;;
+  padding-top: 6em;
 }

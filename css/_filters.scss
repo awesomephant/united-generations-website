@@ -4,5 +4,12 @@
     font-size: var(--ms-0);
     text-transform: capitalize;
     font-weight: 400;
+    &.active:hover {
+      background: $black;
+    }
+    &:hover {
+      text-decoration: underline;
+      background: transparent;
+    }
   }
 }

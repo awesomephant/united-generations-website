@@ -2,6 +2,8 @@ const { initEvents } = require("./initEvents");
 const { initFilters } = require("./initFilters");
 const { initImages } = require("./initImages");
 const { initMenu } = require("./initMenu");
+const { initLightbox } = require("./initLightbox");
+import textBalancer from 'text-balancer';
 
 let slider;
 let currentX = 0;
@@ -55,6 +57,8 @@ window.addEventListener("DOMContentLoaded", () => {
   initFilters();
   initEvents();
   initMenu();
+  initLightbox();
+  textBalancer.balanceText('.post--title, .caption, figcaption, .card--title');
   if (window.scrollY > 10) {
     document.body.classList.add("scrolled");
   } else {

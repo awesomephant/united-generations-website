@@ -7,8 +7,12 @@
       grid-column: 5 / 12;
     }
   }
+  .card--copy {
+    font-size: var(--ms-1);
+  }
   .card--title {
     font-size: var(--ms-2);
+    margin-bottom: .1em;
   }
 }
 

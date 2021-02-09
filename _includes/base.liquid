@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
 
   {% include meta.liquid %}
@@ -19,6 +20,11 @@
   <footer class="site-footer">
     © {{"now" | date: "%Y"}} The United Generations
   </footer>
+  <div class="lightbox-container">
+    <figure class="media-container">
+      <figcaption class="lightbox-caption"></figcaption>
+    </figure>
+  </div>
   <script src="{{'/dist/main.js' | url}}"></script>
   <script>
     if (window.netlifyIdentity) {

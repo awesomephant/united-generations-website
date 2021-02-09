@@ -21,7 +21,12 @@ body {
   font-weight: 300;
   background: $lightgray;
   color: $black;
+  padding-top: 4rem;
+  @include bp(m) {
+    padding-top: 8rem;
+  }
   --bg: #{$lightgray};
+
   &.news,
   &.post {
     background: $red;
@@ -39,20 +44,6 @@ body {
   &.chapter {
     background: $yellow;
     --bg: #{$yellow};
-  }
-}
-
-.events,
-.news,
-.research,
-.chapter,
-.information,
-.research,
-.books,
-.post {
-  padding-top: 4rem;
-  @include bp(m) {
-    padding-top: 8rem;
   }
 }
 

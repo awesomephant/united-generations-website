@@ -1,6 +1,6 @@
 ---
 layout: base
-class: research
+class: research single-research
 ---
 
 <header class="post--header">
@@ -17,15 +17,18 @@ class: research
 </header>
 
 <nav class="chapter--nav">
-    <ul>
-        {% for item in collections.research %}
-        <li {% if item.data.title==title%}class="current" {%endif%}>
-            <a href="{{item.url}}">
-                <span class="index">0{{forloop.index}}</span>{{item.data.title}}
-            </a>
-        </li>
-        {% endfor %}
-    </ul>
+    <div class="chapter--nav-inner">
+        <h3 class="chapter--nav-title"><a href="/research">Chapters</a></h3>
+        <ul>
+            {% for item in collections.research %}
+            <li {% if item.data.title==title%}class="current" {%endif%}>
+                <a href="{{item.url}}">
+                    <span class="index">0{{forloop.index}}</span>{{item.data.title}}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </nav>
 <main class="post--content">
     {{content}}

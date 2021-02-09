@@ -1,6 +1,8 @@
 .chapter {
   padding-top: 8rem;
 }
+.single-research {
+}
 .chapter--header {
   grid-column: 1 / 13;
   padding-bottom: 1rem;
@@ -21,22 +23,25 @@
 
 .chapter--nav {
   padding-top: 1rem;
-  font-size: var(--ms--1);
+  font-size: var(--ms--2);
   grid-column: 1 / 13;
   margin-bottom: 2rem;
+  max-width: 20em;
   @include bp(m) {
     grid-column: 1 / 4;
   }
+  .chapter--nav-inner {
+    @include bp(m) {
+      top: 6rem;
+      position: sticky;
+    }
+  }
   ul {
-    border-radius: $br;
-    border: 1px solid $black;
     columns: 2;
     column-gap: 0;
     column-rule: 1px solid $black;
     @include bp(m) {
       columns: 1;
-      top: 6rem;
-      position: sticky;
     }
   }
   li {
@@ -65,10 +70,7 @@
     display: inline-block;
   }
   a {
-    padding: 0.5rem 0.5rem;
-    @include bp(m) {
-      padding: 0.75rem 1.5rem;
-    }
+    padding: 0.5em;
     text-decoration: none;
     display: block;
     width: 100%;
