@@ -1,5 +1,5 @@
 ---
-title: The United Generations Work in progress on Live!
+title: The United Generations on Live!
 eyebrow: Talk
 date: 2020-03-16T21:44:00.873Z
 location: LIVE! Online
