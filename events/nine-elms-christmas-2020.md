@@ -13,5 +13,5 @@ introduction: A window art installation by Adalberto Lonardi at the Mason’s Ar
 content: Longer text here
 link:
   url: https://www.instagram.com/nineelmsartsministry
-  text: "@nineelmsartsministry"
+  text: Discover more
 ---
