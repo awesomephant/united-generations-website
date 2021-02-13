@@ -62,6 +62,7 @@
   width: auto;
   padding-top: 66.666%;
   position: relative;
+  max-width: 100%;
   a {
     border: 3px solid rgba(white, 1);
     position: absolute;
@@ -94,5 +95,7 @@
   align-items: flex-end;
   .btn {
     font-size: var(--ms--1);
+    max-width: 20em;
+    display: inline-block;
   }
 }
