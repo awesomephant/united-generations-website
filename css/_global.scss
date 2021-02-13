@@ -26,6 +26,8 @@ body {
   font-weight: 300;
   background: $lightgray;
   color: $black;
+  width: 100vw;
+  overflow-x: hidden;
   padding-top: 4rem;
   --bg: #{$lightgray};
 
