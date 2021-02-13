@@ -122,6 +122,9 @@ collections:
         label: "Order"
         name: "order"
         hint: "This is used to determine in which order the chapters appear."
+      - name: introduction
+        label: Introduction
+        widget: text
       - name: body
         label: "Copy"
         widget: "markdown"

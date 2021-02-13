@@ -11,9 +11,11 @@ class: research single-research
     <img class="post--thumbnail" src="{{featured_image.image}}" alt="{{item.data.featured_image.alt}}">
     {% endif %}
     <h2 class="post--title">{{title}}</h2>
+    {% if introduction != "" %}
     <section class="post--intro">
         {{introduction}}
     </section>
+    {% endif %}
 </header>
 
 <nav class="chapter--nav">
