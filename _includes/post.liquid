@@ -8,7 +8,8 @@ class: news
         {{date | date: "%B %e, %Y"}} · {{content | readingTime }} min read
     </p>
     {% if featured_image %}
-    <img class="post--thumbnail" src="{{featured_image.image}}" alt="{{item.data.featured_image.alt}}">
+    <img class="post--thumbnail" src="{{featured_image.image}}?nf_resize=fit&w=1000"
+        alt="{{item.data.featured_image.alt}}">
     {% endif %}
     <h2 class="post--title">{{title}}</h2>
     <section class="post--intro">
