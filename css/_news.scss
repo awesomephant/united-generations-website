@@ -10,9 +10,14 @@
   .card--copy {
     font-size: var(--ms-1);
   }
+  .card--image {
+    width: 80%;
+    margin-bottom: 1rem;
+    padding-top: 50%;
+  }
   .card--title {
     font-size: var(--ms-2);
-    margin-bottom: .1em;
+    margin-bottom: 0.1em;
   }
 }
 

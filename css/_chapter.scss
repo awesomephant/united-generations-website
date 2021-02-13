@@ -1,8 +1,7 @@
 .chapter {
   padding-top: 8rem;
 }
-.single-research {
-}
+
 .chapter--header {
   grid-column: 1 / 13;
   padding-bottom: 1rem;
@@ -22,7 +21,6 @@
 }
 
 .chapter--nav {
-  padding-top: 1rem;
   font-size: var(--ms--2);
   grid-column: 1 / 13;
   margin-bottom: 2rem;
@@ -34,14 +32,6 @@
     @include bp(m) {
       top: 6rem;
       position: sticky;
-    }
-  }
-  ul {
-    columns: 2;
-    column-gap: 0;
-    column-rule: 1px solid $black;
-    @include bp(m) {
-      columns: 1;
     }
   }
   li {

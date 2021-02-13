@@ -20,15 +20,13 @@ button {
 body {
   @extend %grid;
   font-family: $sans;
+  hyphens: auto;
   font-size: var(--ms-0);
   letter-spacing: 0.005em;
   font-weight: 300;
   background: $lightgray;
   color: $black;
   padding-top: 4rem;
-  @include bp(m) {
-    padding-top: 8rem;
-  }
   --bg: #{$lightgray};
 
   &.news,

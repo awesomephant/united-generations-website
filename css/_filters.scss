@@ -4,6 +4,7 @@
     font-size: var(--ms-0);
     text-transform: capitalize;
     font-weight: 400;
+    margin-bottom: .5em;;
     &.active:hover {
       background: $black;
     }
