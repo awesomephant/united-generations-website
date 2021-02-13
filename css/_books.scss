@@ -5,9 +5,13 @@
       grid-column: 5 / 13;
     }
     .card--image {
-      width: 80%;
       margin-bottom: 1rem;
-      padding-top: 50%;
+      padding-top: 66.66%;
+      width: auto;
+      @include bp(m){
+        padding-top: 50%;
+        width: 80%;
+      }
     }
   }
   .card--copy {

@@ -11,9 +11,11 @@
     font-size: var(--ms-1);
   }
   .card--image {
-    width: 80%;
+    @include bp(m){
+      width: 80%;
+      padding-top: 50%;
+    }
     margin-bottom: 1rem;
-    padding-top: 50%;
   }
   .card--title {
     font-size: var(--ms-2);
