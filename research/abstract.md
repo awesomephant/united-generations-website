@@ -8,7 +8,8 @@ introduction: In the near future, a significant part of the population is older.
   And we humans, finally learned that together we are stronger, nature is
   sacred, technology is our ally, and life is slow.
 ---
-The United Generations research proposes to go back to the Arcadian archetypes where community, sustainability, and simplicity are the assets for a prosperous living. As a test, Adalberto has analysed the Golden Lane Estate in London, a post-war example of an urban microcosm designed to advocate the modernist principles of wellbeing and social living.
+The United Generations research proposes to go back to the Arcadian archetypes where community, sustainability, and simplicity are the assets for a prosperous living. 
+As a test, Adalberto has analysed the Golden Lane Estate in London, a post-war example of an urban microcosm designed to advocate the modernist principles of wellbeing and social living.
 
 Using findings from his book How to take care of the old (2018) and from site-specific research, a tripartite strategy envisions how the Golden Lane Estate could transform. 
 By intersecting the Arcadian landscape into the modernist geometries, Adalberto designed a domestic and public scheme where the residents and the community are engaged through activities and events that combine social, economic, and cultural values contributing to the wellness and the reconnection of old and new generations.
