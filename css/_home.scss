@@ -97,4 +97,8 @@
     top: 0.2em;
     margin-left: 1em;
   }
+  .btn:hover,
+  .btn:focus {
+    background: rgba(black, 0.05);
+  }
 }
