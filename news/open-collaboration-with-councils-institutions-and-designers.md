@@ -7,7 +7,7 @@ featured_image:
   alt: The United Generations is looking for collabor
 introduction: The United Generations is looking for collaborations with
   councils, institutions and designers to think about a more intergenerational
-  world and to develop projects that aimed at the wellbeing of young and old
+  world and develop projects aimed at the wellbeing of young and old
   generations.
 ---
 The United Generations is looking for collaborations with councils, institutions and designers to think about a more intergenerational world and to develop projects that aimed at the wellbeing of young and old generations.
