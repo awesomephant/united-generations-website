@@ -29,6 +29,9 @@ body {
   width: 100vw;
   color: $black;
   padding-top: 4rem;
+  @include bp(m){
+    padding-top: calc(var(--ms-0) * 8);
+  }
   --bg: #{$lightgray};
 
   &.news,
