@@ -20,4 +20,4 @@ For the artist, it was important to show the value in reconnecting with our hist
 
 The style of the mural presents strong symmetrical patterns and uplifting colours according to the Vaastu Shasta design principles. For the team at Studio Indigo, the practice of Vaastu has been the pillars of the project – originally a Hindu practice that aims to establish a synergy between humans and the Pranic energy of the universe, creating a positive relationship between the two.
 
-The winning design will be hand painted on site by the artist in late January 2021.
+The mural will be hand painted on site by the artist in late January 2021.
