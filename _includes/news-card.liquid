@@ -4,7 +4,7 @@
     </p>
     {% if item.data.featured_image.image %}
     <section class="card--image">
-        <a {% if item.data.link.url != "" %}href="{{item.data.link.url}}"{%endif%}
+        <a href="{{item.url}}"
             style="background-image: url({{item.data.featured_image.image}}?nf_resize=fit&w=1000&h=600)">
             <span class="sr">
                 {{item.data.featured_image.alt}}
