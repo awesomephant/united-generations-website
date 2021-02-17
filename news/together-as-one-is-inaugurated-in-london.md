@@ -19,4 +19,4 @@ The mural depicts three stories of Notting Hill through time. The first panel ce
 
 For the artist, it was important to show the value in reconnecting with our history, our traditions and the people who shaped us to essentially find who we truly are; “As artists, citizens and human being, we need to celebrate the simple and essential moments of life”
 
-Credits photography: Nick Smith
+Credits photography: [Nick Smith](https://nsphotography.co.uk/)
