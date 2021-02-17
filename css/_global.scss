@@ -20,7 +20,7 @@ button {
 body {
   @extend %grid;
   font-family: $sans;
-  hyphens: auto;
+  hyphens: none;
   font-size: var(--ms-0);
   letter-spacing: 0.005em;
   font-weight: 300;
