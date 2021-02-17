@@ -13,5 +13,5 @@ intro: This book looks at the relationships between gerontology and the
 content: Longer text goes here.
 link:
   url: https://issuu.com/home/published/how_to_take_care_of_the_old_preview
-  text: To preview the digital version of the book please click here.
+  text: Preview the book
 ---
