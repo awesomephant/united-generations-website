@@ -25,6 +25,6 @@ class: events
 
 <ul class="events-list filtered-list">
     {% for item in collections.events %}
-    {% include event-card.liquid with {item: item}%}
+    {% include event-card.liquid with {item: item, size: "small"}%}
     {% endfor %}
 </ul>
