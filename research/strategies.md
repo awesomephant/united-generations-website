@@ -3,6 +3,9 @@ layout: chapter
 title: "The Design "
 date: 2021-01-06T22:35:00.000Z
 order: 6
+introduction: Finally, I made a strict inventory of the building visual
+  typologies, I translated them into bidimentional stencils and tridimentional
+  objects which I used to design the spaces.
 ---
 Finally, I made a strict inventory of the building visual typologies, I translated them into bidimentional stencils and tridimentional objects which I used to design the spaces.
 
@@ -10,7 +13,7 @@ Finally, I made a strict inventory of the building visual typologies, I translat
 
  If the vision of how the imposition of the grid would bring order to nature in a post-war environment, what if instead, we intersect the Arcadian archetype into the modernist city? In the future, a significant part of the population is older. Redundant urban land is now fertile. Mobility is electric or human-powered. Co-living, re-use lifestyles, and adaptation of the existing are the norm. And we humans, finally learn that together we are stronger, nature is sacred, technology is our ally, and life is slow.
 
-![Golden Lane Estate grid-arcadian hills intersection diagram](/assets/uploads/hills-diagram.jpg "Golden Lane Estate grid-arcadian hills intersection diagram")
+![Golden Lane Estate arcadian iridescent hills intersection with the Estate grid black and white diagram](/assets/uploads/hills-diagram.jpg "Golden Lane Estate grid-arcadian hills intersection diagram")
 
 The United Generations is a sustainable ecosystem with a domestic and public scheme where the residents and the community are engaged through activities and events that combine social, economic, and cultural values contributing to the wellness and the reconnection of old and new generations. Using findings and site-specific research, a tripartite strategy envisions how the Golden Lane Estate could transform into an intergenerational community at all levels adapting garages, basements, shops, wellness centre, paved courts, residences and rooftops at all levels around the 4 courts. 
 
