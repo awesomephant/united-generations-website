@@ -1,5 +1,6 @@
 ---
 title: Together as One opens on 7 Lansdowne Road, Notting Hill
+eyebrow: Exhibition
 date: 2021-02-21T21:29:50.896Z
 location: 7 Lansdowne Road, Notting Hill, London
 featured_image:
