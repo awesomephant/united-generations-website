@@ -17,3 +17,5 @@ By intersecting the Arcadian landscape into the modernist geometries, Adalberto 
 At the Estate level, the Adaptable Public Scheme (APS) merges internal and external spaces hosting activities that promote intergenerational moments connected to nature, care of the body, exercise, work, performance, spirituality, farming, and food. At the domestic level, the Adaptable Domestic Scheme (ADS) proposes reversible physical home adaptations of scale and accessibility that enable residents to stay in the Estate through the phases of life. A third scheme imagines the activities and cultural programming of the Estate, set up as a social enterprise, subsidized by government funding, and advertised by the United Radio Station to foster wellbeing and connection in the neighborhood.
 
 The United Generations proposes a new fulfilling vision to create a thriving community of all ages and celebrate the advantages of shared resources. Integrated solutions like harvesting, renewable energy, local production, and smart homes allow sustainable living to be a seamless part of everyday life.
+
+by Adalberto Lonardi
