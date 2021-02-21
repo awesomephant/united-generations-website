@@ -3,9 +3,7 @@ layout: chapter
 title: "The Design "
 date: 2021-01-06T22:35:00.000Z
 order: 6
-introduction: Finally, I made a strict inventory of the building visual
-  typologies, I translated them into bidimentional stencils and tridimentional
-  objects which I used to design the spaces.
+introduction: ""
 ---
 Finally, I made a strict inventory of the building visual typologies, I translated them into bidimentional stencils and tridimentional objects which I used to design the spaces.
 
