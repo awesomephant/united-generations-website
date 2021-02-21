@@ -19,7 +19,7 @@ The first panel celebrates the area as a pottery and pig farm village in the 19t
 
 ![Together as One mural third panel, family preparing for Carnival](/assets/uploads/together-as-one-3rdpanel.jpg " family preparing for the Notting Hill Carnival")
 
-For the artist, it was important to show the value in reconnecting with our history, our traditions and the people who shaped us to essentially find who we truly are; “As artists, citizens and human being, we need to celebrate the simple and essential moments of life”.
+For Adalberto, it was important to show the value in reconnecting with our history, our traditions and the people who shaped us to essentially find who we truly are; “As artists, citizens and human being, we need to celebrate the simple and essential moments of life”.
 
 ![Adalberto Lonardi retouching the Together as One mural.](/assets/uploads/7-lansdowne-road-19.jpg "Adalberto Lonardi retouching the Together as One mural.")
 
