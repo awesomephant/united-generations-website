@@ -1,5 +1,5 @@
 ---
-title: "Wandsworth Art "
+title: The United Generations at Wandsworth Art exhibition
 eyebrow: exhibition
 date: 2020-08-20T20:05:40.630Z
 location: Wandsworth Council, London
@@ -11,6 +11,6 @@ introduction: The series of 10 hand-drawings, part of The United Generation
   gallery.
 content: Longer text here
 link:
-  url: https://wandsworthart.com/profiles/page/6/
+  url: https://wandsworthart.com/profiles/adalberto-lonardi/
   text: Visit the exhibition
 ---
