@@ -125,6 +125,7 @@ collections:
       - name: introduction
         label: Introduction
         widget: text
+        required: false
       - name: body
         label: "Copy"
         widget: "markdown"
