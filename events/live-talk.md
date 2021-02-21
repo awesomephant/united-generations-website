@@ -1,15 +1,15 @@
 ---
-title: The United Generations on Live!
+title: The United Generations on LIVE!
 eyebrow: Talk
 date: 2020-03-16T21:44:00.873Z
 location: LIVE! Online
 featured_image:
   image: /assets/uploads/live.jpg
-  alt: LIVE! a series of live talks on Instagram with a focus on the creative
-    industry by Gianluca Alla
-introduction: The United Generations work in progress is presented on LIVE! a
-  series of live talks on Instagram with a focus on the creative industry by
-  Gianluca Alla.
+  alt: Desktop version of LIVE! website. LIVE! written in grey tones and red
+    recording explanation dot
+introduction: The United Generations research is presented by Adalberto Lonardi
+  in conversation with Studio Jenny Jones on LIVE! a digital platform created by
+  Gianluca Alla to fight the first pandemic lockdown stillness.
 link:
   url: https://www.instagram.com/tv/B-pYSPfFEY3/
   text: Watch the talk
