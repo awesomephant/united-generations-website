@@ -12,5 +12,5 @@ introduction: This is an opportunity to meet MA Interior Design graduate
   Meet the Designer event on Friday 31 July, 6-7pm (BST].
 link:
   url: https://www.twitch.tv/adalbertolonardi
-  text: Watch the station
+  text: Watch the talk
 ---
