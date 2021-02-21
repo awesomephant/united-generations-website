@@ -1,5 +1,5 @@
 ---
-title: Conscious London Talk
+title: Conscious London 2020 Talk
 eyebrow: Talk
 date: 2020-11-25T19:51:19.380Z
 location: The Centre for Conscious Design, Online
