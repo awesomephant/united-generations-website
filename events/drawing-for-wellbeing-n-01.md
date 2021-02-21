@@ -1,5 +1,5 @@
 ---
-title: Drawing for Wellbeing 01
+title: Katherine Low Settlement, Drawing for Wellbeing 01
 eyebrow: Workshop
 date: 2020-12-22T18:49:47.035Z
 location: Katherine Low Settlement Online
