@@ -8,7 +8,9 @@ featured_image:
   alt: Coloured markers sketch on transparent paper of Together as One mural
 introduction: Site-specific artwork ‘Together as One’ by Adalberto Lonardi wins
   the competition for the fifth Kensington + Chelsea Art Week mural in Notting
-  Hill.
+  Hill. Together as One is a site-specific, hand-painted mural that celebrates
+  the power of the Notting Hill community as a symbol of harmony and unity for a
+  better tomorrow.
 link:
   url: https://www.kcaw.co.uk/mural-5-vote?fbclid=IwAR2JEF0ATazj9xNPSHJCXbrXCzg5jGB-e-k_Ts1UIi-xTrBYo9NW9aV5jHI
   text: Read more
