@@ -6,8 +6,9 @@ class: events
 {% assign tags = "" | split: "" %}
 {% for e in collections.events %}
 {% assign taglist = tags | join: "" %}
-{% unless taglist contains e.data.eyebrow %}
-{% assign tags = tags | concat: e.data.eyebrow%}
+{% assign t = e.data.eyebrow | slug %}
+{% unless taglist contains t %}
+{% assign tags = tags | concat: t %}
 {% endunless %}
 {% endfor %}
 
