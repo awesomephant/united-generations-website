@@ -57,3 +57,5 @@ http://www.interactivearchitecture.org/fun-palace-cedric-price.html \[Accessed 0
 Author’s interview with Howard Sullivan (Dec. 2019). 
 
 ### Images
+
+All imaged by author if not explicitely stated otherwise.
