@@ -27,4 +27,4 @@ Volunteering weekly at Katherine Low Settlement, an elderly community centre in 
 Through interviews, workshops, volunteering experience, and talks, I concluded that the eight ecosystems most common among the old and young generations are: 
 **Nature, Care of the Body, Exercise, Work, Arts, Spirituality, Farming and Food**.
 
-{% gallery "%5B%7B%22image%22%3A%22%2Fassets%2Fuploads%2Fcollage.jpg%22%2C%22caption%22%3A%22Analogue%20Collage%20Workshop%20with%20magazines%20(Feb%202020)%22%2C%22alt%22%3A%22Analogue%20Collage%20Workshop%20(Feb%202020)%22%7D%5D" %}
+![Analogue Collage Workshop (Feb 2020)](/assets/uploads/collage.jpg "Analogue Collage Workshop with magazines (Feb 2020)")
