@@ -11,7 +11,6 @@ function initEvents() {
       eyebrow.insertAdjacentElement("beforeend", span)
       c.classList.add("is-upcoming")
     }
-    console.log(date)
   })
 }
 export { initEvents };

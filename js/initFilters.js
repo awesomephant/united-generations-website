@@ -23,7 +23,6 @@ function initFilters() {
 
   filters.forEach((f) => {
     f.addEventListener("click", (e) => {
-      console.log(f);
       let slug = f.getAttribute("data-filter");
       if (slug === "all") {
         activeFilters = [];

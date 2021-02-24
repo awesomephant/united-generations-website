@@ -3,7 +3,6 @@ function initLightbox() {
   const lightbox = document.querySelector(".lightbox-container");
   const mediaContainer = lightbox.querySelector(".media-container");
   const captionEl = lightbox.querySelector(".lightbox-caption");
-  console.log(mediaItems);
 
   function closeLightbox() {
     document.body.classList.remove("lightbox-active");
