@@ -58,4 +58,4 @@ Author’s interview with Howard Sullivan (Dec. 2019). 
 
 ### Images
 
-All imaged by author if not explicitely stated otherwise.
+All images by the author if not explicitly stated otherwise.
