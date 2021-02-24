@@ -1,6 +1,6 @@
 ---
-title: Nine Elms Advent Trail 2020
-eyebrow: Festival
+title: Restore at  the Nine Elms Advent Trail 2020
+eyebrow: Exhibition
 date: 2020-12-25T21:06:09.441Z
 location: Mason’s Arms Pub, Battersea, London
 featured_image:
