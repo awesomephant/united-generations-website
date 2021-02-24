@@ -3,7 +3,7 @@ layout: post
 title: Together as One inaugurates on Lansdowne Road, Notting Hill
 date: 2021-02-24T19:39:49.985Z
 featured_image:
-  image: /assets/uploads/7-lansdowne-road-15.jpg
+  image: /assets/uploads/dscf0037.jpg
   alt: Together as One colorful mural on Lansdowne Road
 introduction: >
   Together as One officially opened to the public on 7 Lansdowne Road in Notting
@@ -13,7 +13,7 @@ introduction: >
 ---
 The new and old generations of the neighbourhood can now enjoy the artwork directed by Adalberto Lonardi. The mural depicts three stories of Notting Hill through time. 
 
-![Overview of Together as One mural on Land 7 Lansdowne Road](/assets/uploads/7-lansdowne-road-12.jpeg "Overview of Together as One mural on Land 7 Lansdowne Road")
+![Overview of Together as One mural on Land 7 Lansdowne Road](/assets/uploads/dscf0075.jpg "Overview of Together as One mural on Land 7 Lansdowne Road")
 
 The first panel celebrates the area as a pottery and pig farm village in the 19th century, showing ceramic production among young and old residents surrounded by animals with the iconic kilns in the background. The second panel represents an early Portobello Market- now an iconic establishment that shows the relationship between fruit and vegetable vendors and customers which has been vital to adding to the rich vibrancy of the borough’s streets. The third panel shows the intimate moment of a family preparing for the Notting Hill Carnival inside a recently renovated Georgian house.
 
@@ -21,10 +21,8 @@ The first panel celebrates the area as a pottery and pig farm village in the 19t
 
 For Adalberto, it was important to show the value in reconnecting with our history, our traditions and the people who shaped us to essentially find who we truly are; “As artists, citizens and human being, we need to celebrate the simple and essential moments of life”.
 
-![Adalberto Lonardi retouching the Together as One mural.](/assets/uploads/7-lansdowne-road-19.jpg "Adalberto Lonardi retouching the Together as One mural.")
+![Adalberto Lonardi retouching the Together as One mural. Ph: Nick Smith](/assets/uploads/7-lansdowne-road-19.jpg "Adalberto Lonardi retouching the Together as One mural. Ph: Nick Smith")
 
 Together as One is part of “Love Kensington + Chelsea”, a public art initiative that celebrates the histories of the area with beautiful, temporary artworks on construction hoardings, created by local artists and chosen by public vote. Produced by Kensington + Chelsea Art Week, a creative placemaking organisation behind the annual KCAW Public Art Trail; in collaboration with the Royal College of Art, London Projects and Studio Indigo.
 
 For more information please visit [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/mural-5-vote).
-
-Photography: [Nick Smith](https://nsphotography.co.uk/)
