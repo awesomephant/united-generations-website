@@ -6,7 +6,7 @@ order: 8
 ---
 ### Books, journals, articles
 
-Schiano-Phan et al: Spatial Delight and Environmental Performance of Modernist Architecture in London – Golden Lane Estate, 2018 . 
+Schiano-Phan, R., Lau, B., Pourel, D. and Khan, Spatial Delight and Environmental Performance of Modernist Architecture in London – Golden Lane Estate, 2018. 
 
 ‘Housing in Golden Lane, London’, Architectural Review, June 1957, p. 425. 
 
