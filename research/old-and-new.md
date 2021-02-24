@@ -16,7 +16,7 @@ I focused my research on the socio-economical advantages of old and young intera
 
 It all begins taking in consideration the quality of life during a lifetime represented here in a virtual three-dimensionalization. 
 
-![Three-dimensional translation of the diagrams of happiness, life satisfaction, and worthwhile in Vritual Reality](/assets/uploads/diagram.jpg "Three-dimensional translation of the diagrams of happiness, life satisfaction, and worthwhile in Vritual Reality")
+![Three-dimensional translation of the diagrams of happiness, life satisfaction, and worthwhile in Virtual Reality](/assets/uploads/diagram.jpg "Three-dimensional translation of the diagrams of happiness, life satisfaction, and worthwhile in Virtual Reality")
 
 Volunteering weekly at Katherine Low Settlement, an elderly community centre in Battersea, helped me understand the needs, challenges and dreams of older people. To learn from them. To talk to them. And discover what kind of activities are offered, when, and why. Katherine Low Settlement is currently the supporter of 'The United Generations project. For more information about the book please visit: [](https://adalbertolonardi.com/projects/take-care-of-the-old/)[Katherine Low Settlement](https://www.klsettlement.org.uk/)
 
@@ -27,4 +27,4 @@ Volunteering weekly at Katherine Low Settlement, an elderly community centre in 
 Through interviews, workshops, volunteering experience, and talks, I concluded that the eight ecosystems most common among the old and young generations are: 
 **Nature, Care of the Body, Exercise, Work, Arts, Spirituality, Farming and Food**.
 
-{% gallery '[{"image":"/assets/uploads/collage.jpg","caption":"Analogue Collage Workshop with magazines (Feb 2020)","alt":"Analogue Collage Workshop (Feb 2020)"}]' %}
+{% gallery '\[{"image":"/assets/uploads/collage.jpg","caption":"Analogue Collage Workshop with magazines (Feb 2020)","alt":"Analogue Collage Workshop (Feb 2020)"}]' %}
