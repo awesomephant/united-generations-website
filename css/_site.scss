@@ -47,7 +47,8 @@
   position: fixed;
   top: 0.75rem;
   z-index: 1000;
-  right: 3%;
+  right: var(--padding);
+  -webkit-tap-highlight-color: transparent;
   cursor: pointer;
   .menu-active & {
     top: 0.75rem;

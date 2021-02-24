@@ -10,7 +10,8 @@
     padding-top: .25em;
   }
   @include bp(m) {
-    padding-bottom: 2.5em;
+    padding-top: .5em;
+    padding-bottom: 5em;
     grid-column: 5 / 12;
   }
   .research & {
