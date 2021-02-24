@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open collaboration with councils, institutions and designers
+title: Open collaboration with designers, institutions and councils
 date: 2021-02-12T22:07:08.961Z
 featured_image:
   image: /assets/uploads/arcadia-model1.jpg
