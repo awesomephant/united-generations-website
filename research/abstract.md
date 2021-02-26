@@ -18,4 +18,4 @@ At the Estate level, the Adaptable Public Scheme (APS) merges internal and exter
 
 The United Generations proposes a new fulfilling vision to create a thriving community of all ages and celebrate the advantages of shared resources. Integrated solutions like harvesting, renewable energy, local production, and smart homes allow sustainable living to be a seamless part of everyday life.
 
-by Adalberto Lonardi (2020)
+by Adalberto Lonardi (2020), [Studio Jenny Jones](https://studiojennyjones.com/) (Tutor)
