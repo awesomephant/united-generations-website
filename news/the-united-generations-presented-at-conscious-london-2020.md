@@ -8,4 +8,4 @@ featured_image:
 introduction: The United Generations is presented during Ecosystems, the third
   session of the Conscious London Festival 2020.
 ---
-The United Generations is presented at Conscious London 2020, part of the third session titles Ecosystems.
+Conscious London 2020 brought together multidisciplinary speakers for an online three-day cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities.
