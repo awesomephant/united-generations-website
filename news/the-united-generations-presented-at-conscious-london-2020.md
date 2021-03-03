@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The United Generations presented at Conscious London
+title: The United Generations presented at Conscious London 2020
 date: 2020-10-19T19:54:05.808Z
 featured_image:
   image: /assets/uploads/cl_desktop.jpg
