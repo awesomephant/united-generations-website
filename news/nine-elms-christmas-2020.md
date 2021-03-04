@@ -13,6 +13,8 @@ The United Generations proposes a new fulfilling vision to create a thriving com
 
 ![Community, sustainability, and simplicity diagram on painting by Cole Thomas, The Course of Empire The Arcadian or Pastoral State (1836)](/assets/uploads/arcadiaintro.jpg "Community, sustainability, and simplicity diagram on painting by Cole Thomas, The Course of Empire The Arcadian or Pastoral State (1836)")
 
+
+
 In the near future, a significant part of the population is older. Redundant urban land is now fertile. Mobility is electric or human-powered. Co-living, re-use lifestyles, and adaptation of the existing are the norm. And we humans, finally learned that together we are stronger, nature is sacred, technology is our ally, and life is slow. Here, Adalberto proposes to go back to the Arcadian archetype where community, sustainability, and simplicity are the assets for a prosperous living. As a test, the designer has analysed the Golden Lane Estate in London, a post-war example of an urban microcosm designed to advocate the modernist principles of wellbeing and social living.
 
 ![Visual research by topic (images and articles taken from lead newspapers and avantguarde platforms.](/assets/uploads/research1.jpg "Visual research by topic (images and articles taken from lead newspapers and avantguarde platforms.")
