@@ -3,7 +3,7 @@ layout: post
 title: Together as One inaugurates on Lansdowne Road, Notting Hill
 date: 2021-02-24T19:39:49.985Z
 featured_image:
-  image: ""
+  image: /assets/uploads/dscf0037.jpg
   alt: Together as One colorful mural on Lansdowne Road
 introduction: Together as One officially opened to the public on 7 Lansdowne
   Road in Notting Hill. The piece of art is part of “Love Kensington + Chelsea”,
