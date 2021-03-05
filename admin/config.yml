@@ -140,12 +140,12 @@ collections:
       - name: "title"
         label: "Title"
         widget: string
-      - name: "featured_image"
-        label: "Featured Image"
-        widget: "object"
       - name: "date"
         label: "Publication Date"
         widget: "date"
+      - name: "featured_image"
+        label: "Featured Image"
+        widget: "object"
         fields:
           - name: image
             label: Image
