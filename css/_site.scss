@@ -140,7 +140,14 @@
   text-align: center;
   color: black;
   font-size: var(--ms--1);
-  opacity: 0.5;
+  opacity: 0.8;
+}
+
+.footer-nav {
+  margin-bottom: .5em;
+  a {
+    margin-right: .5em;
+  }
 }
 
 .error-copy {

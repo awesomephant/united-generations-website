@@ -218,7 +218,7 @@ collections:
           - label: Footer Menu
             label_singular: Menu Item
             name: footer_menu
-            widget: list
+            widget: relation
             fields:
               - title: URL
                 name: url

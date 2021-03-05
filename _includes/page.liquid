@@ -1,15 +1,17 @@
 ---
 layout: base
-class: news
+class: info
 ---
 
 <header class="page--header">
-    {{news.intro | renderMarkdown}}
+    {{intro | renderMarkdown}}
 </header>
 
-
-<ul class="news-list">
-    {% for item in collections.news %}
-    {% include news-card.liquid with {item: item%}
-    {% endfor %}
-</ul>
+<main class="post--content">
+    {% if introduction != "" %}
+    <section class="post--intro">
+        {{introduction}}
+    </section>
+    {% endif %}
+    {{content}}
+</main>

@@ -4,6 +4,7 @@ title: Privacy Policy
 intro: The events that connect communities and celebrate the importance of
   intergenerational relationships. Workshops, exhibitions and talks create an
   ecosystem of opportunitites for young and old generations.
+permalink: "/{{title | slug}}/"
 ---
 **To give a bit of context**: My name is José García Oliva and I was born in Caracas, Venezuela. When I came to the Royal College of Art, I re­alised that the ﬁrst con­tact I had with peo­ple from South America in London were the clean­ers work­ing at the College: Julian, Jorge and Diego from Colombia, and Javier from Bolivia.
 

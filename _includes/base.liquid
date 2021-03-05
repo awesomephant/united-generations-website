@@ -13,6 +13,11 @@
   {% endunless %}
   {{ content | safe }}
   <footer class="site-footer">
+    <nav class="footer-nav">
+      {% for item in settings.footer_menu %}
+    <a href="{{item.url}}" {% if item.target == true%}target="_blank"{% endif %}>{{item.title}}</a>
+      {% endfor %}
+    </nav>
     © {{"now" | date: "%Y"}} The United Generations
   </footer>
   <div class="lightbox-container">
