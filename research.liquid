@@ -10,20 +10,17 @@ class: research
     <img class="hero" src="{{research.hero.src}}?nf_resize=fit&w=1000" alt="{{research.hero.alt}}" />
 </header>
 
-<div class="chapters">
-    <nav class="chapter--nav">
-        <h3 class="chapter--nav-title">Chapters</h3>
+<nav class="chapter--nav">
+    <div class="chapter--nav-inner">
+        <h3 class="chapter--nav-title"><a href="/research">Chapters</a></h3>
         <ul>
             {% for item in collections.research %}
             <li {% if item.data.title==title%}class="current" {%endif%}>
                 <a href="{{item.url}}">
                     <span class="index">0{{forloop.index}}</span>{{item.data.title}}
                 </a>
-                <span class="readingTime">
-                    {{item.templateContent | readingTime }}min
-                </span>
             </li>
             {% endfor %}
         </ul>
-    </nav>
-</div>
+    </div>
+</nav>

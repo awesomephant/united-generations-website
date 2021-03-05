@@ -56,6 +56,10 @@ module.exports = function (eleventyConfig) {
     });
     return sorted;
   });
+  eleventyConfig.addCollection("pages", function (collectionApi) {
+    const items = collectionApi.getFilteredByGlob(["./books/*.md"]);
+    return items;
+  });
   eleventyConfig.addTransform(
     "resolveImageTitles",
     function (content, outputPath) {

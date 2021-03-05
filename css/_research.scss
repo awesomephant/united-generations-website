@@ -1,43 +1,6 @@
-.chapters {
-  grid-column: 1 / 13;
-  font-size: var(--ms-0);
-  list-style: none;
-  @include bp(m) {
-    grid-column: 5 / 12;
-    font-size: var(--ms-1);
-  }
-  .readingTime {
-    justify-self: flex-end;
-  }
-  .chapter--nav {
-    max-width: none;
-    font-size: inherit;
-    li {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-  }
-  a {
-    font-weight: 600;
-  }
-  .intro {
-    flex-basis: 100%;
-    padding-left: 2.5em;
-    padding-right: 1em;
-    margin-top: -.5em;
-    line-height: 1.1;
-    margin-bottom: 1em;
-    display: none;
-    @include bp(m){
-      display: block;
-    }
-  }
-}
-
 .chapter--nav-title {
   font-weight: 800;
-  padding: .5em;
+  padding: 0.5em;
   a {
     padding: 0 !important;
     display: inline;
@@ -49,7 +12,7 @@
   color: var(--bg);
   color: $black;
   border-radius: 1em;
-  padding: .2em .75em;
+  padding: 0.2em 0.75em;
   white-space: nowrap;
   margin-right: 1rem;
   display: none;

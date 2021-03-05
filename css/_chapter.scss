@@ -21,17 +21,18 @@
 }
 
 .chapter--nav {
-  font-size: var(--ms--2);
+  font-size: var(--ms--1);
   grid-column: 1 / 13;
   margin-bottom: 2rem;
-  max-width: 20em;
+  width: 90%;
   @include bp(m) {
     grid-column: 1 / 4;
   }
   .chapter--nav-inner {
     @include bp(m) {
+      max-width: 20em;
       top: 6rem;
-      position: sticky;
+      position: fixed;
     }
   }
   li {

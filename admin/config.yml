@@ -174,6 +174,28 @@ collections:
           - name: text
             label: Link Text
             widget: string
+  - name: "pages"
+    label: "Pages"
+    label_singular: "Page"
+    editor: { preview: false }
+    folder: "pages/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - name: "title"
+        label: "Title"
+        widget: string
+      - name: "intro"
+        label: "Introduction"
+        widget: "markdown"
+        editor_components: []
+        buttons:
+          - bold
+          - italic
+      - name: "body"
+        label: Content
+        widget: markdown
+        editor_components: ["image"]
   - name: "settings"
     label: "Settings"
     editor:
@@ -193,6 +215,22 @@ collections:
           - label: Show Content
             name: show_content
             widget: boolean
+          - label: Footer Menu
+            label_singular: Menu Item
+            name: footer_menu
+            widget: list
+            fields:
+              - title: URL
+                name: url
+                widget: string
+              - title: Link Text
+                name: title
+                widget: string
+              - title: Open in a new Tab?
+                name: target
+                widget: boolean
+                required: false
+
       - file: "_data/about.json"
         name: "about"
         label: "Information"
