@@ -3,10 +3,6 @@
   "site_description": "The United Generations is a social, collaborative project aimed to develop, through art, design, culture, and education, sustainable strategies to empower the older communities and bridge the gap among generations.",
   "show_content": true,
   "footer_menu": [
-    {
-      "url": "https://www.cleanyourwindow.co.uk/articles/",
-      "title": "My link text",
-      "target": true
-    }
+    "Privacy Policy"
   ]
 }
