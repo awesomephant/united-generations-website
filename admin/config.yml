@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: main
 media_folder: "/assets/uploads"
+site_url: https://theunitedgenerations.com
+display_url: https://theunitedgenerations.com
 collections:
   - name: "news"
     label: "News"
@@ -9,6 +11,7 @@ collections:
     editor: { preview: false }
     folder: "news/"
     create: true
+    preview_path: "/news/{{slug}}"
     slug: "{{slug}}"
     fields:
       - label: "Layout"
@@ -48,6 +51,7 @@ collections:
         editor_components: ["image"]
   - name: "events"
     label: "Events"
+    preview_path: "/events/"
     label_singular: "Event"
     editor: { preview: false }
     folder: "events/"
@@ -102,6 +106,7 @@ collections:
   - name: "research"
     label: "Research"
     label_singular: "Research Chapter"
+    preview_path: "/research/{{slug}}"
     editor: { preview: false }
     folder: "research/"
     create: true
@@ -131,6 +136,7 @@ collections:
         widget: "markdown"
   - name: "books"
     label: "Books"
+    preview_path: "/books/"
     label_singular: "Book"
     editor: { preview: false }
     folder: "books/"
@@ -177,6 +183,7 @@ collections:
   - name: "pages"
     label: "Pages"
     label_singular: "Page"
+    preview_path: "{{title | slug}}"
     editor: { preview: false }
     folder: "pages/"
     create: true
@@ -218,15 +225,15 @@ collections:
           - label: Footer Menu
             label_singular: Menu Item
             name: footer_menu
-            widget: relation
+            widget: list
             fields:
-              - title: URL
+              - label: URL
                 name: url
                 widget: string
-              - title: Link Text
+              - label: Link Text
                 name: title
                 widget: string
-              - title: Open in a new Tab?
+              - label: Open in a new Tab?
                 name: target
                 widget: boolean
                 required: false
