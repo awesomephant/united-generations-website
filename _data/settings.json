@@ -2,11 +2,5 @@
   "site_title": "The United Generations",
   "site_description": "The United Generations is a social, collaborative project aimed to develop, through art, design, culture, and education, sustainable strategies to empower the older communities and bridge the gap among generations.",
   "show_content": true,
-  "footer_menu": [
-    {
-      "url": "/privacy-policy/",
-      "title": "Privacy Policy",
-      "target": true
-    }
-  ]
+  "footer_menu": []
 }
