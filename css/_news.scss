@@ -18,8 +18,12 @@
     margin-bottom: 1rem;
   }
   .card--title {
-    font-size: var(--ms-2);
+    font-size: var(--ms-1);
+    @include bp(m){
+      font-size: var(--ms-2);
+    }
     margin-bottom: 0.1em;
+
   }
 }
 

@@ -28,7 +28,7 @@
     font-size: var(--ms-1);
   }
   margin-bottom: 0.25em;
-  font-weight: 700;
+  font-weight: 600;
   a {
     text-decoration: none;
     &:hover,
@@ -94,6 +94,9 @@
   padding-top: .5rem;
   justify-content: space-between;
   align-items: flex-end;
+  .event--datum {
+    padding-right: 2em;
+  }
   .btn {
     font-size: var(--ms--1);
     max-width: 20em;
