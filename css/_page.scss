@@ -11,7 +11,7 @@
   }
   @include bp(m) {
     padding-top: .5em;
-    padding-bottom: 5em;
+    padding-bottom: 2em;
     grid-column: 5 / 12;
   }
   .research & {

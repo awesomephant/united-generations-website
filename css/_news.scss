@@ -12,8 +12,8 @@
   }
   .card--image {
     @include bp(m){
-      width: 80%;
-      padding-top: 50%;
+      width: 60%;
+      padding-top: 40%;
     }
     margin-bottom: 1rem;
   }

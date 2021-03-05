@@ -30,7 +30,7 @@ body {
   color: $black;
   padding-top: 4rem;
   @include bp(m){
-    padding-top: calc(var(--ms-0) * 8);
+    padding-top: calc(var(--ms-0) * 6);
   }
   --bg: #{$lightgray};
 
