@@ -7,7 +7,7 @@ class: news
     <p class="post--eyebrow">
         {{date | date: "%B %e, %Y"}} · {{content | readingTime }} min read
     </p>
-    {% if featured_image %}
+    {% if featured_image.image and featured_image.image != ""  %}
     <img class="post--thumbnail" src="{{featured_image.image}}?nf_resize=fit&w=1000"
         alt="{{item.data.featured_image.alt}}">
     {% endif %}
