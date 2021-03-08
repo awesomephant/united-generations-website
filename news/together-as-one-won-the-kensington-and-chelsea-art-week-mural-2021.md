@@ -20,7 +20,7 @@ The first panel celebrates the area as a pottery and pig farm village in the 19t
 
 The second panel represents an early Portobello Market- now an iconic establishment that shows the relationship between fruit and vegetable vendors and customers which has been vital to adding to the rich vibrancy of the borough’s streets. The third panel shows the intimate moment of a family preparing for the Notting Hill Carnival inside a recently renovated Georgian house.
 
-
+![Mural preparatory sketches](/assets/uploads/togetherasone_sketch.jpg "Together as One – Mural preparatory sketches")
 
 The unique drawings style presents strong symmetrical patterns and uplifting colours according to the Vaastu Shasta design principles. Developed as a universal pictorial language, the signature drawings will encourage simplicity, inclusivity and personal interpretation. The drawings are the outcome of an iterative process that includes hand drawing, digital rendering, and creative software to match the design of the artwork with the existing hoarding structure.
 
