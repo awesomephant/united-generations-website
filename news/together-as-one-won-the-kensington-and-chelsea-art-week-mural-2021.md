@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Together as One won the KCAW Mural 2021
+title: Together as One wins the KCAW Mural competition 2021
 date: 2021-02-08T20:44:09.545Z
 featured_image:
   image: /assets/uploads/together-as-one.jpg
