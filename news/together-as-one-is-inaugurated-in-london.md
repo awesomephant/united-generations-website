@@ -4,10 +4,11 @@ title: Together as One inaugurates on Lansdowne Road, Notting Hill
 date: 2021-02-24T19:39:49.985Z
 featured_image:
   image: /assets/uploads/dscf0037.jpg
-  alt: Together as One colorful mural on Lansdowne Road
-introduction: Together as One officially opened to the public on 7 Lansdowne
-  Road in Notting Hill. The piece of art is part of “Love Kensington + Chelsea”,
-  a public art initiative in collaboration with Royal College of Art, London
+  alt: Together as One colorful mural representing pigs and pottery with children
+    and old
+introduction: Together as One by Adalberto Lonardi officially opened to the
+  public on 7 Lansdowne Road. The piece of art is part of the Kensington +
+  Chelsea Art Week, in collaboration with Royal College of Art, London
   Projects, and Studio Indigo.
 ---
 The new and old generations of the neighbourhood can now enjoy the artwork directed by Adalberto Lonardi. The mural depicts three stories of Notting Hill through time. 
@@ -24,4 +25,4 @@ For Adalberto, it was important to show the value in reconnecting with our histo
 
 Together as One is part of “Love Kensington + Chelsea”, a public art initiative that celebrates the histories of the area with beautiful, temporary artworks on construction hoardings, created by local artists and chosen by public vote. Produced by Kensington + Chelsea Art Week, a creative placemaking organisation behind the annual KCAW Public Art Trail; in collaboration with the Royal College of Art, London Projects and Studio Indigo.
 
-For more information please visit [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/mural-5-vote).
+For more information visit [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/mural-5-vote).
