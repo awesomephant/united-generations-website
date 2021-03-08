@@ -5,11 +5,10 @@ date: 2021-02-08T20:44:09.545Z
 featured_image:
   image: /assets/uploads/together-as-one.jpg
   alt: Together as One Mural
-introduction: The winning mural “Together as One” by Adalberto Lonardi
-  celebrates the power of the Notting Hill Community as a symbol of hope and
-  harmony. with [](https://www.kcaw.co.uk/mural-5-vote) artist was inspired by
-  both the history of the neighbourhood and the site’s architectural
-  restoration.
+introduction: The public voted the painting “Together as One” by Adalberto
+  Lonardi as the winner for the Kensington and Chelsea Art Week part initiative
+  in collaboration with Royal College of Art, London Projects, and Studio
+  Indigo.
 ---
 The mural depicts three stories of Notting Hill through time. The first panel celebrates the area as a pottery and pig farm village in the 19th century, showing ceramic production among young and old residents surrounded by animals with the iconic kilns in the background.
 
