@@ -13,6 +13,8 @@ introduction: A series of creative workshops for everyone who wants to practice
 ---
 Katherine Low Settlement collaborated closely with artist and designer Adalberto Lonardi to develop a series of creative workshop that introduce younger and older participants to basic techniques of drawing. Art is here used to create relationships, discover new hobbies and entertain.
 
-![Brown pencil hand drawing of a candle holder](/assets/uploads/drawing4.jpg "Drawing for Wellbeing - Hand drawing of a candle holder")
+![Brown pencil hand drawing of a candle holder](/assets/uploads/drawing4.jpg "Drawing for Wellbeing - Pencil hand drawing of a candle holder")
 
-![pencil and oil stick drawing selfportrait blindfolded](/assets/uploads/drawing.jpg "Drawing for Wellbeing - Hand drawing of a candle holder")
+![pencil and oil stick drawing selfportrait blindfolded](/assets/uploads/drawing.jpg "Drawing for Wellbeing - Pencil and oil stick selfportrait blindfolded")
+
+![](/assets/uploads/kls_drawing "Drawing for Wellbeing - Pencil hand drawing of glasses")
