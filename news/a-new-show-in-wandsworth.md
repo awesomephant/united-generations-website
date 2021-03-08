@@ -1,11 +1,21 @@
 ---
 layout: post
-title: Drawing for Wellbeing Workshops Series
+title: Drawing for Wellbeing Workshops Series launch in collaboration with
+  Katherine Low Settlement
 date: 2020-12-14T21:26:45.658Z
-introduction: Lorem Ipsum is simply dummy text of the printing and typesetting
-  industry. Lorem Ipsum has been the industry’s standard dummy text ever since
-  the 1500s, when an unknown printer took a galley of type.
+featured_image:
+  image: /assets/uploads/kls-drawing-04.jpg
+  alt: apple and leaf in golden bowl pencil drawing
+introduction: Drawing for Wellbeing is a series of creative workshops for
+  everyone who wants to practice drawing in a safe and inclusive space. The
+  workshops lead by Adalberto Lonardi and organized by Kerry Hagger aim to
+  introduce younger and older generations to the art of drawing and feel
+  connected with each other.
 ---
-Since 2010, graphic designer Eilis Searson has held a yearly critical symposium in defence of sentimentality, foil garlands, and the film Love Actually itself. After writing a dissertation at Camberwell College of Arts on the subject in 2010, Eilis has gathered crowds year after year, in her celebration of (the almost sculptural possibilities of) Iceland christmas platters, kitsch and Martine McCutcheon. This year the event moves online for the first time as a result of the national lockdown.
+Katherine Low Settlement collaborated closely with artist and designer Adalberto Lonardi to develop a series of creative workshop
 
-Since 2010, graphic designer Eilis Searson has held a yearly critical symposium in defence of sentimentality, foil garlands, and the film Love Actually itself. After writing a dissertation at Camberwell College of Arts on the subject in 2010, Eilis has gathered crowds year after year, in her celebration of (the almost sculptural possibilities of) Iceland christmas platters, kitsch and Martine McCutcheon. This year the event moves online for the first time as a result of the national lockdown.
+![](/assets/uploads/drawing4.jpg)
+
+
+
+![](/assets/uploads/drawing.jpg)
