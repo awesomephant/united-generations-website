@@ -4,7 +4,7 @@ title: Restore opens to the public during the Nine Elms Advent Trail 2020
 date: 2021-02-08T20:49:24.407Z
 featured_image:
   image: /assets/uploads/restore.jpg
-  alt: Restore hand painted window installation
+  alt: Restore hand painted glass window installation
 introduction: Restore, a site-specific window artwork is presented at the
   Mason’s Arms Pub, part of the Nine Elms and Battersea Advent Trail and
   sponsored by Nine Elms Arts Ministry.
