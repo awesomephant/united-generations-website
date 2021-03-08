@@ -17,4 +17,4 @@ Katherine Low Settlement collaborated closely with artist and designer Adalberto
 
 ![pencil and oil stick drawing selfportrait blindfolded](/assets/uploads/drawing.jpg "Drawing for Wellbeing - Pencil and oil stick selfportrait blindfolded")
 
-![](/assets/uploads/kls_drawing "Drawing for Wellbeing - Pencil hand drawing of glasses")
+![bue and green pencil hand drawing of glasses](/assets/uploads/kls_drawing "Drawing for Wellbeing - Pencil hand drawing of glasses")
