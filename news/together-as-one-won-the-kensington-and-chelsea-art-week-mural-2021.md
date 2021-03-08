@@ -6,7 +6,7 @@ featured_image:
   image: /assets/uploads/together-as-one.jpg
   alt: Together as One Mural
 introduction: The public voted the painting “Together as One” by Adalberto
-  Lonardi as the winner for the Kensington and Chelsea Art Week part initiative
+  Lonardi as the winner of the Kensington and Chelsea Art Week part initiative
   in collaboration with Royal College of Art, London Projects, and Studio
   Indigo.
 ---
@@ -24,5 +24,5 @@ The second panel represents an early Portobello Market- now an iconic establishm
 
 The unique drawings style presents strong symmetrical patterns and uplifting colours according to the Vaastu Shasta design principles. Developed as a universal pictorial language, the signature drawings will encourage simplicity, inclusivity and personal interpretation. The drawings are the outcome of an iterative process that includes hand drawing, digital rendering, and creative software to match the design of the artwork with the existing hoarding structure.
 
-The mural will be hand painted on site by the artist in late January 2021.<br>
+The mural will be hand-painted on-site by the artist in late January 2021.<br>
 For more information visit [KCAW](https://www.kcaw.co.uk/mural-5-vote).
