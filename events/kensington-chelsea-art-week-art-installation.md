@@ -11,6 +11,6 @@ introduction: Site-specific artwork ‘Together as One’ by Adalberto Lonardi w
   Hill. A site-specific artwork that celebrates the power of the Notting Hill
   community as a symbol of harmony for a better tomorrow.
 link:
-  url: https://www.kcaw.co.uk/mural-5-vote?fbclid=IwAR2JEF0ATazj9xNPSHJCXbrXCzg5jGB-e-k_Ts1UIi-xTrBYo9NW9aV5jHI
+  url: https://www.theunitedgenerations.com/news/together-as-one-won-the-kensington-and-chelsea-art-week-mural-2021/
   text: Read more
 ---
