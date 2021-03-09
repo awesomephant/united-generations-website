@@ -7,8 +7,8 @@ featured_image:
   alt: Circular drawing of renewable and sustainable communities with Open Call
     title
 introduction: The United Generations is looking for collaborations with
-  designers, institutions and councils interested in social practices to think
-  about creative strategies and programs aimed at the wellbeing of young and old
-  generations.
+  designers, institutions and councils engaged with social practices to develop
+  creative strategies and programs aimed at the wellbeing of the older community
+  and the reconciliation of the generations.
 ---
 The United Generations is looking for collaborations with councils, institutions and designers to think about a more intergenerational world and to develop projects that aimed at the wellbeing of young and old generations.
