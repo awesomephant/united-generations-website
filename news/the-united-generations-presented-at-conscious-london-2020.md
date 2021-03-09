@@ -16,7 +16,7 @@ Part of the third day of  of the Conscious London Festival 2020
 
 The Conscious Cities Festival sparks global knowledge exchange by cultivating networks of local and diverse experts, organizations, and institutions to co-create solutions to current issues.
 
-![Screenshot of online talk representing Adalberto talking about the influence of the Power of Ten by the Eams](/assets/uploads/consicous_talk.jpeg "Conscious London - Adalberto presenting the United Generations background information")
+![Screenshot of online talk representing Adalberto talking about the influence of the Power of Ten by the Eams](/assets/uploads/consicous_talk.jpeg "Conscious London - Adalberto presenting the United Generations ")
 
 Conscious London is a multidisciplinary team composed by [Studio Jenny Jones](https://studiojennyjones.com/) (CCD Fellow), [Natasha Reid](https://www.matterspacesoul.com/) (CCD Fellow), [Mark Besseudo](https://markbessoudo.com/hi/) (CCD Fellow) focused on human-centred, socially-conscious and science-informed approaches.
 
