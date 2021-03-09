@@ -7,7 +7,9 @@ featured_image:
   alt: The United Generations presented at Conscious London 2020
 introduction: Conscious London Festival 2020 invited The United Generations'
   founder Adalberto Lonardi to talk during Ecosystems, the third session of the
-  three-day festival, concerning the role of design to improve our cities.
+  three-day festival part of The Centre for Conscious
+  Design[](https://theccd.org/), concerning the role of design to improve our
+  cities.
 ---
 The United Generations is presented by Adalberto Lonardi during the 2020 [Conscious London (CCL)](https://theccd.org/domain/conscious-london/) Festival, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The festival brings together multidisciplinary speakers for an online cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities. 
 
