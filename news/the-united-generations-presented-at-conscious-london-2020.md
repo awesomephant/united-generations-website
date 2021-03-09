@@ -10,11 +10,9 @@ introduction: The United Generations is presented during Ecosystems, the third
 ---
 The United Generations is presented by Adalberto Lonardi during the 2020 [Conscious London (CCL)](https://theccd.org/domain/conscious-london/) Festival, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The festival brings together multidisciplinary speakers for an online cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities. 
 
-![](/assets/uploads/ecosystems.jpg)
+![Ecosystem screensaver on colorful gradients](/assets/uploads/ecosystems.jpg "Conscious London - Ecosystems, third session of three day festival")
 
-Part of the third day of  of the Conscious London Festival 2020
-
-The Conscious Cities Festival sparks global knowledge exchange by cultivating networks of local and diverse experts, organizations, and institutions to co-create solutions to current issues.
+Ecosystems, the third day of the Festival, hosted The United Generations among other brilliant speakers such as Mark Thomann (Director of wHY Landscape) and Jen Masengarb (Senior project manager at the Danish Architecture Centre).
 
 ![Screenshot of online talk representing Adalberto talking about the influence of the Power of Ten by the Eams](/assets/uploads/consicous_talk.jpeg "Conscious London - Adalberto presenting the United Generations ")
 
