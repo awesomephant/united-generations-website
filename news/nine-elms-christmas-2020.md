@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The United Generations at RCA 2020
+title: The United Generations launches at the RCA 2020 Graduate Show
 date: 2020-07-15T20:27:08.475Z
 featured_image:
   image: /assets/uploads/2000x1125px6_web.jpg
