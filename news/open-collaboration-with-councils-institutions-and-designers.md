@@ -8,6 +8,7 @@ featured_image:
     title
 introduction: The United Generations is looking for collaborations with
   designers, institutions and councils engaged with social practices to develop
-  strategies and programs aimed at the wellbeing of the older community.
+  creative strategies and programs aimed at the wellbeing of the older community
+  and the reconciliation of different generations.
 ---
 On the continuous endeavour to nourish our communities and cities, The United Generations is pleased to launch a global **Open Call** to start conversations about past, current and future strategies related to improving the lives of the older generations.
