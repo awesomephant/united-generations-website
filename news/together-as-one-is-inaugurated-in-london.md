@@ -6,10 +6,9 @@ featured_image:
   image: /assets/uploads/dscf0037.jpg
   alt: Together as One colorful mural representing pigs and pottery with children
     and old
-introduction: Royal College of Art alumni, Adalberto Lonardi unveils new
-  hand-painted mural on Lansdowne Road construction site part of the Kensington
-  + Chelsea Art Week, in collaboration with Royal College of Art, London
-  Projects, and Studio Indigo.
+introduction: Royal College of Art alumni, Adalberto Lonardi unveils uplifting
+  hand-painted mural, part of the Kensington + Chelsea Art Week, in
+  collaboration with RCA, London Projects, and Studio Indigo.
 ---
 *“When the world changes and pulls us apart, I believe we need to reconnect with one another and live again together as one. We have to reconnect with our history, traditions and the people who shaped us. As artists, citizens and human beings we must celebrate the basic and essential things of life.”* 
 
