@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drawing for Wellbeing Workshops series launches in collaboration with
+title: Drawing for Wellbeing workshops series launches in collaboration with
   Katherine Low Settlement
 date: 2020-12-14T21:26:45.658Z
 featured_image:
