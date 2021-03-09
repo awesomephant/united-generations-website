@@ -18,4 +18,8 @@ The Conscious Cities Festival sparks global knowledge exchange by cultivating ne
 
 ![Screenshot of online talk representing Adalberto talking about the influence of the Power of Ten by the Eams](/assets/uploads/consicous_talk.jpeg "Conscious London - Adalberto presenting the United Generations background information")
 
+Conscious London is a multidisciplinary team composed by [Studio Jenny Jones](https://studiojennyjones.com/) (CCD Fellow), [Natasha Reid](https://www.matterspacesoul.com/) (CCD Fellow), [Mark Besseudo](https://markbessoudo.com/hi/) (CCD Fellow) focused on human-centred, socially-conscious and science-informed approaches.
+
+The Centre for Conscious Design (CCD) is an international network of experts, researchers and practitioners from a wide range of fields, focused on using conscious design to alleviate complex social and urban issues. The “conscious design” concept emerged out of the Conscious Cities movement which advocates for a healthier, more socially-aware and democratic built environment.
+
 Discover the talks at [Conscious London](https://www.youtube.com/channel/UC-Bbwz5OiTCqCCmIH9RQxwA).
