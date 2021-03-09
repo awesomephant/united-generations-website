@@ -31,7 +31,7 @@
   .chapter--nav-inner {
     @include bp(m) {
       max-width: 20em;
-      top: 6rem;
+      top: calc(var(--ms-0) * 6);
       position: fixed;
     }
   }

@@ -30,13 +30,13 @@ Consumer Attitudes, Stylus, 2019 \[Accessed 30 October 2019]. 
 
 https://www.merriam-webster.com/dictionary/old \[Accessed 04 November 2019]. 
 
-https://www.theguardian.com/society/2020/jan/07/ britain-age-segregated-countries-world-age-apartheid \[Accessed 04 November 2019]. 
+https://www.theguardian.com/society/2020/jan/07/britain-age-segregated-countries-world-age-apartheid \[Accessed 04 November 2019]. 
 
 TOY‑PLUS Consortium (2018) Together Old and Young – An Intergenerational Approach: A Handbook for Tutors and Course Developers, Leiden: TOY‑PLUS Project.l-care-for-80-ofelderly-by-2020> \[[Accessed 04 November 2019]. 
 
 https://www.ageuk.org.uk/information-advice/health-wellbeing/loneliness/ \[Accessed 04 November 2019]. 
 
-https://www.ons.gov.uk/peoplepopulationandcommunity/ wellbeing \[Accessed 04 November 2019]. 
+https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing \[Accessed 04 November 2019]. 
 
 https://equalarts.org.uk/our-work/henpower \[Accessed 04 November 2019]. 
 

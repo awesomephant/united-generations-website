@@ -7,10 +7,8 @@
   @include bp(s) {
     font-size: var(--ms-2);
     font-weight: 400;
-    padding-top: .25em;
   }
   @include bp(m) {
-    padding-top: .5em;
     padding-bottom: 2em;
     grid-column: 5 / 12;
   }
@@ -25,7 +23,7 @@
     max-width: 100%;
     margin-bottom: 1rem;
     border-radius: 2px;
-    border: 1px solid white;
+    border: $cardBorder;
     margin-top: 2rem;
 
   }

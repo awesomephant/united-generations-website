@@ -12,6 +12,9 @@
   }
   padding-bottom: 4rem;
   max-width: 50rem;
+  word-wrap: break-word;
+  letter-spacing: .01em;
+  overflow-wrap: break-word;
   p {
     font-size: var(--ms-0);
     margin-bottom: 0.5em;
@@ -63,7 +66,7 @@
     margin-top: 2em;
     margin-bottom: 1.5em;
     border-radius: $br;
-    border: 1px solid rgba(white, 0.5);
+    border: $cardBorder;
   }
   .hasimage {
     margin-bottom: 1.5em;
@@ -74,7 +77,7 @@
   border-radius: $br;
   margin-bottom: 1rem;
   margin-top: 0.5rem;
-  border: 2px solid rgba(white, 1);
+  border: $cardBorder;
 }
 
 .post--eyebrow {
@@ -114,7 +117,6 @@
     margin-bottom: 2em;
   }
   .gallery--item {
-    margin-bottom: 2rem;
     flex-basis: 50%;
     flex-grow: 1;
     img {
