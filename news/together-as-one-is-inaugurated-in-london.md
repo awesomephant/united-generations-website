@@ -27,5 +27,5 @@ Together as one is a site-specific artwork that celebrates the power of the Nott
 *“Together as One is an important milestone to me because it forms part of a bigger vision called The United Generations (UG). A social collaborative project born during my degree at the RCA and aimed to develop, through art, design, culture, and education, sustainable strategies to empower the older population and bridge the gap among generations. There is so much we can do. Part of the income from commissions related to the UG goes to local charities such as Katherine Low Settlement, the community centre I volunteer for since 2019.”* 
 
 Adalberto Lonardi 
-
+<br>
 For more information visit [Kensignton + Chelsea Art Week](https://www.kcaw.co.uk/mural-5-vote).
