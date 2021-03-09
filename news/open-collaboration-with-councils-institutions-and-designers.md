@@ -14,8 +14,6 @@ introduction: The United Generations is looking for collaborations with
 ---
 On the continuous endeavour to nourish our communities and cities, The United Generations is pleased to launch a global **Open Call** to start conversations about past, current and future strategies looking at the challenges of the ageing population and improving the lives of the older generations. 
 
-The portfolio of projects can range from public art initiatives to improved design strategies for homes, care homes and social care facilities, to communication campaigns that bring awareness to the importance of ageing well.
+The portfolio of projects can range from public art initiatives to improved design strategies for homes, care homes and social care facilities, to communication campaigns providing a dedicated focus for people-centred and inclusive design.
 
-
-
-If you have a proposal, feel to get in touch at ug@adalbertolonardi.com.
+Get in touch with your proposal at [ug@adalbertolonardi.com](ug@adalbertolonardi.com).
