@@ -6,7 +6,7 @@ order: 9
 ---
 ### Supported by
 
-Katherine Low Settlement
+[Katherine Low Settlement](https://www.klsettlement.org.uk/)
 
 ### Thanks to
 
