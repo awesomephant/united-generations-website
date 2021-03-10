@@ -7,9 +7,9 @@ featured_image:
   image: /assets/uploads/kls-drawing-04.jpg
   alt: Brown pencil drawing of candle holder performed with non-dominant hand
 introduction: Drawing for Wellbeing is a series of creative workshops developed
-  by Adalberto Lonardi in collaboration with Katherine Low Settlement for
-  everyone who wants to practice drawing in a safe and inclusive space. This
-  workshop focuses on the observation of light and shadow.
+  by Adalberto Lonardi with Katherine Low Settlement for everyone who wants to
+  practice drawing in a safe and inclusive space. This workshop focuses on the
+  observation of light and shadow.
 link:
   url: ""
   text: ""
