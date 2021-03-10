@@ -13,6 +13,6 @@ introduction: Discover the glorious large scale window installation by Adalberto
   sense of belonging as a symbol of light among the community.
 content: Longer text here
 link:
-  url: https://www.instagram.com/nineelmsartsministry
+  url: https://www.theunitedgenerations.com/news/restore-x-nine-elms-advent-trail/
   text: Discover more
 ---
