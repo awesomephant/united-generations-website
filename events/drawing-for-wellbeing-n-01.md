@@ -7,9 +7,9 @@ featured_image:
   image: /assets/uploads/drawing03.jpg
   alt: Two black lines continuous drawings of a human face
 introduction: Drawing for Wellbeing is a series of creative workshops developed
-  with Katherine Low Settlement for everyone who wants to practice drawing in a
-  safe and inclusive space. This workshop focuses on the fundamentals of line
-  drawings.
+  by Adalberto Lonardi in collaboration with Katherine Low Settlement for
+  everyone who wants to practice drawing in a safe and inclusive space. This
+  workshop focuses on the fundamentals of line drawings.
 link:
   url: ""
   text: ""
