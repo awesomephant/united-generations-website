@@ -10,10 +10,8 @@ introduction: The United Generations Work in Progress research is presented by
   platform created by Gianluca Alla to fight the stillness of the pandemic
   lockdown.
 ---
-The talk focuses on the importance of a multigenerational world and the care of the older population in a fully sustainable community. 
+The energetic talk focuses on the importance of a multigenerational world and the care of the older population in a fully sustainable community. After a brief introduction of the reasons why the projects started and the precedent research about wellbeing in the late stage of life, Jenny and Adalberto a back to back conversation which explains the pillars of The United Generations projects.
 
 Watch the talk [here](https://www.instagram.com/tv/B-pYSPfFEY3/).
 
 ![Desktop digital platform screen with LIVE! writing in black and red dot on grey background](/assets/uploads/live.jpg "LIVE! - Desktop digital platform")
-
-![mobile screen shot of digital talk with comments](/assets/uploads/live-3 "LIVE! - Extract from live event on IG")
