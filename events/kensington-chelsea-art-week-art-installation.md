@@ -1,5 +1,5 @@
 ---
-title: "Together as One wins KCAW #5 mural"
+title: "Together as One wins KCAW #5 mural competition"
 eyebrow: exhibition
 date: 2021-01-13T19:08:51.603Z
 location: Notting Hill
