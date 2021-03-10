@@ -14,4 +14,4 @@ The energetic talk focuses on the importance of a multigenerational world and th
 
 Watch the talk [here](https://www.instagram.com/tv/B-pYSPfFEY3/).
 
-![Desktop digital platform screen with LIVE! writing in black and red dot on grey background](/assets/uploads/live.jpg "LIVE! - Desktop digital platform")
+![Desktop digital platform screen with LIVE! writing in black and red dot on grey background](/assets/uploads/live.jpg "LIVE! - Desktop digital platform by Gianluca Alla")
