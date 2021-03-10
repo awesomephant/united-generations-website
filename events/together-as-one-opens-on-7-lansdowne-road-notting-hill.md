@@ -12,5 +12,5 @@ introduction: Together as One officially opened to the public on 7 Lansdowne
   Projects, and Studio Indigo.
 link:
   url: https://www.theunitedgenerations.com/news/together-as-one-is-inaugurated-in-london/
-  text: Read the article
+  text: Read more
 ---
