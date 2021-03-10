@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Together as One inaugurates on Lansdowne Road, Notting Hill
+title: Together as One inaugurates on Lansdowne Road in Notting Hill
 date: 2021-02-24T19:39:49.985Z
 featured_image:
   image: /assets/uploads/dscf0037.jpg
