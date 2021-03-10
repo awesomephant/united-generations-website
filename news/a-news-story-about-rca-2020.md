@@ -16,4 +16,4 @@ Watch the talk [here](https://www.instagram.com/tv/B-pYSPfFEY3/).
 
 ![desktop screen with Live! writing in gray and black and red dot](/assets/uploads/live.jpg "LIVE! - Desktop digital platform")
 
-![](/assets/uploads/live-3 "LIVE! - Extract from live event on IG")
+![mobile screen shot of digital talk with comments](/assets/uploads/live-3 "LIVE! - Extract from live event on IG")
