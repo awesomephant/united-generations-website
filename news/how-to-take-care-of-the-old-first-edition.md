@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to take care of the Old book presented at the RCA 2020
+title: How to take care of the Old presented at the RCA 2020
 date: 2020-07-13T20:06:39.168Z
 featured_image:
   image: /assets/uploads/old_desktop.jpg
@@ -14,8 +14,6 @@ introduction: The research looks at the relationships between gerontology and
 The concept of aging successfully has become increasingly crucial as statistics predict that the total number of individuals over 65 is projected to nearly double before 2050. The urban environment directly impacts the engagement profiles of older adults, and it is necessary to provide spaces designed to match the needs of the elderly. Based on my mother’s concerns and anticipations of her future, this book investigates how architecture, design, and technology can be age-friendly, mitigating some of the losses that come with old age.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/434693932?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-How to take care of the old – Population Pyramids 2005 - 2050 animation (source www.populationpyramid.net)
 
 The paper raises the implications of a current worldwide ageing population phenomenon. Through primary interviews and cross-disciplinary research Lonardi analyses how growing old is perceived nowadays and which tangible and theoretical solutions our modern society offers. He identifies three main common areas of vulnerability, particularly acute in old age.  The three topics took into consideration the physical and mental health, and the relationships between generations, specifying for each macro-domain how architecture, design, and technology are tackling the related issues. As the lowest common denominator, Adalberto found two critical elements to take in consideration.
 
