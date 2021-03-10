@@ -10,7 +10,7 @@ introduction: The United Generations Work in Progress research is presented by
   platform created by Gianluca Alla to fight the stillness of the pandemic
   lockdown.
 ---
-The talk focuses on the importance of a multigenerational world and the care of the older population in a fully sustainable community. The United Generations research is presented by Adalberto Lonardi in conversation with Studio Jenny Jones on LIVE! a digital platform created by Gianluca Alla to fight the first pandemic lockdown stillness.
+The talk focuses on the importance of a multigenerational world and the care of the older population in a fully sustainable community. 
 
 Watch the talk [here](https://www.instagram.com/tv/B-pYSPfFEY3/).
 
