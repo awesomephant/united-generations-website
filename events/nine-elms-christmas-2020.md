@@ -7,9 +7,10 @@ featured_image:
   image: /assets/uploads/restore.jpg
   alt: two colorful stained glass windows representing families with animals
     around a table
-introduction: A window art installation by Adalberto Lonardi at the Mason’s Arms
-  Pub, part of the Nine Elms and Battersea Advent Trail and sponsored by Nine
-  Elms Arts Ministry and Nine Elms Council.
+introduction: Discover the glorious large scale window installation by Adalberto
+  Lonardi at the Mason’s Arms Pub. Part of the Nine Elms and Battersea Advent
+  Trail and sponsored by Nine Elms Arts Ministry, the artwork celebrates the
+  sense of belonging as a symbol of light.
 content: Longer text here
 link:
   url: https://www.instagram.com/nineelmsartsministry
