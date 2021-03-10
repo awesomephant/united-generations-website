@@ -7,9 +7,10 @@ featured_image:
   image: /assets/uploads/live.jpg
   alt: Desktop version of LIVE! website. LIVE! written in grey tones and red
     recording explanation dot
-introduction: The United Generations research is presented by Adalberto Lonardi
-  in conversation with Studio Jenny Jones on LIVE! a digital platform created by
-  Gianluca Alla to fight the first pandemic lockdown stillness.
+introduction: The United Generations research work in progress is presented by
+  Adalberto Lonardi in conversation with Studio Jenny Jones on LIVE! a digital
+  platform created by Gianluca Alla to fight the first pandemic lockdown
+  stillness.
 link:
   url: https://www.instagram.com/tv/B-pYSPfFEY3/
   text: Watch the talk
