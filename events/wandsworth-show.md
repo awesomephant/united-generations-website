@@ -1,5 +1,5 @@
 ---
-title: The United Generations at Wandsworth Art exhibition
+title: The United Generations at Wandsworth Art
 eyebrow: exhibition
 date: 2020-08-20T20:05:40.630Z
 location: Wandsworth Council, London
