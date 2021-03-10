@@ -31,7 +31,7 @@ Secondly, the necessity to be involved in the community and how aged adults can 
 
 As a result, there are ways of designing the physical environment to bring old and young people together with each other - the experiments of creating intergenerational and open communities within the metropolis seem particularly valuable. The importance of recreating the Italian ‘Cascina’ environment within the city becomes critical. Adapting to shared communal spaces with others - family, friends, or even strangers - might be a necessity for the majority of the young and old population that can not afford private housing. This action will not necessarily mean to lose self-independence. Instead, it might mean to be open to new ways of living and design new typologies of building, extensions, or conversions that can support the communities to stay together. Under different circumstances, nursing homes’ accommodations which tend to be generally depressing, will need design thinking that makes them less so, arguably reminiscing somehow of the tenants' heydays and equipped with the most advanced smart-home technologies. 
 
-![](/assets/uploads/old4.jpg)
+![Publications interior spread with photographs of elderly people with care robots](/assets/uploads/old4.jpg "How to take care of the old – Interior spread about care robots in the technology market")
 
 A significant change needs to be executed at a larger scale level in guiding and planning a re-conceptualization of communities and the whole of society. While solutions from the future such as robotics and Artificial Intelligence might be embraced and implemented with the analog side of our society, social and architectural archetypes from the past should be revisited and upgraded to revive in the modern world.
 
