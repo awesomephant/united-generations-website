@@ -37,7 +37,7 @@ Under different circumstances, nursing homes’ accommodations which tend to be 
 
 A significant change needs to be executed at a larger scale level in guiding and planning a re-conceptualization of communities and the whole of society. While solutions from the future such as robotics and Artificial Intelligence might be embraced and implemented with the analog side of our society, social and architectural archetypes from the past should be revisited and upgraded to revive in the modern world.
 
-![series of eight colorful books about how to take care of the old in the future](/assets/uploads/ageing_20191.jpg "How to take care of the old and series of future book about a better later life")
+![series of eight colorful books about how to take care of the old in the future](/assets/uploads/ageing_20191.jpg "How to take care of the old book and series of future publications about a better later life")
 
 Designing for the elderly engages a lot of levels of thought and implementation - not only ingenious re-design but a sensitive and empathetic understanding of the situation of older people and their specific disadvantages in flourishing in an increasingly digital culture. 
 
