@@ -30,3 +30,8 @@ At the Estate level, the Adaptable Public Scheme (APS) merges internal and exter
 ![Coloured pencil and oil stick drawing of an aerial perspective of hills and modernist architecture during autumn](/assets/uploads/5effa7aab9875c4cff04d8d6-50602-resize-1920-2560.jpeg "Arcadia: Hills (Aerial Perspective) - Coloured pencil and oil stick on digital print (29.7 x 20 cm)")
 
 Read The United Generations research [here](https://www.theunitedgenerations.com/research).
+
+<aside class='note'>
+Article by Adalberto Lonardi
+
+</aside>
