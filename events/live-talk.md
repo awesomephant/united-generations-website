@@ -10,8 +10,7 @@ featured_image:
 introduction: The United Generations research work in progress is presented by
   Adalberto Lonardi in conversation with Studio Jenny Jones on LIVE!, a digital
   platform created by Gianluca Alla to fight the pandemic lockdown stillness.
-  The talk focuses on the importance of a multigenerational world and the care
-  of the older population.
+  The talk focuses on the importance and care of young and old generations.
 link:
   url: https://www.instagram.com/tv/B-pYSPfFEY3/
   text: Watch the talk
