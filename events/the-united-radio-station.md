@@ -1,7 +1,7 @@
 ---
 title: The United Radio Station Talks
 eyebrow: Talk
-date: 2020-07-22T20:28:58.166Z
+date: 2020-07-21T23:00:00.000Z
 location: Royal College of Art, Online
 featured_image:
   image: /assets/uploads/radio-station-events-template-3.jpg
@@ -9,7 +9,7 @@ featured_image:
 introduction: This is an opportunity to meet MA Interior Design graduate
   Adalberto Lonardi on Zoom where he will be answering questions about his
   practice, works in progress and future plans. Join Adalberto for his final
-  Meet the Designer event on Friday 31 July, 6-7pm (BST].
+  Meet the Designer event.
 link:
   url: https://www.twitch.tv/adalbertolonardi
   text: Watch the talk
