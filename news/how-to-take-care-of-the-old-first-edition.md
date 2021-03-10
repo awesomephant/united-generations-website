@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to take care of the Old presented at the RCA 2020
+title: The publication How to take care of the Old is presented at the RCA 2020
 date: 2020-07-13T20:06:39.168Z
 featured_image:
   image: /assets/uploads/old_desktop.jpg
