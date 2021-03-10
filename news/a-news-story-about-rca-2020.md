@@ -12,4 +12,8 @@ introduction: The United Generations Work in Progress research is presented by
 ---
 The United Generations research is presented by Adalberto Lonardi in conversation with Studio Jenny Jones on LIVE! a digital platform created by Gianluca Alla to fight the first pandemic lockdown stillness.
 
+Watch the talk [here](https://www.instagram.com/tv/B-pYSPfFEY3/).
+
 ![desktop screen with Live! writing in gray and black and red dot](/assets/uploads/live.jpg "LIVE! - Desktop digital platform")
+
+![](/assets/uploads/live-3 "LIVE! - Extract from live event on IG")
