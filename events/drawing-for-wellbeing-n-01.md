@@ -6,10 +6,10 @@ location: Katherine Low Settlement Online
 featured_image:
   image: /assets/uploads/drawing03.jpg
   alt: Two black lines continuous drawings of a human face
-introduction: KLS Drawing for Wellbeing is a series of creative workshops for
-  everyone who wants to practice drawing in a safe and inclusive space. The
-  workshops aim to introduce younger and older generations to the art of
-  drawing, from line-drawing, to shadowing, and landscaping.
+introduction: Drawing for Wellbeing is a series of creative workshops developed
+  with Katherine Low Settlement for everyone who wants to practice drawing in a
+  safe and inclusive space. This workshop focuses on the fundamentals of line
+  drawings.
 link:
   url: ""
   text: ""
