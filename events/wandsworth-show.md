@@ -6,9 +6,9 @@ location: Wandsworth Council, London
 featured_image:
   image: /assets/uploads/wa.jpg
   alt: colorful drawing of children and grandparent playing with chickens in gardens
-introduction: The series of 10 hand-drawings, part of The United Generation
-  project by Adalberto Lonardi are showcased at the Wandsworth Art virtual
-  gallery.
+introduction: Six of the ten mix media drawings part of The United Generation
+  project presented by Adalberto Lonardi at the RCA Graduate Show 2020 are
+  showcased permanently at the Wandsworth Art virtual gallery.
 content: Longer text here
 link:
   url: https://wandsworthart.com/profiles/adalberto-lonardi/
