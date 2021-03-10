@@ -7,7 +7,7 @@ featured_image:
   image: /assets/uploads/kls_drawing
   alt: Coloured pencil drawing of a pair of blue and green glasses
 introduction: Drawing for Wellbeing is a series of creative workshops developed
-  in collaboration with Katherine Low Settlement for everyone who wants to
+  by Adalberto Lonardi with Katherine Low Settlement for everyone who wants to
   practice drawing in a safe and inclusive space. This workshop focuses on the
   fundamentals of real-life objects observation.
 link:
