@@ -25,8 +25,8 @@ Using findings from his book “How to take care of the old” and from site-spe
 
 ![The United Generations schemes ecosystem (Mixed-media digital collage, 2020)](/assets/uploads/the-united-generations_2020-diagrams3.jpg "The United Generations schemes ecosystem (Mixed-media digital collage, 2020)")
 
-At the Estate level, the Adaptable Public Scheme (APS) merges internal and external spaces hosting activities that promote intergenerational moments connected to nature, care of the body, exercise, work, performance, spirituality, farming, and food. At the domestic level, the Adaptable Domestic Scheme (ADS) proposes reversible physical home adaptations of scale and accessibility that enable residents to stay in the Estate through the phases of life. A third scheme imagines the activities and cultural programming of the Estate, set up as a social enterprise, subsidized by government funding, and advertised by the United Radio Station to foster wellbeing and connection in the neighborhood.
+At the Estate level, the Adaptable Public Scheme (APS) merges internal and external spaces hosting activities that promote intergenerational moments connected to nature, care of the body, exercise, work, performance, spirituality, farming, and food. At the domestic level, the Adaptable Domestic Scheme (ADS) proposes reversible physical home adaptations of scale and accessibility that enable residents to stay in the Estate through the phases of life. A third scheme imagines the activities and cultural programming of the Estate, set up as a social enterprise, subsidized by government funding, and advertised by the United Radio Station to foster wellbeing and connection in the neighbourhood.
 
 ![Coloured pencil and oil stick drawing of an aerial perspective of hills and modernist architecture during autumn](/assets/uploads/5effa7aab9875c4cff04d8d6-50602-resize-1920-2560.jpeg "Arcadia: Hills (Aerial Perspective) - Coloured pencil and oil stick on digital print (29.7 x 20 cm)")
 
-Discover the research [here](https://www.theunitedgenerations.com/research).
+Read The United Generations research [here](https://www.theunitedgenerations.com/research).
