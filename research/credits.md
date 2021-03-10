@@ -10,22 +10,21 @@ Katherine Low Settlement
 
 ### Thanks to
 
-Jenny Jones (Studio Jenny Jones)
-Barry Curtis (Central Saint Martins)
-Rebecca Mckillip (Dalziel & Pow)
-Brendan Commane (Helen Hamlyn Center)
-Lucy Gallwey (Royal College of Art)
-Graeme Brooker (Royal College of Art)
-Vicky Richardson (Royal College of Art)
-Jeremy Myerson (Helen Hamlyn Center)
-Sarah Goodall (Katherine Low Settlement)
-Dawn Killen (Katherine Low Settlement)
-Sarah Rackman (Katherine Low Settlement)
-Cam Jarvis (Company Drinks)
-Hannah Lambert (Royal College of Art)
-Howard Sullivan (Yourstudio)
-Reiko Yamazaki (Royal College of Art)
-Ian Hunter (Material Council)
-Manja Van De Worp (Royal College of Art)
-Jo-Anne Bichard (Helen Hamlyn Center)
-Max Kohler (graphic designer)
+Jenny Jones (Studio Jenny Jones)<br>
+Barry Curtis (Central Saint Martins)<br>
+Rebecca Mckillip (Dalziel & Pow)<br>
+Brendan Commane (Helen Hamlyn Center)<br>
+Lucy Gallwey (Royal College of Art)<br>
+Graeme Brooker (Royal College of Art)<br>
+Vicky Richardson (Royal College of Art)<br>
+Jeremy Myerson (Helen Hamlyn Center)<br>
+Sarah Goodall (Katherine Low Settlement)<br>
+Dawn Killen (Katherine Low Settlement)<br>
+Sarah Rackman (Katherine Low Settlement)<br>
+Cam Jarvis (Company Drinks)<br>
+Hannah Lambert (Royal College of Art)<br>
+Howard Sullivan (Yourstudio)<br>
+Reiko Yamazaki (Royal College of Art)<br>
+Ian Hunter (Material Council)<br>
+Manja Van De Worp (Royal College of Art)<br>
+Jo-Anne Bichard (Helen Hamlyn Center).
