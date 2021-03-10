@@ -14,6 +14,6 @@ The United Generations research is presented by Adalberto Lonardi in conversatio
 
 Watch the talk [here](https://www.instagram.com/tv/B-pYSPfFEY3/).
 
-![Desktop digital platform screen with LIVE! writing in grey and red dot](/assets/uploads/live.jpg "LIVE! - Desktop digital platform")
+![Desktop digital platform screen with LIVE! writing in black and red dot on grey background](/assets/uploads/live.jpg "LIVE! - Desktop digital platform")
 
 ![mobile screen shot of digital talk with comments](/assets/uploads/live-3 "LIVE! - Extract from live event on IG")
