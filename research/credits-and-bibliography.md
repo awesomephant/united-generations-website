@@ -38,9 +38,9 @@ TOY‑PLUS Consortium (2018) Together Old and Young – An Intergenerational App
 
 Consumer Attitudes, Stylus, 2019 \[Accessed 30 October 2019]. 
 
-www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary \[Accessed 04 November 2019]. 
+Intergenerational programs not just nice but necessary, Fobers, 2016 \[Accessed 04 November 2019]. 
 
-www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care \[Accessed 16 January 2020]. 
+How is ai revolutionizing elderly care, Fobers, 2018 \[Accessed 16 January 2020]. 
 
 <https://www.merriam-webster.com/dictionary/old> \[Accessed 04 November 2019]. 
 
