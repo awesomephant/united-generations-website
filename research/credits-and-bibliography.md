@@ -36,29 +36,29 @@ ENIL, European Network for Intergenerational Learning, Report on Intergeneration
 
 Consumer Attitudes, Stylus, 2019 \[Accessed 30 October 2019]. 
 
-https://www.merriam-webster.com/dictionary/old \[Accessed 04 November 2019]. 
+<https://www.merriam-webster.com/dictionary/old> \[Accessed 04 November 2019]. 
 
-https://www.theguardian.com/society/2020/jan/07/britain-age-segregated-countries-world-age-apartheid \[Accessed 04 November 2019]. 
+<https://www.theguardian.com/society/2020/jan/07/britain-age-segregated-countries-world-age-apartheid> \[Accessed 04 November 2019]. 
 
 TOY‑PLUS Consortium (2018) Together Old and Young – An Intergenerational Approach: A Handbook for Tutors and Course Developers, Leiden: TOY‑PLUS Project.l-care-for-80-ofelderly-by-2020> \[[Accessed 04 November 2019]. 
 
-https://www.ageuk.org.uk/information-advice/health-wellbeing/loneliness/ \[Accessed 04 November 2019]. 
+<https://www.ageuk.org.uk/information-advice/health-wellbeing/loneliness/> \[Accessed 04 November 2019]. 
 
-https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing \[Accessed 04 November 2019]. 
+<https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing> \[Accessed 04 November 2019]. 
 
-https://equalarts.org.uk/our-work/henpower \[Accessed 04 November 2019]. 
+<https://equalarts.org.uk/our-work/henpower> \[Accessed 04 November 2019]. 
 
-https://www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary/ \[Accessed 04 November 2019]. 
+<https://www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary/> \[Accessed 04 November 2019]. 
 
-https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d \[Accessed 16 January 2020]. 
+<https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d> \[Accessed 16 January 2020]. 
 
-https://media.toyota.co.uk/2018/01/toyota-launches-new-mobility-ecosystem-concept-vehicle-ces-2018/ \[Accessed 16 January 2020]. 
+[https://media.toyota.co.uk/2018/01/toyota-launches-new-mobility-ecosystem-concept-vehicle-ces-2018/ ](https://media.toyota.co.uk/2018/01/toyota-launches-new-mobility-ecosystem-concept-vehicle-ces-2018/)\[Accessed 16 January 2020]. 
 
-https://www.gu.org/ \[Accessed 04 November 2019]. 
+<https://www.gu.org/> \[Accessed 04 November 2019]. 
 
-https://edition.cnn.com/2018/10/16/health/depression-mental-health-zimbabwe-africa-partner/index.html \[Accessed 04 November 2019]. 
+<https://edition.cnn.com/2018/10/16/health/depression-mental-health-zimbabwe-africa-partner/index.html> \[Accessed 04 November 2019]. 
 
-http://www.interactivearchitecture.org/fun-palace-cedric-price.html \[Accessed 04 November 2019]. 
+[http://www.interactivearchitecture.org/fun-palace-cedric-price.html ](http://www.interactivearchitecture.org/fun-palace-cedric-price.html)\[Accessed 04 November 2019]. 
 
 ### **Interviews**
 
