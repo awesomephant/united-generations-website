@@ -5,9 +5,10 @@ date: 2021-02-08T20:44:09.545Z
 featured_image:
   image: /assets/uploads/together-as-one.jpg
   alt: Together as One Mural
-introduction: The public voted the mural design by Adalberto Lonardi as the
-  winner of the Kensington and Chelsea Art Week part initiative in collaboration
-  with Royal College of Art, London Projects, and Studio Indigo.
+introduction: The Public votes Together as One designed by Adalberto Lonardi as
+  the Lansdowne Road winning mural for Kensington and Chelsea Art Week, a public
+  art initiative in collaboration with Royal College of Art, London
+  Projects, and Studio Indigo.
 ---
 Together as one is a site-specific handpainted mural that celebrates the power of the Notting Hill community as a symbol of hope and harmony for tomorrow. Inspired by the neighbourhood’s history and the architectural restoration of the site, the drawings represent three stories through time. For the artist, it was important to show the value in reconnecting with our history, our traditions and the people who shaped us to essentially find who we truly are; “As artists, citizens and human being, we need to celebrate the simple and essential moments of life”
 
