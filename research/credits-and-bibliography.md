@@ -4,6 +4,14 @@ title: Bibliography
 date: 2027-01-08T22:35:00.000Z
 order: 8
 ---
+### Images
+
+All images by the author if not explicitly stated otherwise.
+
+### Drawings
+
+All drawings by the author. The drawing style is a unique feature of Adalberto's artworks, developed as a universal pictorial language, it encourages simplicity, inclusivity and personal interpretation. The drawings are the outcome of an iterative process that includes computer rendering, creative software and hand painting.
+
 ### Books, journals, articles
 
 Schiano-Phan, R., Lau, B., Pourel, D. and Khan, Spatial Delight and Environmental Performance of Modernist Architecture in London – Golden Lane Estate, 2018. 
@@ -54,12 +62,4 @@ http://www.interactivearchitecture.org/fun-palace-cedric-price.html \[Accessed 0
 
 ### **Interviews**
 
-Author’s interview with Howard Sullivan (Dec. 2019). 
-
-### Images
-
-All images by the author if not explicitly stated otherwise.
-
-### Drawings
-
-All drawings by the author. The drawing style is a unique feature of Adalberto's artworks, developed as a universal pictorial language, it encourages simplicity, inclusivity and personal interpretation. The drawings are the outcome of an iterative process that includes computer rendering, creative software and hand painting.
+Author’s interview with Howard Sullivan (Dec. 2019).
