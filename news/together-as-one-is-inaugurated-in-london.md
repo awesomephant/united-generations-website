@@ -7,8 +7,9 @@ featured_image:
   alt: Together as One colorful mural representing pigs and pottery with children
     and old
 introduction: Royal College of Art alumni, Adalberto Lonardi unveils uplifting
-  hand-painted mural, part of the Kensington + Chelsea Art Week, in
-  collaboration with RCA, London Projects, and Studio Indigo.
+  hand-painted mural, part of the Kensington + Chelsea Art Week,  as a symbol of
+  harmony and unity for a better tomorrow. In collaboration with RCA, London
+  Projects, and Studio Indigo.
 ---
 *“When the world changes and pulls us apart, I believe we need to reconnect with one another and live again together as one. We have to reconnect with our history, traditions and the people who shaped us. As artists, citizens and human beings we must celebrate the basic and essential things of life.”* 
 
