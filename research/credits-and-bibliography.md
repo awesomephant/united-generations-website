@@ -58,7 +58,7 @@ TOY‑PLUS Consortium (2018) Together Old and Young – An Intergenerational App
 
 <https://edition.cnn.com/2018/10/16/health/depression-mental-health-zimbabwe-africa-partner/index.html> \[Accessed 04 November 2019]. 
 
-[http://www.interactivearchitecture.org/fun-palace-cedric-price.html ](http://www.interactivearchitecture.org/fun-palace-cedric-price.html)\[Accessed 04 November 2019]. 
+<http://www.interactivearchitecture.org/fun-palace-cedric-price.html> \[Accessed 04 November 2019]. 
 
 ### **Interviews**
 
