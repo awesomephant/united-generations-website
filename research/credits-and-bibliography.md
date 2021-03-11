@@ -38,6 +38,10 @@ TOY‑PLUS Consortium (2018) Together Old and Young – An Intergenerational App
 
 Consumer Attitudes, Stylus, 2019 \[Accessed 30 October 2019]. 
 
+www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary \[Accessed 04 November 2019]. 
+
+www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care \[Accessed 16 January 2020]. 
+
 <https://www.merriam-webster.com/dictionary/old> \[Accessed 04 November 2019]. 
 
 <https://www.theguardian.com/society/2020/jan/07/britain-age-segregated-countries-world-age-apartheid> \[Accessed 04 November 2019]. 
@@ -48,15 +52,11 @@ Consumer Attitudes, Stylus, 2019 \[Accessed 30 October 2019]. 
 
 <https://equalarts.org.uk/our-work/henpower> \[Accessed 04 November 2019]. 
 
-<https://www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary> \[Accessed 04 November 2019]. 
-
-[https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d ](<https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d>)\[Accessed 16 January 2020]. 
-
-<https://www.gu.org/> \[Accessed 04 November 2019]. 
-
 <https://edition.cnn.com/2018/10/16/health/depression-mental-health-zimbabwe-africa-partner/index.html> \[Accessed 04 November 2019]. 
 
 <http://www.interactivearchitecture.org/fun-palace-cedric-price.html> \[Accessed 04 November 2019]. 
+
+<https://www.gu.org/> \[Accessed 04 November 2019]. 
 
 ### **Interviews**
 
