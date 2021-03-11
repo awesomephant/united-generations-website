@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Restore opens to the public during the Nine Elms Advent Trail 2020
-date: 2021-02-08T20:49:24.407Z
+date: 2020-12-21T20:49:24.407Z
 featured_image:
   image: /assets/uploads/restore.jpg
   alt: Restore hand painted glass window installation
