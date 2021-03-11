@@ -15,6 +15,7 @@ Barry Curtis (Central Saint Martins)<br>
 Rebecca Mckillip (Dalziel & Pow)<br>
 Brendan Commane (Helen Hamlyn Center)<br>
 Lucy Gallwey (Royal College of Art)<br>
+Julie Brown (City of London) <br>
 Graeme Brooker (Royal College of Art)<br>
 Vicky Richardson (Royal College of Art)<br>
 Jeremy Myerson (Helen Hamlyn Center)<br>
