@@ -48,9 +48,9 @@ TOY‑PLUS Consortium (2018) Together Old and Young – An Intergenerational App
 
 <https://equalarts.org.uk/our-work/henpower> \[Accessed 04 November 2019]. 
 
-<https://www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary/> \[Accessed 04 November 2019]. 
+<https://www.forbes.com/sites/nextavenue/2016/09/26/ intergenerational-programs-not-just-nice-but-necessary> \[Accessed 04 November 2019]. 
 
-<https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d> \[Accessed 16 January 2020]. 
+[https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d ](<https://www.forbes.com/sitesshourjyasanyal/2018/10/31/ how-is-ai-revolutionizing-elderly-care/#1bbec8abe07d>)\[Accessed 16 January 2020]. 
 
 <https://www.gu.org/> \[Accessed 04 November 2019]. 
 
