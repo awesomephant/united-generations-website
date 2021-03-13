@@ -48,7 +48,6 @@ collections:
       - name: "body"
         label: Content
         widget: markdown
-        editor_components: ["image"]
   - name: "events"
     label: "Events"
     preview_path: "/events/"
@@ -202,7 +201,6 @@ collections:
       - name: "body"
         label: Content
         widget: markdown
-        editor_components: ["image"]
   - name: "settings"
     label: "Settings"
     editor:
@@ -249,7 +247,6 @@ collections:
           - label: "Copy"
             name: "content"
             widget: "markdown"
-            editor_components: ["image"]
       - file: "_data/research.json"
         name: "research"
         label: "Research"

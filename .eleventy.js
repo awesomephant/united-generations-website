@@ -103,6 +103,15 @@ module.exports = function (eleventyConfig) {
 
     return `<div class="gallery" data-count="">${items.join("\n")}</div>`;
   });
+
+  eleventyConfig.addShortcode("embed", function (data) {
+    let embed = JSON.parse(decodeURIComponent(data));
+    return `<figure class="embed">
+      ${embed.code}
+      <figcaption>${embed.caption}</figcaption>
+    </figure>`;
+  });
+  
   eleventyConfig.addFilter("renderMarkdown", function (value) {
     return md.render(value);
   });
