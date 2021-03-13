@@ -10,7 +10,7 @@ introduction: The United Generations Work in Progress research is presented by
   platform created by Gianluca Alla to fight the stillness of the pandemic
   lockdown.
 ---
-The energetic talk focuses on the importance of a multigenerational world and the care of the older population in a fully sustainable community. After a brief introduction of the reasons why the projects started and the research about wellbeing in the late stage of life, Jenny and Adalberto engage in a back to back conversation which explains the pillars of The United Generations projects: from the Golden Lane Estate in London which hosts the project to the architectural, design and art development and the questions the author wishes to arise within the community. 
+The energetic talk focuses on the importance of a multigenerational world and the care of the older population in a fully sustainable community. After a brief introduction of the reasons why the projects started and the research about wellbeing in the late stage of life, [Studio Jenny Jones](https://studiojennyjones.com/) and Adalberto engage in a back to back conversation which explains the pillars of The United Generations projects: from the Golden Lane Estate in London which hosts the project to the architectural, design and art development and the questions the author wishes to arise within the community. 
 
 Watch the talk [here](https://www.instagram.com/tv/B-pYSPfFEY3/).
 
