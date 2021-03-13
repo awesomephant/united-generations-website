@@ -26,5 +26,3 @@ The unique drawings style presents strong symmetrical patterns and uplifting col
 
 The mural will be hand-painted on-site by the artist in late January 2021.<br>
 For more information visit [KCAW](https://www.kcaw.co.uk/mural-5-vote).
-
-{% embed "%7B%22code%22%3A%22%3Ciframe%20width%3D%5C%22560%5C%22%20height%3D%5C%22315%5C%22%20src%3D%5C%22https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2FnB50abqrrqs%5C%22%20frameborder%3D%5C%220%5C%22%20allow%3D%5C%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%5C%22%20allowfullscreen%3E%3C%2Fiframe%3E%22%2C%22caption%22%3A%22This%20is%20a%20test%20embed%22%7D" %}
