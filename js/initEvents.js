@@ -11,6 +11,10 @@ function initEvents() {
       eyebrow.insertAdjacentElement("beforeend", span)
       c.classList.add("is-upcoming")
     } else {
+      span.classList.add("past")
+      span.innerText = "Past"
+      eyebrow.insertAdjacentElement("beforeend", span)
+      c.classList.add("is-past")
     }
   })
 }
