@@ -40,12 +40,36 @@
 
 .card--eyebrow {
   font-size: var(--ms--1);
-  display: block;
   margin-bottom: 0.5em;
-  font-family: $mono;
+  font-family: $sans;
+  letter-spacing: .01em;
   text-transform: capitalize;
+  display: block;
+  span {
+    margin-right: .5em;
+  }
   .upcoming {
-    padding-left: 1em;
+    font-weight: bold;
+  }
+}
+.card--tags {
+  font-size: var(--ms--1);
+  margin-bottom: 0.5em;
+  font-family: $sans;
+  position: absolute;
+  z-index: 100;
+  top:  1em;
+  letter-spacing: .01em;
+  left: 1em;
+  text-transform: capitalize;
+  span {
+    border-radius: $br;
+    padding: .2em .4em;
+    background: white;
+    display: inline-block;
+    margin-right: .5em;
+  }
+  .upcoming {
     font-weight: bold;
   }
 }
@@ -84,7 +108,7 @@
   font-weight: 400;
   max-width: 50rem;
   line-height: 1.3;
-  margin-bottom: .5em;
+  margin-bottom: .25em;
   font-size: var(--ms-0);
 }
 
@@ -94,6 +118,7 @@
   padding-top: .5rem;
   justify-content: space-between;
   align-items: flex-end;
+  letter-spacing: .01em;
   .event--datum {
     padding-right: 2em;
   }

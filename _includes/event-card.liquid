@@ -1,13 +1,13 @@
 <li class="card event" data-tags="{{item.data.eyebrow | slug}}" data-date="{{item.data.date}}">
     <section class="event--copy">
-        {% if item.data.eyebrow %}
-        <span class="card--eyebrow">{{item.data.eyebrow}}</span>
-        {% endif %}
+        <p class="card--eyebrow">
+            {% if item.data.eyebrow %}
+            <span>{{item.data.eyebrow}}</span>
+            {% endif %}
+        </p>
         {% if item.data.featured_image.image and item.data.featured_image.image != "" %}
         <section class="card--image">
-            <a {% if item.data.link.url != "" %}href="{{item.data.link.url}}"{%endif%}
-            {% if size == "small" %}style="background-image: url({{item.data.featured_image.image}}?nf_resize=fit&w=800)"{% else %}
-            style="background-image: url({{item.data.featured_image.image}}?nf_resize=fit&w=1000)" {% endif %}>
+            <a {% if item.data.link.url !="" %}href="{{item.data.link.url}}" {%endif%} {% if size=="small" %}style="background-image: url({{item.data.featured_image.image}}?nf_resize=fit&w=800)" {% else %} style="background-image: url({{item.data.featured_image.image}}?nf_resize=fit&w=1000)" {% endif %}>
                 <span class="sr">
                     {{item.data.featured_image.alt}}
                 </span>
@@ -23,7 +23,12 @@
         <div class="card--data">
             <p class="event--datum">
                 <span>{{item.data.location}}</span>
-                <span>{{item.data.date | date: "%B %e, %Y"}}</span>
+                <span>
+                    {{item.data.date | date: "%B %e, %Y"}}
+                    {% if item.data.time %}
+                    {{item.data.time}}
+                    {% endif %}
+                </span>
             </p>
             {% if item.data.link.url != "" %}
             <a class="btn active" href="{{item.data.link.url}}">
