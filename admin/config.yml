@@ -68,6 +68,10 @@ collections:
       - name: "date"
         label: "Event date"
         widget: "date"
+      - name: "time"
+        label: "Event Time"
+        widget: "string"
+        required: false
       - name: "location"
         label: "Event location"
         widget: "string"
