@@ -2,6 +2,7 @@
 title: The United Generations on LIVE!
 eyebrow: Talk
 date: 2020-03-16T21:44:00.873Z
+time: 6:30 PM (GMT)
 location: LIVE! Online
 featured_image:
   image: /assets/uploads/live.jpg
