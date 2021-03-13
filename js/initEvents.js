@@ -1,5 +1,5 @@
 function initEvents() {
-  const cards = document.querySelectorAll(".events-list .event")
+  const cards = document.querySelectorAll(".events-list .event, .teasers .event")
   const now = new Date()
   cards.forEach(c => {
     const date = new Date(c.getAttribute("data-date"))
