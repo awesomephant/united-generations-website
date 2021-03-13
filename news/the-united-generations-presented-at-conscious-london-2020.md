@@ -14,7 +14,7 @@ The United Generations is presented during the 2020 [Conscious London (CCL)](htt
 
 ![Ecosystem screensaver on colorful gradients](/assets/uploads/ecosystems.jpg "Conscious London - Ecosystems, third session of three day festival")
 
-The third session of the Festival, Ecosystems, hosted The United Generations project, among other brilliant talks by international speakers including Mark Thomann (Director of wHY Landscape) and Jen Masengarb (Senior project manager at the Danish Architecture Centre). As Ecosystems talks about the relationships and synergy between micro and macro realities that positively affect people's lives, The United Generations represents how different systems can synchronize to create the arcadian world of tomorrow.
+The third session of the Festival, Ecosystems, hosted The United Generations project, among other brilliant talks by international speakers including Mark Thomann (Director of wHY Landscape) and Jen Masengarb (Senior project manager at the Danish Architecture Centre). As the Ecosystems session talks about the relationships and synergy between micro and macro realities that positively affect people's lives, The United Generations represents how different spaces can synchronize to create the arcadian world of tomorrow.
 
 ![Screenshot of online talk representing Adalberto talking about the influence of the Power of Ten by the Eams](/assets/uploads/consicous_talk.jpeg "Conscious London - Adalberto presenting the United Generations ")
 
