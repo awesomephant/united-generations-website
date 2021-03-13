@@ -10,7 +10,7 @@ introduction: Conscious London Festival 2020 invited The United Generations'
   three-day festival part of The Centre for Conscious Design, concerning the
   role of design to improve our cities.
 ---
-The United Generations is presented by Adalberto Lonardi during the 2020 [Conscious London (CCL)](https://theccd.org/domain/conscious-london/) Festival, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The festival brings together multidisciplinary speakers for an online cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities. 
+The United Generations is presented during the 2020 [Conscious London (CCL)](https://theccd.org/domain/conscious-london/) Festival, a chapter of the Conscious Cities Movement, part of [The Centre for Conscious Design (CCD)](https://theccd.org/). The festival brings together multidisciplinary speakers for an online cultural programme of talks, conversations, screenings and virtual visits to inspire and connect the science, design and creative communities. 
 
 ![Ecosystem screensaver on colorful gradients](/assets/uploads/ecosystems.jpg "Conscious London - Ecosystems, third session of three day festival")
 
