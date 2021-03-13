@@ -7,9 +7,9 @@ featured_image:
   alt: "The Arcadian Gardens: the Stables - Coloured pencil and oil stick on
     digital print (29.7 x 20 cm)"
 introduction: The United Generations is presented for the first time to the
-  public at the Royal College of Art 2020. The ambitious project by Adalberto
-  Lonardi, tutored by Studio Jenny Jones won the RCA School of Architecture
-  Spatial and Social Justice Prize.
+  public at the Royal College of Art Show 2020. The ambitious project by
+  Adalberto Lonardi, tutored by Studio Jenny Jones won the RCA School of
+  Architecture Spatial and Social Justice Prize.
 ---
 The United Generations proposes a new fulfilling vision to create a thriving community of all ages and celebrate the advantages of shared resources. Integrated solutions like harvesting, renewable energy, local production, and smart homes allow sustainable living to be a seamless part of everyday life.
 
