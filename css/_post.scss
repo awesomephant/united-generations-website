@@ -13,7 +13,7 @@
   padding-bottom: 4rem;
   max-width: 50rem;
   word-wrap: break-word;
-  letter-spacing: .01em;
+  letter-spacing: 0.01em;
   overflow-wrap: break-word;
   p {
     font-size: var(--ms-0);
@@ -32,8 +32,7 @@
     font-family: $mono;
     font-size: var(--ms--1);
     margin: 0 auto;
-    margin-top: -1.5em;
-    margin-bottom: 1em;
+    padding-top: .5em;
     line-height: 1.2;
     letter-spacing: 0.02em;
     display: block;
@@ -63,12 +62,11 @@
 
   img {
     width: 100%;
-    margin-top: 2em;
-    margin-bottom: 1.5em;
     border-radius: $br;
     border: $cardBorder;
   }
-  .hasimage {
+  .hasimage, .embed {
+    margin-top: 2em;
     margin-bottom: 1.5em;
   }
 }
@@ -100,6 +98,18 @@
   line-height: 1.15;
   @include bp(m) {
     margin-bottom: 2em;
+  }
+}
+
+.embed {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  iframe {
+    display: block;
+    width: 100%;
+    border-radius: $br;
+    overflow: hidden;
   }
 }
 
