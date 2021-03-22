@@ -4,7 +4,7 @@ eyebrow: Workshop
 date: 2020-12-22T18:49:47.035Z
 location: Katherine Low Settlement Online
 featured_image:
-  image: /assets/uploads/drawing03.jpg
+  image: /assets/uploads/drawin0.jpg
   alt: Two black lines continuous drawings of a human face
 introduction: Drawing for Wellbeing is a series of creative workshops developed
   by Adalberto Lonardi in collaboration with Katherine Low Settlement for
