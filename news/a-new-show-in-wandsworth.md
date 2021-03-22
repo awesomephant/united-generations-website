@@ -4,7 +4,7 @@ title: Drawing for Wellbeing series launches in collaboration with Katherine Low
   Settlement
 date: 2020-12-14T21:26:45.658Z
 featured_image:
-  image: /assets/uploads/kls-drawing-04.jpg
+  image: /assets/uploads/drawing05.jpg
   alt: apple and leaf in golden bowl pencil drawing
 introduction: A series of creative workshops for everyone who wants to practice
   drawing in a safe and inclusive space. The digital laboratories, organized by
