@@ -16,7 +16,7 @@ Katherine Low Settlement collaborated closely with artist and designer Adalberto
 
 *"I share what we do with my family they now ask what I’ve been doing, it adds interest to our conversations and the extended family... I told them I’m having the opportunity to learn from a real artist. Everyone is benefiting! They look forward to hearing from me."* Workshop Member
 
-![](/assets/uploads/drawing.jpg "Drawing for Wellbeing - ")
+![Black lines drawing of a human face executed blindfolded and added colours](/assets/uploads/drawing.jpg "Drawing for Wellbeing - Blindfolded black lines and pstaels drawing")
 
 The energetic drawing session starts with a moment of mindfulness, followed by a series of quick and dynamic exercises aimed to warm up the hand muscles and activate the human brain's creative left side. The drawing techniques are introduced with an Art Quiz that engages the participants to guess artists based on their signature drawing styles. The laboratory ends with a longer live exercise where the audience is invited to follow Adalberto's steps, which guide step by step the participants through the representation of an object, focusing more on the process and observation rather than the final outcome.
 
