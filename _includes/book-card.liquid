@@ -18,7 +18,7 @@
         {{book.data.intro}}
     </div>
     <div class="card--data">
-        {% if book.data.link %}
+        {% if book.data.link and book.data.link.url != "" %}
         <a class="btn active" href="{{book.data.link.url}}">
             {{book.data.link.text}}
         </a>
