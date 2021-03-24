@@ -7,7 +7,7 @@ featured_image:
   image: /assets/uploads/drawing05.jpg
   alt: colored pencil drawing of Giorgio Morandi “Natura morta con tavolo”
 introduction: Drawing for Wellbeing is a series of creative workshops developed
-  with Katherine Low Settlement for everyone who wants to draw in a safe and
-  inclusive space. This workshop focuses on the reproduction of Masters'
-  paintings with a focus on light and shadow.
+  with Katherine Low Settlement for all ages and backgrounds. This workshop
+  focuses on the reproduction of Masters' paintings with a focus on light and
+  shadow.
 ---
