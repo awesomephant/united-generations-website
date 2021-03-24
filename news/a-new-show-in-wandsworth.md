@@ -22,7 +22,7 @@ The energetic drawing session starts with a moment of mindfulness, followed by a
 
 ![](/assets/uploads/kls_drawing)
 
-For many older participants, venturing on a digital platform such as Zoom, to engage with other members is a big technological challenge yet an inspiring step towards confidence and independence. This is part of the digital inclusion program that Katherine Low Settlement is developing and putting into action since the 2020 pandemic started. The program 
+For many older participants, venturing on a digital platform such as Zoom, to engage with other members is a big technological challenge yet an inspiring step towards confidence and independence. This is part of the digital inclusion program that Katherine Low Settlement is developing and putting into action since the 2020 pandemic. The program aims to create human connections through technology and art and advocate the power of elders as new learners of technology with the right tools and support.
 
 *"I’m thoroughly enjoying it. I showed my family my pictures. I can’t believe I could do this... I could be watching tv but instead I’m watching a real artist showing me what to do and learning. I didn’t imagine zoom could be that good when you suggested I learnt to zoom! It’s amazing."* Workshop Member 
 
