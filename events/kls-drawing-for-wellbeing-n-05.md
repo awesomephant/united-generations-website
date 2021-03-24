@@ -9,4 +9,7 @@ featured_image:
 introduction: Drawing for Wellbeing is a series of creative workshops developed
   with Katherine Low Settlement for all ages and backgrounds. This workshop
   focuses on interactive exercises to study light and shadow.
+link:
+  url: kerry@klsettlement.org.uk
+  text: Join
 ---
