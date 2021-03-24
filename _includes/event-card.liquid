@@ -30,7 +30,7 @@
                     {% endif %}
                 </span>
             </p>
-            {% if item.data.link.url != "" %}
+            {% if item.data.link.url and item.data.link.url != "" %}
             <a class="btn active" href="{{item.data.link.url}}">
                 {{item.data.link.text}}
             </a>
