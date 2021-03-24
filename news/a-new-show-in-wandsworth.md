@@ -30,4 +30,4 @@ For many older participants, venturing on a digital platform such as Zoom, to en
 
 ![colored pencil drawing of Giorgio Morandi “Natura morta con tavolo”](/assets/uploads/drawing_morandi.jpg "Drawing for Wellbeing - Pencil drawing of Giorgio Morandi “Natura morta con tavolo”")
 
-To join the workshop, please contact [Kerry Hagger (KLS elders team)](<mailto: kerry@klsettlement.org.uk>).
+To join the workshop, please contact [Kerry Hagger (KLS elders team)](mailto:kerry@klsettlement.org.uk).
