@@ -17,3 +17,5 @@ The hug is the gesture that perhaps we miss the most—the embrace with our fami
 Thanks to the use of digital software capable of reproducing hand-painting techniques, the two panels represent the 'do mori' (Two Moors), a materialization of the past and the future, reconciling with the two emblems of Venice and the Republic of the Serenissima: the winged lion and the water. The first as a symbol of rebirth of the city's majesty and power but also of inner spiritual strength. The second, inspired by the doge's marriage to the waters of the lagoon, as a metaphor of reconciliation with nature that enriches and at the same time afflicts the foundations of the city.
 
 Mystical and universal, the two paintings of The Reconciliation bring harmony and relief to the streets of Venice by representing the impossible that becomes reality.
+
+![Colorful representation an old man hugging a golden winged lion framed](/assets/uploads/image00002.jpg "La Riconciliazione – The old and the winged lion")
