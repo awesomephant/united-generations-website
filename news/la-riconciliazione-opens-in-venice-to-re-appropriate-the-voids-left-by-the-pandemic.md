@@ -1,16 +1,14 @@
 ---
 layout: post
-title: La Riconciliazione opens in Venice to reappropriate of the voids left by
-  the pandemic
+title: La Riconciliazione opens in Venice to fill the voids left by the pandemic
 date: 2021-04-09T19:41:17.025Z
 featured_image:
   image: /assets/uploads/image00004.jpg
   alt: Colorful representation an old man hugging a golden winged lion framed
 introduction: The site-specific artwork speaks about the importance of the
-  relationship between Venice and its local communities. The old and young
-  residents reunite to embrace the origins of their city. The artwork is part of
-  a larger movement to fill the shops' empty windows in a lagoon without
-  tourists.
+  relationship between Venice and its local community. The old and young
+  residents symbolically reunite to embrace the origins of their city and fill
+  the shops' empty windows in the lagoon.
 ---
 La Riconciliazione (the Reconciliation) by RCA alumni Adalberto Lonardi, is now open at @buso.ve in Calle de le Botteghe 3449/c, San Marco which aims to bring a ray of hope and re-appropriate the voids left after the pandemic.
 
