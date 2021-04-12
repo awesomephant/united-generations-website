@@ -7,8 +7,8 @@ featured_image:
   alt: Colorful representation an old man hugging a golden winged lion framed
 introduction: The site-specific artwork speaks about the importance of the
   relationship between Venice and its local community. The old and young
-  residents symbolically reunite to embrace the origins of their city and fill
-  the shops' empty windows in the lagoon.
+  residents symbolically reunite to embrace the city's origins and fill the
+  lagoon shop's empty windows.
 ---
 La Riconciliazione (the Reconciliation) by RCA alumni Adalberto Lonardi, is now open at @buso.ve in Calle de le Botteghe 3449/c, San Marco which aims to bring a ray of hope and re-appropriate the voids left after the pandemic.
 
