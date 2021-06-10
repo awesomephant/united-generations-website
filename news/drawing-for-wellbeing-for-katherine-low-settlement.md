@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drawing for Wellbeing for Katherine Low Settlement continues...
+title: Drawing for Wellbeing for Katherine Low Settlement
 date: 2021-06-10T17:26:40.319Z
 featured_image:
   image: /assets/uploads/kls_drawings4.jpg
