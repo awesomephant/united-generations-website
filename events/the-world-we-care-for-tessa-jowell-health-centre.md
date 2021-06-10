@@ -1,7 +1,7 @@
 ---
 title: The World We Care for Tessa Jowell Health Centre
 eyebrow: Exhibition
-date: 2021-05-11T18:11:47.547Z
+date: 2021-05-07T18:11:47.547Z
 location: Tessa Jowell Health Centre
 featured_image:
   image: /assets/uploads/tjc_ground-floor_v1-2.jpg
