@@ -6,12 +6,11 @@ location: Tessa Jowell Health Centre
 featured_image:
   image: /assets/uploads/tjc_ground-floor_v1-2.jpg
   alt: Colorful artwork on glass balustrade of health centre
-introduction: The World We Care has been shortlisted
-  for [](https://www.instagram.com/dulwichgallery/)the new artwork at the Tessa
-  Jowell Health Centre in collaboration with Dulwich Picture Gallery. The World
-  We Care acts as a visual manifesto about what wellbeing, care and healing mean
-  in our community today.
+introduction: The World We Care has been shortlisted for the new artwork at the
+  Tessa Jowell Health Centre in collaboration with Dulwich Picture Gallery. The
+  co-designed piece acts as a manifesto of what wellbeing, care and healing mean
+  in the community today.
 link:
-  url: https://adalbertolonardi.com/projects/the-world-we-care/
-  text: Discover more
+  url: ""
+  text: ""
 ---
