@@ -9,7 +9,7 @@
     "build:eleventy": "npx @11ty/eleventy",
     "build": "run-s 'build:*'",
     "watch:webpack": "webpack --watch --mode development",
-    "watch:sass": "sass ./sass/style.scss ./_site/css/style.css --watch",
+    "watch:sass": "sass ./css/style.scss ./_site/css/style.css --watch",
     "watch:eleventy": "npx @11ty/eleventy --serve --quiet",
     "start": "cross-env NODE_ENV=dev run-p 'watch:*'"
   },
