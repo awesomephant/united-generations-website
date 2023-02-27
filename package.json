@@ -18,17 +18,18 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
-    "jsdom": "^19.0.0",
-    "netlify-cms-app": "^2.15.72",
     "@ncwidgets/reorder": "^0.8.0",
     "cross-env": "^7.0.3",
+    "jsdom": "^19.0.0",
+    "netlify-cms-app": "^2.15.72",
     "npm-run-all": "^4.1.5",
+    "sass": "^1.50.1",
     "text-balancer": "^1.0.5",
     "webpack": "^5.72.0",
-    "webpack-cli": "^4.9.2",
-    "sass": "^1.50.1"
+    "webpack-cli": "^4.9.2"
   },
   "devDependencies": {
     "imports-loader": "^3.1.1"
-  }
+  },
+  "packageManager": "yarn@3.4.1"
 }

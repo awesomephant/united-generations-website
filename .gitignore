@@ -5,3 +5,4 @@ documentation/
 *.psd
 # Local Netlify folder
 .netlify
+.yarn
