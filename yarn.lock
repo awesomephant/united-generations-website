@@ -600,9 +600,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ncwidgets/reorder@npm:^0.8.0":
-  version: 0.8.0
-  resolution: "@ncwidgets/reorder@npm:0.8.0"
+"@ncwidgets/reorder@npm:^0.9.0":
+  version: 0.9.0
+  resolution: "@ncwidgets/reorder@npm:0.9.0"
   dependencies:
     "@emotion/core": ^10.0.16
     "@emotion/styled": ^10.0.15
@@ -612,7 +612,7 @@ __metadata:
   peerDependencies:
     react: ^16.8.6
     react-dom: ^16.8.6
-  checksum: 4dfa9841147406efb8ee4217758bebbb38942dd339c21162c746af46954b3b50737a24064a5a03f5fbbf624efa21cec04a9b766554fdf23dee68fa2885f34085
+  checksum: aecae5056abf5fbcee99de056cbd0c575e1db3401370f83ac00de95123dd0e238680cc5cf2ba59b681f65f70aa8b68166d565c34a63a6e1416bee1d85cdc23be
   languageName: node
   linkType: hard
 
@@ -8314,7 +8314,7 @@ __metadata:
   dependencies:
     "@11ty/eleventy": ^2.0.0
     "@11ty/eleventy-plugin-rss": ^1.1.2
-    "@ncwidgets/reorder": ^0.8.0
+    "@ncwidgets/reorder": ^0.9.0
     cross-env: ^7.0.3
     imports-loader: ^3.1.1
     jsdom: ^19.0.0
