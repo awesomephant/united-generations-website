@@ -1,10 +1,9 @@
 <li class="card book-card">
-    <span class="card--eyebrow">{{book.data.date | date: "%Y"}}</span>
-    {% if book.data.featured_image.image and book.data.featured_image.image != "" %}
+    {{item.data.title }}
+    <span class="card--eyebrow">{{item.data.date | date: "%Y"}}</span>
+    {% if item.data.featured_image.image and item.data.featured_image.image != "" %}
     <section class="card--image">
-        <a {% if book.data.link.url !="" %}href="{{book.data.link.url}}" {%endif%}
-        {% if size == "small" %}style="background-image: url({{book.data.featured_image.image}}?nf_resize=fit&w=800)"{% else %}
-        style="background-image: url({{book.data.featured_image.image}}?nf_resize=fit&w=1000)" {% endif %}>
+        <a {% if item.data.link.url !="" %}href="{{item.data.link.url}}" {%endif%} {% if size == "small" %}style="background-image: url({{item.data.featured_image.image}}?nf_resize=fit&w=800)" {% else %} style="background-image: url({{item.data.featured_image.image}}?nf_resize=fit&w=1000)" {% endif %}>
             <span class="sr">
                 {{item.data.featured_image.alt}}
             </span>
@@ -12,15 +11,15 @@
     </section>
     {% endif %}
     <h2 class="card--title">
-        {{book.data.title}}
+        {{item.data.title}}
     </h2>
     <div class="card--copy">
-        {{book.data.intro}}
+        {{item.data.intro}}
     </div>
     <div class="card--data">
-        {% if book.data.link and book.data.link.url != "" %}
-        <a class="btn active" href="{{book.data.link.url}}">
-            {{book.data.link.text}}
+        {% if item.data.link and item.data.link.url != "" %}
+        <a class="btn active" href="{{item.data.link.url}}">
+            {{item.data.link.text}}
         </a>
         {% endif %}
     </div>

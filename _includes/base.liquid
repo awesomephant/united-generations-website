@@ -2,20 +2,20 @@
 <html lang="en">
 
 <head>
-  {% include meta.liquid %}
+  {% include "meta.liquid" %}
   <link rel="stylesheet" href=" {{'/css/style.css' | url}}">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body class='{{class}}'>
   {% unless class == "home"%}
-  {% include header.liquid %}
+  {% include "header.liquid" %}
   {% endunless %}
-  {{ content | safe }}
+  {{ content }}
   <footer class="site-footer">
     <nav class="footer-nav">
       {% for item in settings.footer_menu %}
-    <a href="{{item.url}}" {% if item.target == true%}target="_blank"{% endif %}>{{item.title}}</a>
+      <a href="{{item.url}}" {% if item.target == true%}target="_blank" {% endif %}>{{item.title}}</a>
       {% endfor %}
     </nav>
     © {{"now" | date: "%Y"}} The United Generations

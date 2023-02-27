@@ -10,6 +10,6 @@ class: news
 
 <ul class="news-list">
     {% for item in collections.news %}
-    {% include news-card.liquid with {item: item%}
+    {% include "news-card.liquid" with {item: item%}
     {% endfor %}
 </ul>
