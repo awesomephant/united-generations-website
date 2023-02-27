@@ -7,6 +7,7 @@
   "scripts": {
     "build:webpack": "webpack --mode production",
     "build:eleventy": "npx @11ty/eleventy",
+    "build:sass": "sass ./css/style.scss ./_site/css/style.css",
     "build": "run-s 'build:*'",
     "watch:webpack": "webpack --watch --mode development",
     "watch:sass": "sass ./css/style.scss ./_site/css/style.css --watch",
