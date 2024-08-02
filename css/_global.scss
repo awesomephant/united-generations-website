@@ -29,11 +29,10 @@ body {
   width: 100vw;
   color: $black;
   padding-top: 4rem;
+  --bg: #{$lightgray};
   @include bp(m){
     padding-top: calc(var(--ms-0) * 6);
   }
-  --bg: #{$lightgray};
-
   &.news,
   &.post {
     background: $red;

@@ -11,19 +11,18 @@
     font-size: var(--ms-1);
   }
   .card--image {
+    margin-bottom: 1rem;
     @include bp(m){
       width: 60%;
       padding-top: 40%;
     }
-    margin-bottom: 1rem;
   }
   .card--title {
     font-size: var(--ms-1);
+    margin-bottom: 0.1em;
     @include bp(m){
       font-size: var(--ms-2);
     }
-    margin-bottom: 0.1em;
-
   }
 }
 

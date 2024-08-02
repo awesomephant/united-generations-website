@@ -7,14 +7,14 @@
 }
 .post--content {
   grid-column: 1 / 13;
-  @include bp(m) {
-    grid-column: 5 / 12;
-  }
   padding-bottom: 4rem;
   max-width: 50rem;
   word-wrap: break-word;
   letter-spacing: 0.01em;
   overflow-wrap: break-word;
+  @include bp(m) {
+    grid-column: 5 / 12;
+  }
   p {
     font-size: var(--ms-0);
     margin-bottom: 0.5em;
