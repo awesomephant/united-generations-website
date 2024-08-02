@@ -5,6 +5,7 @@ const jsdom = require("jsdom")
 const { JSDOM } = jsdom
 
 module.exports = function (eleventyConfig) {
+	eleventyConfig.setFreezeReservedData(false)
   eleventyConfig.addGlobalData("env", process.NODE_ENV)
   eleventyConfig.addCollection("events", function (collectionApi) {
     let items = collectionApi.getFilteredByGlob(["./events/*.md"])
