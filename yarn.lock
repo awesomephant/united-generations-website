@@ -7130,13 +7130,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regenerator-runtime@npm:^0.13.4":
-  version: 0.13.7
-  resolution: "regenerator-runtime@npm:0.13.7"
-  checksum: 52b66e6669152c0b1bccd95c8e11aabbfe67bb97bdf00e223bdf723b0f0052d4da5c02001d4c4bef576bdc5bcdc38a20496d1b5363b65c950c8434ed5071d9e0
-  languageName: node
-  linkType: hard
-
 "rehype-minify-whitespace@npm:^4.0.3":
   version: 4.0.5
   resolution: "rehype-minify-whitespace@npm:4.0.5"
@@ -7472,9 +7465,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.87.0":
-  version: 1.87.0
-  resolution: "sass@npm:1.87.0"
+"sass@npm:^1.89.1":
+  version: 1.89.1
+  resolution: "sass@npm:1.89.1"
   dependencies:
     "@parcel/watcher": ^2.4.1
     chokidar: ^4.0.0
@@ -7485,7 +7478,7 @@ __metadata:
       optional: true
   bin:
     sass: sass.js
-  checksum: 83d166fc6f03ed679460c21351c783d57a61c32fe1afdacf647ce477dd5611f03b1cff27444cccd59d3a5bd1453471fbbcdba7b9e7fc510e4f57226e125e4e01
+  checksum: 06d31bffc5491e621011f0c68de7be1e3f26dedeb478498b826eae43d66eb714c1a5619fabc95a8b7cf5955abad82484d07b3c94d06386a96b562ed5d52090e9
   languageName: node
   linkType: hard
 
@@ -8652,7 +8645,7 @@ __metadata:
     jsdom: ^26.1.0
     netlify-cms-app: ^2.15.72
     npm-run-all: ^4.1.5
-    sass: ^1.87.0
+    sass: ^1.89.1
     text-balancer: ^1.0.5
     webpack: ^5.99.7
     webpack-cli: ^6.0.1
