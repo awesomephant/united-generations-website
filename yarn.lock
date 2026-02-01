@@ -7115,9 +7115,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.97.1":
-  version: 1.97.1
-  resolution: "sass@npm:1.97.1"
+"sass@npm:^1.97.3":
+  version: 1.97.3
+  resolution: "sass@npm:1.97.3"
   dependencies:
     "@parcel/watcher": ^2.4.1
     chokidar: ^4.0.0
@@ -7128,7 +7128,7 @@ __metadata:
       optional: true
   bin:
     sass: sass.js
-  checksum: 71797cb97197ae2b015f2ab9d83d7f49c15c1a75e9c87013607d2d11ee9d23c29d6c09217db35fee56cb193e7cd54d79287cc5f7f6da6e7e346127e055c96404
+  checksum: 781c1c8179453b048f0cb9f5e3b89ded34727ddc8203fbe9b630fe266dac6c001d497eaba9eeadf701eeb55c86d8e23c609732c9cc95f88815554561d26733ef
   languageName: node
   linkType: hard
 
@@ -8269,7 +8269,7 @@ __metadata:
     jsdom: ^26.1.0
     netlify-cms-app: ^2.15.72
     npm-run-all: ^4.1.5
-    sass: ^1.97.1
+    sass: ^1.97.3
     text-balancer: ^1.0.5
     webpack: ^5.104.1
     webpack-cli: ^6.0.1
