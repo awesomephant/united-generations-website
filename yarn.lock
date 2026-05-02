@@ -59,22 +59,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@11ty/eleventy-plugin-rss@npm:^2.0.4":
-  version: 2.0.4
-  resolution: "@11ty/eleventy-plugin-rss@npm:2.0.4"
+"@11ty/eleventy-plugin-rss@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "@11ty/eleventy-plugin-rss@npm:3.0.0"
   dependencies:
-    "@11ty/eleventy-utils": ^2.0.0
-    "@11ty/posthtml-urls": ^1.0.1
-    debug: ^4.4.0
-    posthtml: ^0.16.6
-  checksum: 922e6b0a4ff78761169ad78c4252d8dd384b685785546759107ac329b7b6a42557d868adf61b33e9fb21832077ce71383d147a44402135e530f0e07efdc8e885
-  languageName: node
-  linkType: hard
-
-"@11ty/eleventy-utils@npm:^2.0.0":
-  version: 2.0.1
-  resolution: "@11ty/eleventy-utils@npm:2.0.1"
-  checksum: 7a6880cc3f80d47c9414385ad13ab8e5765cbaf0425b0a80a71b93d557997dc615973390a9151cb5bc2ca7ca17be2b23a999831b9218534bbd04ce154e9532df
+    "@11ty/eleventy-utils": ^2.0.7
+    "@11ty/posthtml-urls": ^1.0.2
+    debug: ^4.4.3
+    posthtml: ^0.16.7
+  checksum: 292802aa9f9ebcba788c562d650187ee61fbdf1511a1d66839288817d44d0477ac000fea195c2a12448d81460dbb5b897042051ff6d81de662e633b41ac65e1f
   languageName: node
   linkType: hard
 
@@ -132,18 +125,6 @@ __metadata:
   version: 4.17.21
   resolution: "@11ty/lodash-custom@npm:4.17.21"
   checksum: 531c399d65b36ed89dbdb0680250ca1231a156dba8f2885cd97c65b42c8d0a5882431b8e04f73a04fb73cb357f8086747e249d4252bebef244a02403c2c5c32d
-  languageName: node
-  linkType: hard
-
-"@11ty/posthtml-urls@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "@11ty/posthtml-urls@npm:1.0.1"
-  dependencies:
-    evaluate-value: ^2.0.0
-    http-equiv-refresh: ^2.0.1
-    list-to-array: ^1.1.0
-    parse-srcset: ^1.0.2
-  checksum: 2c63f9079769e8a6e8bd20004f5c41e6ac279117ec79a22e1684a090b767cc915a7224755c0ad07d3d007141bb1edae787008df89feebb1598c2b5d4676464f4
   languageName: node
   linkType: hard
 
@@ -5962,16 +5943,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"posthtml@npm:^0.16.6":
-  version: 0.16.6
-  resolution: "posthtml@npm:0.16.6"
-  dependencies:
-    posthtml-parser: ^0.11.0
-    posthtml-render: ^3.0.0
-  checksum: 8b9b9d27bd2417d6b5b7d408000b23316c3c4d2a2d0ea62080a8fbec5654cc7376ea9d6317b290c030d616142144a8ca0a96ffe1e919493e3eac17442d362596
-  languageName: node
-  linkType: hard
-
 "posthtml@npm:^0.16.7":
   version: 0.16.7
   resolution: "posthtml@npm:0.16.7"
@@ -8161,7 +8132,7 @@ __metadata:
   resolution: "united-generations@workspace:."
   dependencies:
     "@11ty/eleventy": ^3.1.5
-    "@11ty/eleventy-plugin-rss": ^2.0.4
+    "@11ty/eleventy-plugin-rss": ^3.0.0
     "@ncwidgets/reorder": ^0.9.0
     cross-env: ^10.1.0
     imports-loader: ^5.0.0
