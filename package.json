@@ -27,7 +27,7 @@
     "sass": "^1.99.0",
     "text-balancer": "^1.0.5",
     "webpack": "^5.106.2",
-    "webpack-cli": "^7.0.2"
+    "webpack-cli": "^7.0.3"
   },
   "devDependencies": {
     "imports-loader": "^5.0.0"
